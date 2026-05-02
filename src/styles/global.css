@@ -549,10 +549,29 @@ a.post-card:hover h2 { color: var(--accent); }
 /* ── Responsive ─────────────────────────────────────────────────────── */
 @media (max-width: 640px) {
   main { padding: 2rem 1rem 3rem; }
-  .site-header { margin: 0.5rem 0.5rem 0; border-radius: var(--radius-md); }
-  .site-header-inner { padding: 0.6rem 0.8rem; }
-  .site-nav a { padding: 0.35rem 0.55rem; font-size: 0.88rem; }
+  .site-header { margin: 0.4rem 0.4rem 0; border-radius: var(--radius-md); }
+  .site-header-inner { padding: 0.45rem 0.55rem; gap: 0.4rem; flex-wrap: nowrap; }
+  .site-nav { gap: 0.1rem; }
+  .site-nav a { padding: 0.3rem 0.5rem; font-size: 0.85rem; }
+  .site-wordmark-sub { display: none; }
+  /* On the home page, the wordmark is already visually hidden — also
+     remove it from flow AND shrink the header pill to hug the nav on
+     the right, instead of stretching full-width with empty space. */
+  .is-home .site-wordmark { display: none; }
+  .is-home .site-header { width: max-content; margin-left: auto; max-width: calc(100% - 0.8rem); }
+  .is-home.scrolled .site-header { width: auto; margin-left: 0.4rem; }
+  .is-home.scrolled .site-wordmark { display: inline-flex; }
+  .lang-switch { padding: 0.22rem 0.45rem; font-size: 0.78rem; }
+  .theme-toggle { width: 32px; height: 32px; margin-left: 0.15rem; }
   h1 { font-size: clamp(1.6rem, 6vw, 2.2rem); }
+}
+
+@media (max-width: 400px) {
+  .site-header-inner { padding: 0.4rem 0.45rem; gap: 0.25rem; }
+  .site-nav { gap: 0; }
+  .site-nav a { padding: 0.28rem 0.38rem; font-size: 0.8rem; }
+  .lang-switch { padding: 0.2rem 0.38rem; font-size: 0.72rem; gap: 0.2rem; }
+  .theme-toggle { width: 30px; height: 30px; margin-left: 0.1rem; }
 }
 
 /* ── Hero (home-only dominant header) ───────────────────────────────── */
