@@ -1,0 +1,54 @@
+---
+import { getCollection, render, type CollectionEntry } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { postLang, postSlug, findTranslation } from '../../i18n/posts';
+import { UI, formatDate } from '../../i18n/ui';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog', ({ data }) => !data.draft);
+  return posts
+    .filter((p) => postLang(p) === 'en')
+    .map((post) => ({
+      params: { slug: postSlug(post) },
+      props: { post },
+    }));
+}
+
+const lang = 'en' as const;
+const t = UI[lang];
+const { post } = Astro.props as { post: CollectionEntry<'blog'> };
+const { Content } = await render(post);
+
+const zhCounterpart = await findTranslation(post, 'zh');
+const altLangPath = zhCounterpart ? `/zh/posts/${postSlug(post)}/` : '/zh/';
+
+const readingTime = (() => {
+  const words = post.body?.trim().split(/\s+/).length ?? 0;
+  return Math.max(1, Math.round(words / 220));
+})();
+---
+
+<BaseLayout title={post.data.title} description={post.data.description} isPost={true} lang={lang} altLangPath={altLangPath}>
+  <article>
+    <header class="post-header">
+      <h1>{post.data.title}</h1>
+      <span class="post-meta">
+        <time datetime={post.data.pubDate.toISOString()}>{formatDate(post.data.pubDate, lang)}</time>
+        {' · '}{t.readingTime(readingTime)}
+        {post.data.updatedDate && (
+          <> {' · '}{t.updatedPrefix}{' '}<time datetime={post.data.updatedDate.toISOString()}>{formatDate(post.data.updatedDate, lang)}</time></>
+        )}
+      </span>
+      {post.data.tags.length > 0 && (
+        <div class="tags">
+          {post.data.tags.map((tag: string) => (
+            <a class="tag" href={`/tags/${tag}/`}>#{tag}</a>
+          ))}
+        </div>
+      )}
+    </header>
+    <div class="post-body">
+      <Content />
+    </div>
+  </article>
+</BaseLayout>

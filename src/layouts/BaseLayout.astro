@@ -1,20 +1,43 @@
 ---
 import '../styles/global.css';
-import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
+import { UI, LANGUAGES, langFromPath, localeUrl, type Lang } from '../i18n/ui';
 
 interface Props {
   title?: string;
   description?: string;
   isPost?: boolean;
+  lang?: Lang;
+  /** Optional absolute/relative path to the same page in the OTHER locale. */
+  altLangPath?: string;
 }
 
-const { title, description = SITE_DESCRIPTION, isPost = false } = Astro.props;
-const pageTitle = title ? `${title} — ${SITE_TITLE}` : SITE_TITLE;
-const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+const pathname = Astro.url.pathname;
+const lang: Lang = Astro.props.lang ?? langFromPath(pathname);
+const t = UI[lang];
+const otherLang: Lang = lang === 'en' ? 'zh' : 'en';
+
+const { title, description = t.siteTagline, isPost = false, altLangPath } = Astro.props;
+const pageTitle = title ? `${title} — ${t.siteTitle}` : t.siteTitle;
+const canonicalURL = new URL(pathname, Astro.site);
+
+// Default altLangPath: toggle /zh prefix on current path.
+const computedAltPath = (() => {
+  if (altLangPath) return altLangPath;
+  if (lang === 'en') return pathname === '/' ? '/zh/' : `/zh${pathname}`;
+  // lang === 'zh'
+  if (pathname === '/zh' || pathname === '/zh/') return '/';
+  return pathname.replace(/^\/zh/, '') || '/';
+})();
+
+// Year for footer
+const year = new Date().getFullYear();
+
+// Is this the home page? Used to render the big hero.
+const isHome = pathname === '/' || pathname === '/zh/' || pathname === '/zh';
 ---
 
 <!doctype html>
-<html lang="en">
+<html lang={LANGUAGES[lang].htmlLang}>
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,29 +45,27 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   <title>{pageTitle}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonicalURL} />
+  <link rel="alternate" hreflang="en" href={new URL(lang === 'en' ? pathname : computedAltPath, Astro.site)} />
+  <link rel="alternate" hreflang="zh-HK" href={new URL(lang === 'zh' ? pathname : computedAltPath, Astro.site)} />
+  <link rel="alternate" hreflang="x-default" href={new URL('/', Astro.site)} />
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-  <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href="/rss.xml" />
+  <link rel="alternate" type="application/rss+xml" title={`${t.siteTitle} (EN)`} href="/rss.xml" />
+  <link rel="alternate" type="application/rss+xml" title={`${t.siteTitle} (粵)`} href="/zh/rss.xml" />
   <meta property="og:title" content={pageTitle} />
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
   <meta property="og:url" content={canonicalURL} />
+  <meta property="og:locale" content={lang === 'zh' ? 'zh_HK' : 'en_US'} />
 
-  <!-- Meta theme-color (updated by toggle JS) -->
   <meta name="theme-color" content="#07080b" id="meta-theme-color" />
 
-  <!-- Fonts: Inter (UI/mono) + Fraunces (serif) + JetBrains Mono -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link
-    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=JetBrains+Mono:wght@400;500&display=swap"
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700;9..144,800;9..144,900&family=JetBrains+Mono:wght@400;500&family=Noto+Serif+HK:wght@400;500;600;700;800;900&display=swap"
     rel="stylesheet"
   />
 
-  <!--
-    FOUC-preventing theme init.
-    Reads saved preference → falls back to system preference → writes data-theme
-    BEFORE paint so we never see a flash of the wrong theme.
-  -->
   <script is:inline>
     (function () {
       try {
@@ -60,30 +81,44 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     })();
   </script>
 </head>
-<body>
+<body class:list={[`lang-${lang}`, isHome && 'is-home']}>
   {isPost && <div id="reading-progress" aria-hidden="true"></div>}
 
-  <header class="site-header">
+  <header class:list={['site-header', isHome && 'site-header--hero']}>
     <div class="site-header-inner">
-      <a href="/" class="site-title">{SITE_TITLE}</a>
+      <a href={lang === 'zh' ? '/zh/' : '/'} class="site-wordmark" aria-label={t.siteTitle}>
+        <span class="site-wordmark-text">{t.siteTitle}</span>
+        <span class="site-wordmark-sub">{t.siteSubtitle}</span>
+      </a>
       <nav class="site-nav" aria-label="Primary">
-        <a href="/">Posts</a>
-        <a href="/about/">About</a>
-        <a href="/rss.xml">RSS</a>
+        <a href={lang === 'zh' ? '/zh/' : '/'}>{t.navPosts}</a>
+        <a href={lang === 'zh' ? '/zh/about/' : '/about/'}>{t.navAbout}</a>
+        <a href={lang === 'zh' ? '/zh/rss.xml' : '/rss.xml'}>{t.navRss}</a>
+
+        <a
+          class="lang-switch"
+          href={computedAltPath}
+          aria-label={t.toggleLang}
+          title={t.toggleLang}
+          data-current-lang={lang}
+        >
+          <span class:list={['lang-opt', lang === 'en' && 'active']}>EN</span>
+          <span class="lang-sep">·</span>
+          <span class:list={['lang-opt', lang === 'zh' && 'active']}>粵</span>
+        </a>
+
         <button
           id="theme-toggle"
           class="theme-toggle"
           type="button"
-          aria-label="Toggle theme"
-          title="Toggle theme"
+          aria-label={t.toggleTheme}
+          title={t.toggleTheme}
         >
-          <!-- Moon (shown in dark mode) -->
           <svg class="icon-moon" viewBox="0 0 24 24" fill="none"
             stroke="currentColor" stroke-width="2" stroke-linecap="round"
             stroke-linejoin="round" aria-hidden="true">
             <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
           </svg>
-          <!-- Sun (shown in light mode) -->
           <svg class="icon-sun" viewBox="0 0 24 24" fill="none"
             stroke="currentColor" stroke-width="2" stroke-linecap="round"
             stroke-linejoin="round" aria-hidden="true">
@@ -95,16 +130,24 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     </div>
   </header>
 
+  {isHome && (
+    <section class="hero">
+      <div class="hero-inner">
+        <h1 class="hero-title">{t.siteTitle}</h1>
+        <p class="hero-sub">{t.siteTagline}</p>
+      </div>
+    </section>
+  )}
+
   <main>
     <slot />
   </main>
 
   <footer class="site-footer">
-    © {new Date().getFullYear()} JamClaw · <a href="https://github.com/jamieclaw">GitHub</a>
+    {t.footer(year)} · <a href="https://github.com/jamieclaw">GitHub</a>
   </footer>
 
   <script is:inline>
-    // Theme toggle
     (function () {
       var btn = document.getElementById('theme-toggle');
       if (!btn) return;
@@ -116,36 +159,39 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
         try { localStorage.setItem('theme', next); } catch (e) {}
         if (meta) meta.setAttribute('content', next === 'dark' ? '#07080b' : '#f7f5f2');
       });
-
-      // Respond to system changes ONLY if user hasn't chosen explicitly
       var mq = window.matchMedia('(prefers-color-scheme: dark)');
       mq.addEventListener && mq.addEventListener('change', function (e) {
-        try {
-          if (localStorage.getItem('theme')) return;  // explicit choice wins
-        } catch (_) {}
+        try { if (localStorage.getItem('theme')) return; } catch (_) {}
         var next = e.matches ? 'dark' : 'light';
         document.documentElement.setAttribute('data-theme', next);
         if (meta) meta.setAttribute('content', next === 'dark' ? '#07080b' : '#f7f5f2');
       });
     })();
 
-    // Reading progress (only present on post pages)
     (function () {
       var bar = document.getElementById('reading-progress');
-      if (!bar) return;
+      var isHome = document.body.classList.contains('is-home');
       var ticking = false;
       function update() {
         var h = document.documentElement;
         var scrolled = h.scrollTop;
         var max = h.scrollHeight - h.clientHeight;
-        var pct = max > 0 ? (scrolled / max) * 100 : 0;
-        bar.style.width = pct + '%';
+        if (bar) {
+          var pct = max > 0 ? (scrolled / max) * 100 : 0;
+          bar.style.width = pct + '%';
+        }
+        if (isHome) {
+          if (scrolled > 120) document.body.classList.add('scrolled');
+          else document.body.classList.remove('scrolled');
+        }
         ticking = false;
       }
-      document.addEventListener('scroll', function () {
-        if (!ticking) { requestAnimationFrame(update); ticking = true; }
-      }, { passive: true });
-      update();
+      if (bar || isHome) {
+        document.addEventListener('scroll', function () {
+          if (!ticking) { requestAnimationFrame(update); ticking = true; }
+        }, { passive: true });
+        update();
+      }
     })();
   </script>
 </body>

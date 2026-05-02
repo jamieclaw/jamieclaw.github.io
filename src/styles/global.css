@@ -6,8 +6,10 @@
   /* Typography */
   --font-sans: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
     'Helvetica Neue', Arial, sans-serif;
-  --font-serif: 'Fraunces', 'Iowan Old Style', 'Palatino Linotype', Palatino,
-    Georgia, serif;
+  --font-serif: 'Fraunces', 'Noto Serif HK', 'Iowan Old Style', 'Palatino Linotype',
+    Palatino, Georgia, serif;
+  --font-serif-zh: 'Noto Serif HK', 'Fraunces', 'PingFang HK', 'Hiragino Sans TC',
+    'Microsoft JhengHei', serif;
   --font-mono: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Consolas,
     monospace;
 
@@ -300,15 +302,46 @@ main {
   flex-wrap: wrap;
 }
 
-.site-title {
-  font-family: var(--font-serif);
-  font-size: 1.05rem;
-  font-weight: 600;
-  letter-spacing: -0.02em;
+.site-wordmark {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.05rem;
+  line-height: 1.1;
   color: var(--fg);
   transition: color var(--dur-fast) var(--ease-out);
 }
-.site-title:hover { color: var(--accent); }
+.site-wordmark:hover { color: var(--accent); text-decoration: none; }
+.site-wordmark-text {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  font-variation-settings: 'opsz' 96;
+}
+.site-wordmark-sub {
+  font-family: var(--font-sans);
+  font-size: 0.7rem;
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: var(--fg-muted);
+  text-transform: none;
+}
+
+/* On the home page, the header wordmark hides in favour of the big hero */
+.is-home .site-wordmark-text,
+.is-home .site-wordmark-sub {
+  opacity: 0;
+  transform: translateY(-4px);
+  pointer-events: none;
+  transition: opacity var(--dur-med) var(--ease-out),
+    transform var(--dur-med) var(--ease-out);
+}
+.is-home.scrolled .site-wordmark-text,
+.is-home.scrolled .site-wordmark-sub {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
 
 .site-nav {
   display: flex;
@@ -520,4 +553,118 @@ a.post-card:hover h2 { color: var(--accent); }
   .site-header-inner { padding: 0.6rem 0.8rem; }
   .site-nav a { padding: 0.35rem 0.55rem; font-size: 0.88rem; }
   h1 { font-size: clamp(1.6rem, 6vw, 2.2rem); }
+}
+
+/* ── Hero (home-only dominant header) ───────────────────────────────── */
+.hero {
+  padding: clamp(2.75rem, 7vw, 5.5rem) 1.25rem clamp(1.25rem, 3vw, 2.25rem);
+  text-align: left;
+  position: relative;
+  overflow: hidden;
+}
+.hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background:
+    radial-gradient(60% 70% at 10% 0%, var(--accent-glow), transparent 60%),
+    radial-gradient(40% 55% at 90% 10%, color-mix(in oklab, var(--accent) 18%, transparent), transparent 60%);
+  pointer-events: none;
+  z-index: -1;
+  animation: hero-glow 18s ease-in-out infinite alternate;
+}
+@keyframes hero-glow {
+  from { transform: translate3d(0,0,0); opacity: 0.9; }
+  to   { transform: translate3d(-2%, 1%, 0); opacity: 1; }
+}
+.hero-inner {
+  max-width: var(--content-max);
+  margin: 0 auto;
+}
+.hero-title {
+  font-family: var(--font-serif);
+  font-size: clamp(3rem, 9vw, 6.75rem);
+  font-weight: 800;
+  line-height: 0.95;
+  letter-spacing: -0.045em;
+  margin: 0 0 0.6rem 0;
+  font-variation-settings: 'opsz' 144;
+  background: linear-gradient(135deg,
+    var(--fg) 0%,
+    color-mix(in oklab, var(--fg) 70%, var(--accent) 30%) 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: hero-in var(--dur-slow) var(--ease-out) both;
+}
+.hero-sub {
+  font-family: var(--font-serif);
+  font-size: clamp(1.05rem, 2vw, 1.4rem);
+  font-weight: 400;
+  font-style: italic;
+  color: var(--fg-muted);
+  max-width: 52ch;
+  margin: 0;
+  letter-spacing: -0.005em;
+  line-height: 1.4;
+  animation: hero-in var(--dur-slow) var(--ease-out) 80ms both;
+}
+@keyframes hero-in {
+  from { opacity: 0; transform: translateY(10px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+/* ── Language switcher ──────────────────────────────────────────────── */
+.lang-switch {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.3rem 0.65rem !important;
+  margin-left: 0.3rem;
+  border: 1px solid var(--glass-border);
+  border-radius: var(--radius-pill);
+  background: var(--glass-highlight);
+  font-family: var(--font-sans);
+  font-size: 0.82rem !important;
+  font-weight: 500;
+  color: var(--fg-dim) !important;
+  line-height: 1;
+  transition: background-color var(--dur-fast) var(--ease-out);
+}
+.lang-switch:hover { background: color-mix(in oklab, var(--accent) 15%, var(--glass-highlight)); text-decoration: none; }
+.lang-switch .lang-opt {
+  transition: color var(--dur-fast) var(--ease-out);
+}
+.lang-switch .lang-opt.active {
+  color: var(--fg);
+  font-weight: 600;
+}
+.lang-switch .lang-sep {
+  color: var(--fg-muted);
+  opacity: 0.5;
+}
+
+/* ── Cantonese body treatment ───────────────────────────────────────── */
+.lang-zh {
+  font-family: var(--font-serif-zh);
+}
+.lang-zh .hero-title,
+.lang-zh .site-wordmark-text {
+  font-family: var(--font-serif-zh);
+  letter-spacing: 0;
+}
+.lang-zh .hero-sub,
+.lang-zh .site-wordmark-sub {
+  font-family: var(--font-serif-zh);
+  font-style: normal;
+  letter-spacing: 0.02em;
+}
+.lang-zh .post-body,
+.lang-zh .prose {
+  font-family: var(--font-serif-zh);
+  line-height: 1.85;
+}
+.lang-zh .post-body p,
+.lang-zh .prose p {
+  text-align: justify;
 }

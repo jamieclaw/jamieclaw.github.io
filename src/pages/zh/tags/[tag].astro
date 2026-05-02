@@ -1,10 +1,10 @@
 ---
-import BaseLayout from '../../layouts/BaseLayout.astro';
-import { postsForLang, postUrl } from '../../i18n/posts';
-import { UI, formatDate } from '../../i18n/ui';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { postsForLang, postUrl } from '../../../i18n/posts';
+import { UI, formatDate } from '../../../i18n/ui';
 
 export async function getStaticPaths() {
-  const posts = await postsForLang('en');
+  const posts = await postsForLang('zh');
   const tags = new Set<string>();
   posts.forEach((p) => p.data.tags.forEach((t) => tags.add(t)));
   return [...tags].map((tag) => ({
@@ -16,12 +16,12 @@ export async function getStaticPaths() {
   }));
 }
 
-const lang = 'en' as const;
+const lang = 'zh' as const;
 const t = UI[lang];
 const { tag, posts } = Astro.props;
 ---
 
-<BaseLayout title={`#${tag}`} lang={lang} altLangPath={`/zh/tags/${tag}/`}>
+<BaseLayout title={`#${tag}`} lang={lang} altLangPath={`/tags/${tag}/`}>
   <h1>#{tag}</h1>
   <p style="color: var(--fg-dim);">{t.postsTagged(tag, posts.length)}</p>
   <ul class="post-list">

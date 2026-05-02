@@ -1,9 +1,9 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
-import { postsForLang, postUrl } from '../i18n/posts';
-import { UI, formatDate } from '../i18n/ui';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { postsForLang, postUrl } from '../../i18n/posts';
+import { UI, formatDate } from '../../i18n/ui';
 
-const lang = 'en' as const;
+const lang = 'zh' as const;
 const t = UI[lang];
 const posts = await postsForLang(lang);
 ---

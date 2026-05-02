@@ -1,10 +1,10 @@
 import rss from '@astrojs/rss';
-import { postsForLang, postUrl } from '../i18n/posts';
-import { UI } from '../i18n/ui';
+import { postsForLang, postUrl } from '../../i18n/posts';
+import { UI } from '../../i18n/ui';
 
 export async function GET(context) {
-  const posts = await postsForLang('en');
-  const t = UI.en;
+  const posts = await postsForLang('zh');
+  const t = UI.zh;
   return rss({
     title: t.siteTitle,
     description: t.siteTagline,
