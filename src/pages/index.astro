@@ -1,0 +1,33 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_DESCRIPTION } from '../consts';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+
+const wordsPerMinute = 220;
+---
+
+<BaseLayout>
+  <p style="color: var(--fg-dim); margin-top: 0;">{SITE_DESCRIPTION}</p>
+
+  {posts.length === 0 ? (
+    <p style="color: var(--fg-faint);">No posts yet.</p>
+  ) : (
+    <ul class="post-list">
+      {posts.map((post) => (
+        <li>
+          <h2><a href={`/posts/${post.id}/`}>{post.data.title}</a></h2>
+          <span class="post-meta">
+            <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
+          </span>
+          {post.data.description && <p class="post-desc">{post.data.description}</p>}
+        </li>
+      ))}
+    </ul>
+  )}
+</BaseLayout>
