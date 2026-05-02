@@ -856,11 +856,27 @@ a.post-card:hover h2 span {
 }
 
 /* ── Hero title: letter-by-letter entry (if JS split it) ────────────── */
+/*
+ * When JS splits the title into .letter spans, the parent's
+ * gradient-text trick (`background-clip: text` + `-webkit-text-fill-color:
+ * transparent`) cascades `-webkit-text-fill-color` onto child spans and
+ * renders their text invisible. Override on both parent and letter.
+ * (Gradient contrast is subtle anyway — solid --fg looks identical.)
+ */
+.hero-title:has(.letter) {
+  background: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  color: var(--fg);
+  -webkit-text-fill-color: var(--fg);
+}
 .hero-title .letter {
   display: inline-block;
   opacity: 0;
   transform: translateY(0.4em);
   animation: hero-letter 640ms var(--ease-out) both;
+  color: var(--fg);
+  -webkit-text-fill-color: var(--fg);
 }
 .hero-title .letter.space { width: 0.25em; }
 @keyframes hero-letter {
