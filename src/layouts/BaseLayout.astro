@@ -5,9 +5,10 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 interface Props {
   title?: string;
   description?: string;
+  isPost?: boolean;
 }
 
-const { title, description = SITE_DESCRIPTION } = Astro.props;
+const { title, description = SITE_DESCRIPTION, isPost = false } = Astro.props;
 const pageTitle = title ? `${title} — ${SITE_TITLE}` : SITE_TITLE;
 const canonicalURL = new URL(Astro.url.pathname, Astro.site);
 ---
@@ -27,23 +28,125 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
   <meta property="og:url" content={canonicalURL} />
+
+  <!-- Meta theme-color (updated by toggle JS) -->
+  <meta name="theme-color" content="#07080b" id="meta-theme-color" />
+
+  <!-- Fonts: Inter (UI/mono) + Fraunces (serif) + JetBrains Mono -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=JetBrains+Mono:wght@400;500&display=swap"
+    rel="stylesheet"
+  />
+
+  <!--
+    FOUC-preventing theme init.
+    Reads saved preference → falls back to system preference → writes data-theme
+    BEFORE paint so we never see a flash of the wrong theme.
+  -->
+  <script is:inline>
+    (function () {
+      try {
+        var saved = localStorage.getItem('theme');
+        var sysDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+        var theme = saved || (sysDark ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', theme);
+        var m = document.getElementById('meta-theme-color');
+        if (m) m.setAttribute('content', theme === 'dark' ? '#07080b' : '#f7f5f2');
+      } catch (e) {
+        document.documentElement.setAttribute('data-theme', 'dark');
+      }
+    })();
+  </script>
 </head>
 <body>
+  {isPost && <div id="reading-progress" aria-hidden="true"></div>}
+
   <header class="site-header">
     <div class="site-header-inner">
       <a href="/" class="site-title">{SITE_TITLE}</a>
-      <nav class="site-nav">
+      <nav class="site-nav" aria-label="Primary">
         <a href="/">Posts</a>
         <a href="/about/">About</a>
         <a href="/rss.xml">RSS</a>
+        <button
+          id="theme-toggle"
+          class="theme-toggle"
+          type="button"
+          aria-label="Toggle theme"
+          title="Toggle theme"
+        >
+          <!-- Moon (shown in dark mode) -->
+          <svg class="icon-moon" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round" aria-hidden="true">
+            <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path>
+          </svg>
+          <!-- Sun (shown in light mode) -->
+          <svg class="icon-sun" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round"
+            stroke-linejoin="round" aria-hidden="true">
+            <circle cx="12" cy="12" r="4"></circle>
+            <path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"></path>
+          </svg>
+        </button>
       </nav>
     </div>
   </header>
+
   <main>
     <slot />
   </main>
+
   <footer class="site-footer">
     © {new Date().getFullYear()} Jamie · <a href="https://github.com/jamieclaw">GitHub</a>
   </footer>
+
+  <script is:inline>
+    // Theme toggle
+    (function () {
+      var btn = document.getElementById('theme-toggle');
+      if (!btn) return;
+      var meta = document.getElementById('meta-theme-color');
+      btn.addEventListener('click', function () {
+        var cur = document.documentElement.getAttribute('data-theme') || 'dark';
+        var next = cur === 'dark' ? 'light' : 'dark';
+        document.documentElement.setAttribute('data-theme', next);
+        try { localStorage.setItem('theme', next); } catch (e) {}
+        if (meta) meta.setAttribute('content', next === 'dark' ? '#07080b' : '#f7f5f2');
+      });
+
+      // Respond to system changes ONLY if user hasn't chosen explicitly
+      var mq = window.matchMedia('(prefers-color-scheme: dark)');
+      mq.addEventListener && mq.addEventListener('change', function (e) {
+        try {
+          if (localStorage.getItem('theme')) return;  // explicit choice wins
+        } catch (_) {}
+        var next = e.matches ? 'dark' : 'light';
+        document.documentElement.setAttribute('data-theme', next);
+        if (meta) meta.setAttribute('content', next === 'dark' ? '#07080b' : '#f7f5f2');
+      });
+    })();
+
+    // Reading progress (only present on post pages)
+    (function () {
+      var bar = document.getElementById('reading-progress');
+      if (!bar) return;
+      var ticking = false;
+      function update() {
+        var h = document.documentElement;
+        var scrolled = h.scrollTop;
+        var max = h.scrollHeight - h.clientHeight;
+        var pct = max > 0 ? (scrolled / max) * 100 : 0;
+        bar.style.width = pct + '%';
+        ticking = false;
+      }
+      document.addEventListener('scroll', function () {
+        if (!ticking) { requestAnimationFrame(update); ticking = true; }
+      }, { passive: true });
+      update();
+    })();
+  </script>
 </body>
 </html>

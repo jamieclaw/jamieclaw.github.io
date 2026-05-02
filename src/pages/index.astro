@@ -8,12 +8,10 @@ const posts = (await getCollection('blog', ({ data }) => !data.draft))
 
 const fmt = (d: Date) =>
   d.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
-
-const wordsPerMinute = 220;
 ---
 
 <BaseLayout>
-  <p style="color: var(--fg-dim); margin-top: 0;">{SITE_DESCRIPTION}</p>
+  <p class="lede">{SITE_DESCRIPTION}</p>
 
   {posts.length === 0 ? (
     <p style="color: var(--fg-faint);">No posts yet.</p>
@@ -21,11 +19,13 @@ const wordsPerMinute = 220;
     <ul class="post-list">
       {posts.map((post) => (
         <li>
-          <h2><a href={`/posts/${post.id}/`}>{post.data.title}</a></h2>
-          <span class="post-meta">
-            <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
-          </span>
-          {post.data.description && <p class="post-desc">{post.data.description}</p>}
+          <a class="post-card" href={`/posts/${post.id}/`}>
+            <span class="post-meta">
+              <time datetime={post.data.pubDate.toISOString()}>{fmt(post.data.pubDate)}</time>
+            </span>
+            <h2><span>{post.data.title}</span></h2>
+            {post.data.description && <p class="post-desc">{post.data.description}</p>}
+          </a>
         </li>
       ))}
     </ul>
