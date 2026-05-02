@@ -503,6 +503,41 @@ a.post-card:hover h2 { color: var(--accent); }
 .post-body h2, .post-body h3 { font-family: var(--font-serif); }
 .post-body p { margin: 1rem 0; }
 
+/* ── Prev/Next post navigation ──────────────────────────────────────── */
+.post-nav {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.post-nav-link {
+  flex: 1 1 45%;
+  padding: 0.9rem 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-md);
+  background: var(--bg-soft);
+  color: var(--fg-dim);
+  text-decoration: none;
+  font-family: var(--font-sans);
+  font-size: 0.92rem;
+  transition: border-color 160ms ease, color 160ms ease, transform 160ms ease, background 160ms ease;
+}
+.post-nav-link:hover {
+  border-color: var(--fg-dim);
+  color: var(--fg);
+  background: var(--bg);
+  transform: translateY(-1px);
+}
+.post-nav-next { text-align: right; }
+.post-nav-label { display: block; font-weight: 500; }
+@media (max-width: 640px) {
+  .post-nav { flex-direction: column; }
+  .post-nav-link { flex: 1 1 auto; }
+}
+
 /* ── Tags ───────────────────────────────────────────────────────────── */
 .tags {
   margin-top: 0.7rem;

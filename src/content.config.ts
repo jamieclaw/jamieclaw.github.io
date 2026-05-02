@@ -13,6 +13,13 @@ const blog = defineCollection({
     pubDate: z.coerce.date(),
     updatedDate: z.coerce.date().optional(),
     tags: z.array(z.string()).default([]),
+    // SEO / metadata extras. All optional — safe defaults applied in templates.
+    author: z.string().optional(),
+    keywords: z.array(z.string()).optional(),
+    /** Optional hero image (absolute path under /public, e.g. /og/foo.png). */
+    heroImage: z.string().optional(),
+    /** Optional override for social share image. Defaults to heroImage or auto-generated OG card. */
+    ogImage: z.string().optional(),
     draft: z.boolean().default(false),
   }),
 });

@@ -6,17 +6,31 @@ import { UI, formatDate } from '../../../i18n/ui';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog', ({ data }) => !data.draft);
-  return posts
+  const zhPosts = posts
     .filter((p) => postLang(p) === 'zh')
-    .map((post) => ({
+    .sort((a, b) => b.data.pubDate.getTime() - a.data.pubDate.getTime());
+
+  return zhPosts.map((post, index) => {
+    const newer = zhPosts[index - 1];
+    const older = zhPosts[index + 1];
+    return {
       params: { slug: postSlug(post) },
-      props: { post },
-    }));
+      props: {
+        post,
+        prevPostPath: newer ? `/zh/posts/${postSlug(newer)}/` : undefined,
+        nextPostPath: older ? `/zh/posts/${postSlug(older)}/` : undefined,
+      },
+    };
+  });
 }
 
 const lang = 'zh' as const;
 const t = UI[lang];
-const { post } = Astro.props as { post: CollectionEntry<'blog'> };
+const { post, prevPostPath, nextPostPath } = Astro.props as {
+  post: CollectionEntry<'blog'>;
+  prevPostPath?: string;
+  nextPostPath?: string;
+};
 const { Content } = await render(post);
 
 const enCounterpart = await findTranslation(post, 'en');
@@ -29,7 +43,21 @@ const readingTime = (() => {
 })();
 ---
 
-<BaseLayout title={post.data.title} description={post.data.description} isPost={true} lang={lang} altLangPath={altLangPath}>
+<BaseLayout
+  title={post.data.title}
+  description={post.data.description}
+  isPost={true}
+  lang={lang}
+  altLangPath={altLangPath}
+  pubDate={post.data.pubDate}
+  updatedDate={post.data.updatedDate}
+  author={post.data.author}
+  keywords={post.data.keywords}
+  tags={post.data.tags}
+  ogImage={post.data.ogImage ?? post.data.heroImage}
+  prevPostPath={prevPostPath}
+  nextPostPath={nextPostPath}
+>
   <article>
     <header class="post-header">
       <h1>{post.data.title}</h1>
@@ -51,5 +79,19 @@ const readingTime = (() => {
     <div class="post-body">
       <Content />
     </div>
+    {(prevPostPath || nextPostPath) && (
+      <nav class="post-nav" aria-label="文章導覽">
+        {nextPostPath && (
+          <a class="post-nav-link post-nav-prev" href={nextPostPath} rel="next">
+            <span class="post-nav-label">← 較舊</span>
+          </a>
+        )}
+        {prevPostPath && (
+          <a class="post-nav-link post-nav-next" href={prevPostPath} rel="prev">
+            <span class="post-nav-label">較新 →</span>
+          </a>
+        )}
+      </nav>
+    )}
   </article>
 </BaseLayout>

@@ -12,6 +12,16 @@ export type Lang = keyof typeof LANGUAGES;
 
 export const DEFAULT_LANG: Lang = 'en';
 
+/** Site-wide author. Individual posts may override via frontmatter `author:` */
+export const SITE_AUTHOR = 'Jamie' as const;
+/** Site-wide default keywords, used as fallback on the home page / about / tags. */
+export const SITE_KEYWORDS = [
+  'analysis', 'commentary', 'world events', 'politics', 'economics',
+  'daily blog', 'columnist', 'Hong Kong', '廣東話', '政論',
+] as const;
+/** Site-wide default OG image (used if a post lacks heroImage / ogImage). */
+export const DEFAULT_OG_IMAGE = '/og-default.png' as const;
+
 export const UI = {
   en: {
     siteTitle: 'JamClaw',

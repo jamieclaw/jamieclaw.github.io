@@ -1,0 +1,85 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout
+  title="404 — Page not found"
+  description="The page you’re looking for doesn’t exist. It may have been moved, renamed, or never existed."
+  lang="en"
+  noindex={true}
+>
+  <section class="not-found">
+    <h1 class="nf-code">404</h1>
+    <h2 class="nf-title">Page not found</h2>
+    <p class="nf-body">
+      The page you’re looking for doesn’t exist. It may have been moved,
+      renamed, or never existed.
+    </p>
+    <div class="nf-actions">
+      <a class="nf-button primary" href="/">← Home</a>
+      <a class="nf-button" href="/about/">About</a>
+      <a class="nf-button" href="/rss.xml" data-astro-reload>RSS</a>
+    </div>
+    <p class="nf-alt">
+      <a href="/zh/">繁體中文 / 廣東話 →</a>
+    </p>
+  </section>
+</BaseLayout>
+
+<style>
+  .not-found {
+    max-width: 42rem;
+    margin: 4rem auto 6rem;
+    text-align: center;
+    padding: 0 1rem;
+  }
+  .nf-code {
+    font-family: var(--font-serif);
+    font-size: clamp(4rem, 14vw, 8rem);
+    font-weight: 900;
+    line-height: 1;
+    margin: 0 0 1rem;
+    background: linear-gradient(180deg, var(--fg), var(--fg-dim));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+  .nf-title {
+    font-family: var(--font-serif);
+    font-size: clamp(1.4rem, 4vw, 1.9rem);
+    font-weight: 600;
+    margin: 0 0 1rem;
+  }
+  .nf-body {
+    color: var(--fg-dim);
+    font-size: 1.05rem;
+    line-height: 1.65;
+    margin: 0 0 2rem;
+  }
+  .nf-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    justify-content: center;
+    margin-bottom: 2rem;
+  }
+  .nf-button {
+    display: inline-block;
+    padding: 0.6rem 1.1rem;
+    border: 1px solid var(--border);
+    border-radius: 999px;
+    text-decoration: none;
+    color: var(--fg);
+    background: var(--bg-soft);
+    font-family: var(--font-sans);
+    font-size: 0.95rem;
+    transition: border-color 160ms ease, transform 160ms ease;
+  }
+  .nf-button:hover { border-color: var(--fg-dim); transform: translateY(-1px); }
+  .nf-button.primary { background: var(--fg); color: var(--bg); border-color: var(--fg); }
+  .nf-alt {
+    font-family: var(--font-sans);
+    color: var(--fg-dim);
+    font-size: 0.9rem;
+  }
+</style>
