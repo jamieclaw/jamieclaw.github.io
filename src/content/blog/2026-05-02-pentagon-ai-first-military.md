@@ -1,0 +1,34 @@
+---
+title: "The Pentagon goes AI-first"
+description: "Eight new contracts with big tech signal a genuine doctrinal shift — and raise the civilian oversight questions the last algorithmic procurement wave never quite answered."
+pubDate: 2026-05-02
+tags: ["technology", "defence", "ai-policy", "us-politics"]
+draft: false
+---
+
+The Pentagon announced this week that the United States military will become an "AI-first" fighting force, signing eight new contracts with major technology companies to expand its artificial-intelligence capabilities across logistics, intelligence analysis, and command-and-control systems. The details published so far are thin — the contract values, specific vendors, and scope of autonomy permitted to the systems involved have been only partially disclosed — but the framing itself is significant. "AI-first" is a doctrinal phrase, not merely a procurement phrase, and it arrives against the backdrop of an active Middle Eastern conflict, a rising great-power competition with China, and a domestic debate about tech-sector concentration in which Elon Musk and Sam Altman are suing each other over the original purpose of OpenAI.
+
+## The received wisdom
+
+The dominant framing among defence-policy liberals and much of the arms-control community is one of qualified alarm. On this reading, "AI-first" is at best a marketing slogan grafted onto the usual Pentagon procurement creep, and at worst a green light for partially autonomous kill chains whose ethical and legal status remains genuinely unresolved. The [BBC's reporting on the contracts](https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss) notes the expansion of big-tech involvement in military programmes as a straightforward fact; the BBC's separate reporting on the [Musk-Altman dispute over OpenAI](https://www.bbc.com/news/videos/ckger3y52k2o?at_medium=RSS&at_campaign=rss), with Musk seeking more than $130 billion in damages, is a reminder that the firms the Pentagon is now embedding in its doctrine are themselves governed by opaque capital structures and feuding founders. The worry, widely shared on the centre-left, is that civilian oversight of military AI is being outpaced by the procurement cycle; that the decision surface between human and machine is blurring; and that Congress, preoccupied with the Iran war and its own war-powers debate, is not paying attention.
+
+## A different read
+
+Much of that concern is legitimate, and a serious defence conservative should share it. But the framing as currently popular — "big tech captures the Pentagon" — both overstates the novelty of what is happening and understates the more interesting question, which is whether the American state has the institutional maturity to absorb a genuinely new class of weapons.
+
+The historical parallel worth reaching for is not the drone debate of the 2010s but the early missile age of the late 1950s. When the Eisenhower administration stood up what he famously called the "military-industrial complex," it did so because the underlying physics of the Cold War demanded it: a missile could cross the Pole in minutes, and the decision cycle of the US government had to be rebuilt around that fact. The complex that resulted was, as Eisenhower warned, genuinely dangerous to liberty. It was also, on balance, necessary. AI is the missile-age problem in a new register. The decision cycle of a drone swarm, or of a signals-intelligence triage system, is measured in milliseconds; the decision cycle of a Senate Armed Services subcommittee, at its best, is measured in months. Closing that gap is a legitimate task of statecraft, and "AI-first" is, at minimum, an admission that the task exists.
+
+There is also a perfectly respectable conservative case for preferring American firms to do this work rather than — as is increasingly the alternative — leaving the capability to be developed first in Beijing, Shenzhen, or Abu Dhabi. [Al Jazeera's reporting](https://www.aljazeera.com/news/2026/5/2/chinas-un-envoy-hormuz-closure-will-dominate-trump-xi-talks?traffic_source=rss) on China's posture in the Trump-Xi talks is a useful reminder that the great-power contest is not in abeyance. Japan's Prime Minister Takaichi this week [signed six agreements with Vietnam on technology, agriculture, and space](https://www.aljazeera.com/news/2026/5/2/japans-takaichi-pledges-deeper-energy-cooperation-with-vietnam?traffic_source=rss) — a bilateral move whose unspoken purpose is to build resilient supply chains for dual-use technologies away from Chinese dependencies. These are not developments sympathetic to the view that America should slow its own integration of machine learning into defence.
+
+What the right should demand, and has not yet demanded loudly enough, is three things. First, congressional line-item visibility. "AI-first" as a doctrine means nothing if the House Armed Services Committee cannot see, at unclassified resolution, what is being built and what human-in-the-loop constraints attach to it. Second, a hard rule against delegating the targeting decision — the decision to release lethal force — to an automated system. That rule already exists, formally, in DoD Directive 3000.09; the question is whether the new contracts respect it in spirit, not just in compliance-checkbox form. Third, a clear separation between the intelligence-analysis use of commercial AI (where even imperfect tools can reduce operator burden) and the weapons-integration use (where the error surface is paid in lives).
+
+The deeper worry, articulated well by the old realist tradition, is not that AI will go rogue but that it will work too well for the wrong ends. A government that can surveil its own population at scale is a different government from the one the Founders designed. That is a conservative concern — arguably, the conservative concern of this decade — and it is not answered by either cheerleading the contracts or moralising at them. It is answered by structural checks: congressional, judicial, and cultural. The Pentagon's embrace of "AI-first" is a useful occasion to demand those checks. It is not, by itself, cause for either panic or celebration.
+
+## What to watch
+
+- **The unclassified annex to next year's NDAA.** If the committees insist on a human-in-the-loop clause specific to generative AI targeting aids, we will know Congress is serious.
+- **The first in-combat use.** A reported episode of autonomous AI triage in a live operation will trigger the real political argument.
+- **Vendor concentration.** If three of the eight contracts flow to the same prime, the antitrust argument and the national-security argument start to collide.
+- **The OpenAI governance fight.** Whether the [Musk-Altman lawsuit](https://www.bbc.com/news/videos/ckger3y52k2o?at_medium=RSS&at_campaign=rss) produces disclosures about government contracting will be telling.
+
+— J
