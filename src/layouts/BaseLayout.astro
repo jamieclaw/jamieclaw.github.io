@@ -158,6 +158,12 @@ const isHome = pathname === '/' || pathname === '/zh/' || pathname === '/zh';
         document.documentElement.setAttribute('data-theme', next);
         try { localStorage.setItem('theme', next); } catch (e) {}
         if (meta) meta.setAttribute('content', next === 'dark' ? '#07080b' : '#f7f5f2');
+        // Micro-animation: ripple + icon spin
+        btn.classList.remove('is-switching');
+        // Reflow to restart animation
+        void btn.offsetWidth;
+        btn.classList.add('is-switching');
+        setTimeout(function () { btn.classList.remove('is-switching'); }, 560);
       });
       var mq = window.matchMedia('(prefers-color-scheme: dark)');
       mq.addEventListener && mq.addEventListener('change', function (e) {
@@ -179,6 +185,8 @@ const isHome = pathname === '/' || pathname === '/zh/' || pathname === '/zh';
         if (bar) {
           var pct = max > 0 ? (scrolled / max) * 100 : 0;
           bar.style.width = pct + '%';
+          if (pct > 98) bar.classList.add('complete');
+          else bar.classList.remove('complete');
         }
         if (isHome) {
           if (scrolled > 120) document.body.classList.add('scrolled');
@@ -192,6 +200,94 @@ const isHome = pathname === '/' || pathname === '/zh/' || pathname === '/zh';
         }, { passive: true });
         update();
       }
+    })();
+
+    /* ── Hero title: split into letters for staggered fade-in ─────── */
+    (function () {
+      var title = document.querySelector('.hero-title');
+      if (!title) return;
+      var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if (reduced) return;
+      var text = title.textContent || '';
+      title.textContent = '';
+      var frag = document.createDocumentFragment();
+      var chars = Array.from(text);
+      chars.forEach(function (ch, i) {
+        var s = document.createElement('span');
+        s.className = ch === ' ' ? 'letter space' : 'letter';
+        s.textContent = ch === ' ' ? '\u00a0' : ch;
+        s.style.animationDelay = (90 + i * 45) + 'ms';
+        frag.appendChild(s);
+      });
+      title.appendChild(frag);
+    })();
+
+    /* ── Hero micro-parallax on mouse move (home only) ────────────── */
+    (function () {
+      var hero = document.querySelector('.hero');
+      if (!hero) return;
+      var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if (reduced) return;
+      var rect;
+      function onMove(e) {
+        if (!rect) rect = hero.getBoundingClientRect();
+        var x = (e.clientX - rect.left - rect.width / 2) / rect.width;
+        var y = (e.clientY - rect.top - rect.height / 2) / rect.height;
+        hero.style.setProperty('--hx', (x * 8).toFixed(2) + 'px');
+        hero.style.setProperty('--hy', (y * 6).toFixed(2) + 'px');
+      }
+      function onLeave() {
+        hero.style.setProperty('--hx', '0px');
+        hero.style.setProperty('--hy', '0px');
+        rect = null;
+      }
+      hero.addEventListener('mousemove', onMove, { passive: true });
+      hero.addEventListener('mouseleave', onLeave);
+      window.addEventListener('resize', function () { rect = null; });
+    })();
+
+    /* ── IntersectionObserver: reveal body content as it enters ───── */
+    (function () {
+      var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if (reduced || !('IntersectionObserver' in window)) return;
+      // Tag candidates in the post body / main content for reveal.
+      var candidates = document.querySelectorAll(
+        '.post-body > h2, .post-body > h3, .post-body > p, .post-body > ul, .post-body > ol, .post-body > blockquote, main > h1:not(.hero-title), main > h2'
+      );
+      candidates.forEach(function (el, i) {
+        el.classList.add('reveal');
+        if (i < 3) el.classList.add('stagger-' + (i + 1));
+      });
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('is-visible');
+            io.unobserve(entry.target);
+          }
+        });
+      }, { rootMargin: '0px 0px -8% 0px', threshold: 0.05 });
+      candidates.forEach(function (el) { io.observe(el); });
+    })();
+
+    /* ── Post-card subtle tilt on mouse move ──────────────────────── */
+    (function () {
+      var reduced = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+      if (reduced) return;
+      var cards = document.querySelectorAll('.post-card');
+      if (!cards.length) return;
+      cards.forEach(function (card) {
+        card.addEventListener('mousemove', function (e) {
+          var r = card.getBoundingClientRect();
+          var x = (e.clientX - r.left) / r.width - 0.5;
+          var y = (e.clientY - r.top) / r.height - 0.5;
+          card.style.transform =
+            'translateY(-3px) rotateX(' + (-y * 3).toFixed(2) + 'deg)' +
+            ' rotateY(' + (x * 3).toFixed(2) + 'deg)';
+        });
+        card.addEventListener('mouseleave', function () {
+          card.style.transform = '';
+        });
+      });
     })();
   </script>
 </body>

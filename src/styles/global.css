@@ -668,3 +668,283 @@ a.post-card:hover h2 { color: var(--accent); }
 .lang-zh .prose p {
   text-align: justify;
 }
+
+/* ═══════════════════════════════════════════════════════════════════════
+   MICRO-INTERACTIONS — responsive feedback layer
+   Every hover / focus / click has a visual echo.
+   ═══════════════════════════════════════════════════════════════════════ */
+
+/* ── Nav links: animated underline ──────────────────────────────────── */
+.site-nav a:not(.lang-switch):not(.theme-toggle)::after {
+  content: '';
+  position: absolute;
+  left: 0.7rem;
+  right: 0.7rem;
+  bottom: 0.25rem;
+  height: 1.5px;
+  background: currentColor;
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform var(--dur-med) var(--ease-out);
+  border-radius: 1px;
+  opacity: 0.7;
+}
+.site-nav a:not(.lang-switch):not(.theme-toggle):hover::after,
+.site-nav a:not(.lang-switch):not(.theme-toggle):focus-visible::after {
+  transform: scaleX(1);
+}
+.site-nav a:not(.lang-switch):not(.theme-toggle):active {
+  transform: scale(0.97);
+}
+
+/* ── Post cards: tilt + shimmer + better hover ──────────────────────── */
+.post-card {
+  will-change: transform;
+  transform-style: preserve-3d;
+}
+
+/* Shimmer sweep across card on hover */
+.post-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: linear-gradient(
+    110deg,
+    transparent 20%,
+    color-mix(in oklab, var(--accent) 12%, transparent) 50%,
+    transparent 80%
+  );
+  opacity: 0;
+  transform: translateX(-100%);
+  pointer-events: none;
+  transition: opacity var(--dur-med) var(--ease-out);
+}
+.post-card:hover::after {
+  opacity: 1;
+  animation: card-shimmer 1100ms var(--ease-out);
+}
+@keyframes card-shimmer {
+  0%   { transform: translateX(-100%); }
+  100% { transform: translateX(100%); }
+}
+
+/* Accent bar on left edge grows on hover */
+.post-card .post-meta {
+  transition: color var(--dur-fast) var(--ease-out),
+    letter-spacing var(--dur-med) var(--ease-out);
+}
+a.post-card:hover .post-meta {
+  color: var(--accent);
+  letter-spacing: 0.04em;
+}
+
+/* Title now has an underline sweep */
+.post-card h2 span {
+  position: relative;
+  display: inline;
+  background-image: linear-gradient(var(--accent), var(--accent));
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 1.5px;
+  transition: background-size var(--dur-med) var(--ease-out);
+  padding-bottom: 2px;
+}
+a.post-card:hover h2 span {
+  background-size: 100% 1.5px;
+}
+
+/* ── Theme toggle: refined press/swap ───────────────────────────────── */
+.theme-toggle svg {
+  transition: transform var(--dur-med) var(--ease-spring),
+    opacity var(--dur-fast) var(--ease-out);
+}
+.theme-toggle:hover svg {
+  transform: rotate(-12deg) scale(1.08);
+}
+.theme-toggle.is-switching svg {
+  animation: toggle-pop 360ms var(--ease-spring);
+}
+@keyframes toggle-pop {
+  0%   { transform: rotate(0deg) scale(1); }
+  45%  { transform: rotate(-180deg) scale(0.7); opacity: 0.5; }
+  100% { transform: rotate(-360deg) scale(1); opacity: 1; }
+}
+
+/* Click ripple */
+.theme-toggle::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: inherit;
+  background: currentColor;
+  opacity: 0;
+  transform: scale(0.3);
+  pointer-events: none;
+}
+.theme-toggle.is-switching::after {
+  animation: ripple 520ms var(--ease-out);
+}
+@keyframes ripple {
+  0%   { opacity: 0.25; transform: scale(0.3); }
+  100% { opacity: 0;    transform: scale(2.2); }
+}
+
+/* ── Language switcher: sliding active indicator ────────────────────── */
+.lang-switch { position: relative; overflow: hidden; }
+.lang-switch::before {
+  content: '';
+  position: absolute;
+  top: 4px;
+  bottom: 4px;
+  width: calc(50% - 8px);
+  left: 4px;
+  background: color-mix(in oklab, var(--accent) 20%, var(--glass-highlight));
+  border-radius: var(--radius-pill);
+  transition: left var(--dur-med) var(--ease-spring);
+  z-index: 0;
+}
+.lang-switch[data-current-lang='zh']::before {
+  left: calc(50% + 4px);
+}
+.lang-switch .lang-opt,
+.lang-switch .lang-sep {
+  position: relative;
+  z-index: 1;
+}
+.lang-switch:hover { transform: translateY(-1px); }
+.lang-switch:active { transform: translateY(0); }
+
+/* ── Tags: wiggle + staggered entry ─────────────────────────────────── */
+.tag:hover {
+  animation: tag-wiggle 420ms var(--ease-spring);
+}
+@keyframes tag-wiggle {
+  0%, 100% { transform: translateY(-1px) rotate(0deg); }
+  25%      { transform: translateY(-2px) rotate(-2deg); }
+  75%      { transform: translateY(-2px) rotate(2deg); }
+}
+.post-header .tags .tag,
+.post-card .tags .tag {
+  animation: fade-in-up 500ms var(--ease-out) both;
+}
+.post-header .tags .tag:nth-child(1) { animation-delay: 320ms; }
+.post-header .tags .tag:nth-child(2) { animation-delay: 380ms; }
+.post-header .tags .tag:nth-child(3) { animation-delay: 440ms; }
+.post-header .tags .tag:nth-child(4) { animation-delay: 500ms; }
+.post-header .tags .tag:nth-child(5) { animation-delay: 560ms; }
+
+/* ── Body links: animated underline draw ────────────────────────────── */
+.post-body a,
+.lede a,
+.site-footer a {
+  background-image: linear-gradient(currentColor, currentColor);
+  background-position: 0% 92%;
+  background-repeat: no-repeat;
+  background-size: 100% 1px;
+  transition: background-size var(--dur-med) var(--ease-out),
+    color var(--dur-fast) var(--ease-out);
+  text-decoration: none;
+  padding-bottom: 1px;
+}
+.post-body a { color: var(--accent); }
+.post-body a:hover,
+.lede a:hover,
+.site-footer a:hover {
+  background-size: 100% 2px;
+  text-decoration: none;
+}
+
+/* ── Hero title: letter-by-letter entry (if JS split it) ────────────── */
+.hero-title .letter {
+  display: inline-block;
+  opacity: 0;
+  transform: translateY(0.4em);
+  animation: hero-letter 640ms var(--ease-out) both;
+}
+.hero-title .letter.space { width: 0.25em; }
+@keyframes hero-letter {
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* Hero micro-parallax on mouse */
+.hero-title {
+  transform: translate(var(--hx, 0px), var(--hy, 0px));
+  transition: transform 500ms var(--ease-out);
+}
+.hero-sub {
+  transform: translate(calc(var(--hx, 0px) * -0.4), calc(var(--hy, 0px) * -0.4));
+  transition: transform 500ms var(--ease-out);
+}
+
+/* ── Reading progress: accent pulse at 100% ─────────────────────────── */
+#reading-progress.complete {
+  animation: progress-pulse 1.4s var(--ease-out) infinite;
+}
+@keyframes progress-pulse {
+  0%, 100% { box-shadow: 0 0 8px var(--accent-glow); }
+  50%      { box-shadow: 0 0 18px var(--accent-glow), 0 0 36px var(--accent-glow); }
+}
+
+/* ── In-view scroll reveal ──────────────────────────────────────────── */
+.reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 720ms var(--ease-out),
+    transform 720ms var(--ease-out);
+  will-change: opacity, transform;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Slight stagger when many siblings reveal together */
+.reveal.stagger-1 { transition-delay: 60ms; }
+.reveal.stagger-2 { transition-delay: 120ms; }
+.reveal.stagger-3 { transition-delay: 180ms; }
+
+/* ── Post body headings get an accent bar on hover (copy-link affordance) */
+.post-body h2,
+.post-body h3 {
+  position: relative;
+  padding-left: 0;
+  transition: padding-left var(--dur-med) var(--ease-out);
+}
+.post-body h2::before,
+.post-body h3::before {
+  content: '';
+  position: absolute;
+  left: -0.8rem;
+  top: 50%;
+  width: 3px;
+  height: 0%;
+  background: var(--accent);
+  border-radius: 2px;
+  transform: translateY(-50%);
+  transition: height var(--dur-med) var(--ease-out);
+}
+.post-body h2:hover::before,
+.post-body h3:hover::before { height: 70%; }
+
+/* ── Buttons / links: focus-visible ring ────────────────────────────── */
+a:focus-visible,
+button:focus-visible,
+.post-card:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+  border-radius: var(--radius-sm);
+}
+
+/* ── Respect reduced motion ─────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 1ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 1ms !important;
+  }
+  .hero-title .letter { animation: none; opacity: 1; transform: none; }
+  .reveal { opacity: 1; transform: none; }
+}

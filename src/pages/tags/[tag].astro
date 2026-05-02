@@ -27,7 +27,7 @@ const { tag, posts } = Astro.props;
   <ul class="post-list">
     {posts.map((post) => (
       <li>
-        <h2><a href={postUrl(post)}>{post.data.title}</a></h2>
+        <h2><a href={postUrl(post)}><span>{post.data.title}</span></a></h2>
         <span class="post-meta">
           <time datetime={post.data.pubDate.toISOString()}>{formatDate(post.data.pubDate, lang)}</time>
         </span>
