@@ -1,0 +1,27 @@
+---
+title: "Starmer on the brink, and the meaning of a local election"
+description: "Next week's council ballots will be read as a verdict on the prime minister — but the deeper story is the collapse of the two-party duopoly that has governed Britain since 1945."
+pubDate: 2026-05-03
+tags: ["uk-politics", "elections", "labour", "reform"]
+draft: false
+---
+
+British voters go to the polls next Thursday in a round of council, mayoral and devolved elections that the BBC has [framed as a test of a prime minister "on the brink"](https://www.bbc.com/news/articles/c0q2z7v3ly5o?at_medium=RSS&at_campaign=rss). Labour is defending a spread of seats won in the high-water 2024 general election; Reform UK is polling competitively in dozens of English councils; the Conservatives, under Kemi Badenoch, are attempting to hold their southern base while [apologising for a campaign video that used Bloody Sunday footage](https://www.bbc.com/news/articles/cx21n5kx4d9o?at_medium=RSS&at_campaign=rss). The Greens have [pledged a £15 minimum wage](https://feeds.bbci.co.uk/news/politics/rss.xml) and are running in unprecedented numbers. Sir John Major has warned [against "continually changing prime ministers,"](https://feeds.bbci.co.uk/news/politics/rss.xml) a line aimed squarely at Labour MPs contemplating regicide.
+
+## The received wisdom
+
+The standard reading of next week's vote is that it is a mid-term grumble. Governing parties lose councils; the Conservatives lost hundreds in 2023 and stayed in office another eighteen months; Labour will lose some in 2026 and carry on regardless. The more sophisticated version adds that Sir Keir Starmer's problems — winter fuel, welfare U-turns, Gaza protests, [a heckling at Golders Green](https://feeds.bbci.co.uk/news/politics/rss.xml) — are essentially managerial, and that a reshuffle plus a Budget reset will stabilise the position before the real election in 2029. The commentariat's preferred metaphor is "mid-course correction." On this view there is nothing structurally wrong with British politics that a few competent ministerial appointments cannot fix.
+
+## A different read
+
+This is, I think, almost exactly wrong. The pattern visible in the polling is not a normal mid-term drift but the tail end of a forty-year hollowing-out of the two-party system that the 1945 settlement bequeathed. In 1951 Labour and the Conservatives between them took 96.8% of the vote. In 2024 they took 57.4%. Next week's locals will almost certainly push that combined share lower still. Reform UK is doing in England what the SNP did in Scotland after 2011 and what Sinn Féin has done in Ireland since 2020: absorbing the votes of a working-class electorate that the centre-left parties once took for granted and that the centre-right parties now cannot reach because they are culturally estranged from it.
+
+The conservative diagnosis of this fragmentation should not be triumphalist. A Reform-led realignment is not, on current evidence, producing a party capable of governing. The [elections watchdog is already examining a £5 million donation to Farage](https://www.bbc.com/news/articles/c62xg40w4ero?at_medium=RSS&at_campaign=rss); Restore Britain is [refunding crypto-linked donations](https://feeds.bbci.co.uk/news/politics/rss.xml); the Green Party has [two candidates arrested over alleged antisemitic posts](https://feeds.bbci.co.uk/news/politics/rss.xml). These are the characteristic pathologies of insurgent politics — and they are visible precisely because the insurgents have not yet built the internal compliance machinery that older parties spent decades developing. The danger, historically, is not that insurgent parties fail; it is that they succeed before they are ready.
+
+Burke's critique of the French Revolution — that a polity which tears up its inherited institutions will find the replacements inferior — applies here in a minor key. British local government is in many places already non-functional: [Birmingham, the largest local authority in Europe, is being fought over by factions](https://www.bbc.com/news/articles/c4g057lg11no?at_medium=RSS&at_campaign=rss) none of which have a plausible plan for its £3 billion deficit. Starmer's problem is not that his ministers are incompetent — by mid-century standards they are unusually professional — but that the institutions they are trying to run have decayed past the point where competence alone can rescue them. When Sir John Major warns against changing prime ministers, he is really warning against the illusion that the job of prime minister is still what it was when he held it. It is not. The Treasury is more constrained, the parliamentary party is more fissile, the electorate is more volatile, and the media ecosystem rewards rupture over continuity. A Labour leadership change will not fix any of this. It will simply shuffle the chairs on a ship that is, for structural reasons, harder to steer than at any point since the war.
+
+## What to watch
+
+Three markers on the night. First: does Reform win any metro mayoralty, or does its vote distribute inefficiently across councils as UKIP's did in 2014? A mayoral win converts poll share into institutional foothold. Second: the Labour share in Scotland. If the SNP recovers its 2021 numbers, the parliamentary path to a 2029 Labour majority narrows sharply. Third: turnout. Sub-30% turnout will be read, correctly, as a verdict on the system rather than any party — and the strategist who can speak to that disengaged 70% will shape the next decade.
+
+— J
