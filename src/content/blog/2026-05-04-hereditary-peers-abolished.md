@@ -1,0 +1,29 @@
+---
+title: "The hereditary peers and what replaces them"
+description: "Abolishing the last of the hereditary peers ends a 700-year practice — but the real question is whether what Labour builds in its place will hold up any better."
+pubDate: 2026-05-04
+tags: ["uk-politics", "constitution", "tradition", "lords"]
+draft: false
+---
+
+The last of the hereditary peers will sit in the House of Lords for the final time this week, as [BBC News reports](https://www.bbc.com/news/articles/ckgp5j5gpplo), with legislation passed last month ending a practice that traces its institutional origins, in one form or another, to the thirteenth century. The remaining 92 hereditaries, kept on as a compromise under Tony Blair's 1999 reform, will leave the chamber in what the BBC calls their "last hurrah." The change is being framed by the government as overdue modernisation; by traditionalists as a small but real diminishment of continuity; and by the Lords themselves, in the main, with the quiet resignation of people who have seen this coming for twenty-six years. Sir John Major used a separate intervention to [warn against the habit](https://www.bbc.com/news/articles/cgepy0xw1nzo) of constantly changing prime ministers, arguing that Britain needs more institutional stability, not less.
+
+## The received wisdom
+
+The orthodox case for abolition is difficult to argue with on first principles. In a democracy, the idea that a seat in a revising chamber should be transmitted by primogeniture is genuinely odd. The hereditaries were overwhelmingly male, overwhelmingly one party, and overwhelmingly drawn from a social world that has not governed Britain since the war. Blair's 1999 compromise — cutting the hereditary bench from around 750 to 92 — was always understood on both sides as an interim settlement, and the argument for finishing the job has waited only on parliamentary time. Labour campaigned on it; the public, when polled, either supports the change or has no strong view; the Conservatives have mounted only a pro-forma defence. On a narrow democratic-legitimacy criterion, the case is closed.
+
+## A different read
+
+The closed case, however, is not the only case. What gets lost when a 700-year institution is abolished is partly specific — the hereditaries' historical record on legislative scrutiny is better than caricature allows, particularly on civil liberties and rural affairs — and partly general. Edmund Burke's argument about the accumulated wisdom of institutions was never that every inherited practice is wise; it was that the presumption should sit with continuity, and the burden of proof with change. That burden has not really been met here. Labour's replacement plan is not a fully elected second chamber, which would at least be a coherent alternative, but a further expansion of life peerages appointed by the prime minister of the day. Trading a hereditary oligarchy for a prime-ministerial one is not obviously a gain in legitimacy; it concentrates patronage in a single office that is already the most powerful in the British system.
+
+The historical comparison that ought to be in every commentator's mind is the French Revolutionary abolition of the nobility in 1790, not because the scales are comparable but because the logic is. Each generation of reformers assumes that the institution being cleared away is a dead weight and that what follows will naturally be better. Sometimes that is true. Sometimes — as with the French replacement of ecclesiastical lands with assignat-backed inflation, or the abolition of the old *parlements* in favour of a politicised judiciary — it is not. The question to ask of any constitutional reform is not whether the thing being abolished is defensible in principle but whether the thing replacing it will hold up under pressure.
+
+The pressure is coming. A Parliament that already struggles with [voter disillusionment on the High Street](https://www.bbc.com/news/articles/crl1l6g9264o), with the collapse of the two-party duopoly, and with the normal erosion of trust in institutions is weakening its own check on the executive precisely when the executive is growing more populist in tone and more assertive in practice. An appointed chamber entirely within the gift of the prime minister will struggle to say no to a prime minister on any serious question. The hereditaries, for all their absurdities, owed their seats to nobody living and could therefore vote as they liked. That is not a trivial property in a legislature.
+
+There is a smaller, sadder point worth making. Institutions that have lasted for centuries accumulate a kind of informal ballast — procedural knowledge, a sense of the longue durée, a reflex against fashion — that is not easily rebuilt. The peers themselves were not the ballast; the continuity was. Abolishing the hereditary principle without replacing it with something of comparable seriousness is the constitutional equivalent of selling the family silver to pay the gas bill. It may well be the right decision. It should at least be made with clear eyes.
+
+## What to watch
+
+First, the details of the life-peerage replacement plan: whether any statutory cap on prime-ministerial appointments is introduced, or whether the number continues to drift upwards as it has under every recent government. Second, the committee work of the remaining Lords over the next session — whether the quality of scrutiny noticeably changes when the bench is entirely appointed. Third, any signs of serious cross-party interest in a partially elected second chamber, which would be the coherent destination this reform has so far avoided. Fourth, whether Major's broader plea for institutional stability finds any echo in either leadership — or whether constitutional churn is now simply the default setting.
+
+— J
