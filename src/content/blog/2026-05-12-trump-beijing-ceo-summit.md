@@ -1,0 +1,37 @@
+---
+title: "Trump's CEO army lands in Beijing"
+description: "Seventeen American executives accompanying Trump to Beijing signals a transactional diplomacy that bypasses both the State Department and any coherent China strategy."
+pubDate: 2026-05-12
+tags: ["us-china", "trade", "trump", "geopolitics"]
+draft: false
+---
+
+US President Donald Trump arrived in Beijing on Wednesday for his first presidential visit to China in nine years, accompanied by [seventeen of America's most powerful corporate executives](https://www.bbc.com/news/articles/c5yx757w048o), including Elon Musk of Tesla and SpaceX, Tim Cook of Apple, Larry Fink of BlackRock, and the chief executives of Goldman Sachs, Boeing, Citigroup, Visa, Mastercard, and Meta. The trip follows a fragile trade truce agreed in October 2025 after a tit-for-tat tariff war that at its peak saw duties exceeding 100 per cent on goods between the world's two largest economies. On the agenda: agricultural purchases, semiconductor export restrictions, and the Iran war, which has been straining Chinese energy supply chains. In a notable pre-departure remark, Trump also said he would [raise the issue of US arms sales to Taiwan](https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-discuss-arms-sales-to-taiwan-in-meeting-with-chinas-xi) — a statement guaranteed to set nerves jangling in Beijing.
+
+## The received wisdom
+
+The mainstream view of this summit is essentially optimistic: two great powers with massive mutual economic interests are doing what they should do, which is talking. Trump's corporate delegation is read as a confidence-building measure — a signal to Beijing that Washington's business community wants normalisation, and a signal to Wall Street that the president is pursuing commerce rather than confrontation. The trade war of 2025, in this reading, was a necessary shock to reset a relationship that had grown dangerously imbalanced. The truce holds, Xi needs it to hold, and the presence of seventeen Fortune 500 CEOs suggests the American private sector is ready to re-engage.
+
+Progressive commentary adds a second layer: Trump's transactional style, for once, may be preferable to the values-laden diplomacy of the Biden era, which lectured Beijing on human rights while doing little substantively different on trade. At least Trump, one argument goes, is honest about the merits-bargain nature of the relationship. And there is something to that: the Obama and Biden years produced a lot of high-minded rhetoric about the "rules-based international order" while China quietly built artificial islands in the South China Sea and cornered global rare earth supply chains.
+
+## A different read
+
+But the picture looks considerably less reassuring when you examine what the CEO delegation actually represents — and what it doesn't.
+
+Start with the structural asymmetry. [China's export figures are at record levels](https://www.bbc.com/news/articles/c3rz75rgn8zo), its businesses have spent the last three years building new trading partnerships outside the US-dependent orbit, and it has invested heavily in robotics and domestic chip production to reduce reliance on American semiconductor firms. The October 2025 truce, in which Beijing suspended rare earth export controls in exchange for partial tariff relief, was presented as a mutual concession. But it was more accurately a pause that benefited China's export machine while giving Trump a political win. China entered this week's summit, as analysts at the University of Hong Kong have noted, "from a position of unexpected strength."
+
+Then there is the Taiwan announcement. Telling journalists before a Beijing visit that you intend to raise arms sales to Taiwan is either a sophisticated negotiating tactic — using a known Chinese red line as a chip to be traded — or it is genuine recklessness. Either way, it adds a layer of strategic instability to what is nominally a commercial summit. The $11 billion arms package Trump approved in December 2025, the largest in history, and China's subsequent [military drills simulating a blockade of Taiwanese ports](https://www.aljazeera.com/news/2026/5/11/trump-says-he-will-discuss-arms-sales-to-taiwan-in-meeting-with-chinas-xi), suggest we are in a period of managed escalation, not de-escalation.
+
+The CEO delegation raises a deeper question about who, exactly, is setting American China policy. Seventeen executives represent industries with enormous vested interests in Chinese market access: Apple has its supply chain, BlackRock its investment portfolio, Boeing its aircraft orders. The incentive structure points entirely toward deal-making and away from strategic competition. One does not need to be a China hawk to notice that Elon Musk's Tesla has substantial manufacturing interests in Shanghai — the same Musk who has significant influence over the direction of American government through his DOGE role. The conflict of interest is not subtle.
+
+Historically, the pattern of sending business delegations to authoritarian states as a substitute for strategic clarity has a poor record. The British merchant lobbies of the 1930s consistently argued that commercial engagement with Nazi Germany would moderate Hitler's ambitions. The Clinton-era expansion of China's Most Favoured Nation status was justified on the theory that trade would bring political liberalisation — a theory that has not aged well. The Trump approach is different in style but shares the same underlying assumption: that economic entanglement produces stability. That assumption deserves more scrutiny than it is currently receiving.
+
+There is also the Iran dimension. Trump is expected to press Xi on Chinese purchases of Iranian oil, which China uses to circumvent the US naval blockade. But China's leverage here is real: as the buyer of roughly 90 per cent of Iran's oil exports, it is simultaneously a party to the conflict (by sustaining the Iranian economy) and the essential broker for any exit. Asking Beijing to squeeze Tehran while simultaneously handing it a trade truce and access to American CEO networks is a negotiating position that relies on Chinese goodwill — a commodity that has not been reliably available.
+
+None of this means the summit will produce nothing. A renewed agricultural purchase commitment, some progress on semiconductor licensing, and a joint statement on Iran are all conceivable outcomes. But the framework — seventeen business interests substituting for a coherent state-to-state strategy — is the thing to watch.
+
+## What to watch
+
+Watch whether any concrete Iran commitment emerges, or whether the summit produces only vague "constructive dialogue" language — the latter would suggest Beijing is content to let the war continue depressing oil prices while pocketing trade concessions. Watch the Taiwan arms sales question: if Trump drops it in exchange for an agricultural package, that will be a significant signal about American commitment to Taiwan's security. Watch the legal environment at home: a US trade court has already ruled that the current 10 per cent universal levy is unjustified, and further challenges will shape the actual tariff landscape regardless of what Trump agrees in Beijing. And watch Elon Musk — if Tesla's Shanghai operations receive any preferential treatment in the summit's aftermath, the conflict-of-interest questions currently simmering in Washington will become impossible to ignore.
+
+— J
