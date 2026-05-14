@@ -1,0 +1,36 @@
+---
+title: "Netanyahu's UAE secret and Israel's coming election"
+description: "The revelation of Netanyahu's secret UAE trip during peak Iran hostilities, combined with a coalition crisis over ultra-Orthodox conscription, signals a pivotal political reckoning approaching for Israel."
+pubDate: 2026-05-14
+tags: ["israel", "netanyahu", "middle-east", "iran-war"]
+draft: false
+---
+
+Benjamin Netanyahu confirmed on Wednesday that he made a secret visit to the United Arab Emirates at the height of the Iran war — a disclosure that came after [Al Jazeera reported](https://www.aljazeera.com/news/2026/5/13/netanyahu-visited-uae-in-secret-during-us-israel-war-on-iran-office-says?traffic_source=rss) that the trip had taken place and the UAE initially denied it before Netanyahu's office confirmed the account. The revelation coincided with another: [The Guardian reported](https://www.theguardian.com/world/2026/may/12/uae-secret-attack-iran-risks-gulf-states-regional-conflict) that the UAE had itself conducted a secret attack on Iran during the war, risking broader Gulf-state involvement in the conflict. At home, Netanyahu faces a compounding political crisis: [his ruling coalition is proposing early elections](https://www.theguardian.com/world/2026/may/13/israels-ruling-coalition-proposes-early-elections-amid-ultra-orthodox-anger-at-netanyahu) amid ultra-Orthodox anger over the question of military conscription for the Haredi community — a rift that goes to the heart of Israel's social contract.
+
+## The received wisdom
+
+The liberal-internationalist framing of Netanyahu's position is largely condemnatory. He is, on this account, a leader who has used the Iran war to consolidate power, avoided accountability for October 7's security failures, and now faces a reckoning he has deferred through political manipulation of his coalition partners. The secret UAE trip, from this angle, looks like the shadow foreign policy of a leader whose own allies do not trust him with full transparency. The early-election proposal is read as a desperate manoeuvre to reset the political board before the investigations and the post-war accountability process gather force.
+
+This reading has substantial basis. The [early-election proposal](https://www.theguardian.com/world/2026/may/13/israels-ruling-coalition-proposes-early-elections-amid-ultra-orthodox-anger-at-netanyahu) comes specifically amid Haredi anger — meaning Netanyahu's ultra-nationalist base is fracturing, not that he is choosing to seek a democratic mandate. The timing of the UAE disclosure, coming after the ceasefire and amid softening regional hostilities, suggests information management rather than transparency.
+
+## A different read
+
+The secret diplomacy story, however, is more complicated than the critics' framing allows. If the UAE was simultaneously conducting covert attacks on Iran and hosting a secret visit from Netanyahu, the picture that emerges is of a regional security architecture that operates almost entirely outside formal channels — and that has been doing so quite effectively. The Abraham Accords normalisation framework, whatever one thinks of its limitations on the Palestinian question, created precisely the kind of informal security cooperation infrastructure that the secret trip and the covert UAE strike represent. States that formally share no alliance and cannot be seen to coordinate publicly have nonetheless found ways to coordinate.
+
+This is not a clean story of Netanyahu's virtue; it is a complex story about how Middle Eastern security actually works, and has always worked. The Ottoman successor states of the region have spent a century building shadow-state and informal diplomatic traditions precisely because their formal alliances are domestically controversial. Saudi Arabia and Israel coordinated tacitly on Iran before any normalisation agreement; the UAE has gone further and faster. What Netanyahu's visit reveals is that the war against Iran accelerated, under operational pressure, what years of formal diplomacy had only hinted at.
+
+The harder domestic question is the Haredi conscription crisis. [Israel's coalition is fracturing](https://www.theguardian.com/world/2026/may/13/israels-ruling-coalition-proposes-early-elections-amid-ultra-orthodox-anger-at-netanyahu) over whether ultra-Orthodox men should be subject to the same military obligations as secular and religious-Zionist Israelis. This is not a new argument — it has been festering since the state's founding — but the Iran war has given it new urgency and new moral weight. Soldiers who have served and died alongside secular Israelis find the exemption increasingly difficult to accept. The Supreme Court has ruled the exemption unconstitutional; the government has resisted implementation. This is a genuine constitutional and social crisis, and Netanyahu's political survival has depended on keeping the Haredi coalition parties satisfied — which means, in practice, not resolving it.
+
+Early elections, from this perspective, are Netanyahu's way of hoping to win a new mandate before the conscription issue forces a resolution he cannot deliver. The historical resonance is with Menachem Begin's later years: a leader whose military and diplomatic achievements were real, but who was eventually consumed by the unresolved contradictions his political coalition had built up. Netanyahu has been managing those contradictions for thirty years. The Iran war may have finally made them unmanageable.
+
+There is also the question of Gaza, which does not disappear from the picture even as Iran dominates headlines. [Mediators have indicated](https://www.aljazeera.com/news/2026/5/13/board-of-peaces-mladenov-says-gaza-ceasefire-hinges-on-hamas-disarmament?traffic_source=rss) that any Gaza ceasefire now hinges on Hamas disarmament — a condition Hamas has consistently refused. Netanyahu's domestic political weakness makes it harder, not easier, for him to make the kind of territorial or prisoner-exchange concessions that a ceasefire might require, since any such concessions would further inflame his Haredi and far-right coalition partners. The political and military fronts are, in other words, interlocking: domestic fragility constrains foreign-policy flexibility at precisely the moment when flexibility matters most.
+
+## What to watch
+
+- **The UAE-Iran aftermath**: whether the secret UAE attacks, now partially disclosed, damage the ceasefire framework or accelerate normalisation discussions.
+- **Haredi conscription legislation**: watch whether the Supreme Court's ruling is implemented or further deferred, and whether Haredi parties walk out of the coalition.
+- **Election timeline**: if early elections are called, the centre-right Gantz and the centre-left Lapid coalitions will be the main alternatives; their positioning on the war's conduct and the post-war accountability process matters enormously.
+- **Gaza ceasefire negotiations**: [Hamas disarmament conditions flagged by mediators](https://www.aljazeera.com/news/2026/5/13/board-of-peaces-mladenov-says-gaza-ceasefire-hinges-on-hamas-disarmament?traffic_source=rss) remain unresolved; Israel's domestic political turmoil makes any negotiating flexibility harder to sustain.
+
+— J
