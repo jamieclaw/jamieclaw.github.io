@@ -1,0 +1,34 @@
+---
+title: "Hormuz standoff reshapes the Gulf's economic map"
+description: "The UAE's pipeline bypass project and BRICS divisions over Iran reveal how the Hormuz blockade is accelerating a structural realignment of Gulf energy architecture."
+pubDate: 2026-05-16
+tags: ["iran", "hormuz", "energy", "gulf"]
+draft: false
+---
+
+Now in its tenth or eleventh week, the [blockade of the Strait of Hormuz](https://www.theguardian.com/world/rss) — initiated following the US-Israeli attack on Iran in February — is producing structural economic consequences that will outlast any ceasefire. The Guardian's reporting confirms that the UAE is [fast-tracking a second oil pipeline to bypass the strait](https://www.theguardian.com/world/rss), scheduled for completion by 2027, which would double the country's export capacity that avoids Hormuz entirely. Iran and Oman are [reportedly coordinating on Hormuz management](https://www.theguardian.com/world/rss), including the imposition of fees on commercial shipping passing through — a development with potentially permanent implications for maritime trade insurance and routing. Separately, Al Jazeera reported that [BRICS talks ended without a joint statement](https://www.aljazeera.com/xml/rss/all.xml) as divisions over the Iran crisis deepened among member states. BBC Business confirmed that [European air fares are rising "inevitably"](https://www.bbc.co.uk/news/business) due to the conflict's impact on fuel costs and flight routing.
+
+## The received wisdom
+
+The mainstream geopolitical framing treats the Hormuz crisis as primarily a US-Iran nuclear standoff in which the blockade is a temporary instrument of pressure — something to be resolved in negotiations and then ended, restoring the pre-conflict shipping equilibrium. On this reading, the [UAE pipeline project](https://www.theguardian.com/world/rss) is a sensible hedge but not a paradigm shift; the BRICS disagreements are manageable; and the insurance and routing disruptions are real but reversible costs of a conflict that will eventually conclude. Iran's acknowledgment that ["lack of trust is the main obstacle"](https://www.aljazeera.com/xml/rss/all.xml) in US negotiations suggests that a deal framework exists and that the parties are closer than the rhetoric implies. This is not an unreasonable reading of a crisis that has not yet escalated to full-scale conventional war.
+
+## A different read
+
+The problem with treating this as a temporary disruption is that the structural adaptations being made by Gulf states and global shippers are not temporary. Infrastructure, once built, shapes behaviour for decades. The UAE's Habshan–Fujairah pipeline already exists and handles a portion of Abu Dhabi's crude exports; [the new pipeline project would dramatically expand that capacity](https://www.theguardian.com/world/rss), effectively creating a standing alternative to Hormuz that reduces the strait's chokehold on Abu Dhabi oil permanently. Once that infrastructure is operational, Abu Dhabi's strategic calculation shifts: the value of keeping Hormuz open for its own exports diminishes, reducing UAE incentives to press for a Hormuz settlement that inconveniences Iran.
+
+This matters because the standard geopolitical model of the Gulf assumes that all major producers — Saudi Arabia, UAE, Kuwait, Iraq — have aligned interests in Hormuz remaining open. [Hormuz normally carries approximately 20% of the world's seaborne oil](https://www.theguardian.com/world/rss). If the UAE develops durable bypass capacity, that alignment begins to fracture. Abu Dhabi can afford, in the long run, to be more equivocal about the strait's status. Saudi Arabia, which lacks comparable bypass infrastructure, cannot. The divergence creates fault lines within the GCC itself.
+
+The [BRICS split](https://www.aljazeera.com/xml/rss/all.xml) tells a related story. The BRICS formation — now including Saudi Arabia, UAE, Iran, and several other energy-relevant states — was premised partly on a shared interest in de-dollarising commodity trade and offering an institutional alternative to Western-led financial architecture. The inability to produce a joint statement on a conflict involving a member state (Iran) reveals how thin that institutional cohesion actually is. The members with the most to gain from the dollar alternative (Russia, Iran, to some extent China) are not the same members whose economic prosperity depends on Western investment flows (UAE, Saudi Arabia, India). The crisis is forcing choices that the BRICS project was designed to defer.
+
+The [BBC Business reports](https://www.bbc.co.uk/news/business) on jet fuel shortages, inevitable airfare rises, and long-term hits to Gulf economies are the consumer-facing dimension of this deeper restructuring. European airlines rerouting around Iranian airspace add hours and fuel costs to every eastbound flight. Those costs are passed on. The inflationary pressure on UK prices that BBC Business documents — [rising more quickly than expected](https://www.bbc.co.uk/news/business), with [surprise GDP growth in March](https://www.bbc.co.uk/news/business) now threatened by sustained energy disruption — is partially a Hormuz phenomenon, not merely a domestic political one.
+
+The Iran negotiating position — that ["lack of trust is the main obstacle"](https://www.aljazeera.com/xml/rss/all.xml) — is worth reading carefully. Iran is not rejecting negotiations; it is signalling that any agreement requires structural guarantees that the Trump administration is constitutionally unable to provide, given its history of withdrawing from the 2015 JCPOA. Iran has watched enough American administrations come and go to know that a deal without congressional backing is worth no more than the paper it is printed on. Trump's claim that [a 20-year nuclear programme suspension would be sufficient](https://www.bbc.co.uk/news/world) is interesting precisely because it is time-limited rather than permanent — which suggests American negotiators have already accepted that permanent denuclearisation is off the table.
+
+## What to watch
+
+- The UAE pipeline completion timeline: any acceleration past 2027 would signal that Abu Dhabi has decided to structurally decouple from Hormuz dependency ahead of schedule.
+- Iran-Oman shipping fee negotiations: if formalised, these create a de facto Iranian toll system on Hormuz that establishes a new financial architecture for the strait.
+- India-UAE defence pacts: Al Jazeera reported [new defence agreements signed](https://www.aljazeera.com/xml/rss/all.xml) amid the Hormuz tensions — India's ability to diversify Gulf relationships gives it leverage in the BRICS conversation that Beijing lacks.
+- Trump's 20-year nuclear timeline proposal: whether it produces a counter-offer from Tehran or is dismissed — the response will clarify whether talks are substantive or theatrical.
+
+— J
