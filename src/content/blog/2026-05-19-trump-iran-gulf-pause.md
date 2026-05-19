@@ -1,0 +1,33 @@
+---
+title: "Gulf states veto Trump's Iran war"
+description: "When Gulf monarchies talked Trump out of striking Iran, they revealed how much American war-making power has been quietly outsourced to states with their own interests."
+pubDate: 2026-05-19
+tags: ["iran", "middle-east", "us-foreign-policy", "gulf-states"]
+draft: false
+---
+
+The United States reportedly had a military strike on Iran scheduled and then called it off. According to [BBC reporting](https://feeds.bbci.co.uk/news/world/rss.xml), President Trump postponed the planned attack at the request of Gulf states, citing what he described as "serious negotiations" now underway. The [Guardian](https://www.theguardian.com/world/rss) added detail: Iran has put a new deal proposal on the table, and Trump says there is a "very good chance" of an agreement to prevent Iran obtaining nuclear weapons. Markets responded immediately — [oil prices slumped](https://feeds.bbci.co.uk/news/business/rss.xml) after Trump announced the cancellation of strikes. The episode raises a question that the usual headlines obscure: who exactly decides when America goes to war?
+
+## The received wisdom
+
+The mainstream interpretation is reassuring, and not without merit. Gulf states counselling restraint is better than Gulf states cheering on escalation. A negotiated settlement that verifiably constrains Iran's nuclear programme would be a genuine diplomatic achievement, and the fact that channels remain open — that Iran is reportedly proposing terms rather than simply defying — suggests the pressure campaign has had some effect. Regional actors like Saudi Arabia and the UAE have the most immediate stake in any Middle East conflagration. Their anxiety about blowback is rational, and their influence on the US president may have prevented casualties on all sides. From this angle, the episode is a success story: multilateral caution prevailed over impulsive unilateralism.
+
+There is also a simpler reading: Trump has always been more interested in the *deal* than the war. His instincts, whatever else one thinks of them, are transactional rather than neoconservative. He called off the 2019 strike on Iran with ten minutes to spare, citing potential casualties. He reportedly resisted advisors pushing for military action more than once during his first term. The Gulf monarchies understand this — and they know how to frame things in terms of commercial and personal interest. That is not a criticism, necessarily. It may be pragmatic diplomacy working exactly as intended.
+
+## A different read
+
+Still, there is something worth pausing over here. The United States cancelled a scheduled military strike — not a contingency plan, not a war-game scenario, but apparently an operation set to go — because foreign governments asked it to. Those foreign governments, the Gulf monarchies, are not democracies. They have their own complex relationships with Iran, including trade ties, diplomatic back-channels, and in some cases significant Shia populations they are anxious not to inflame. Their interests are not identical to American interests, let alone to the interests of allies in Europe or the broader Western alliance.
+
+The [Guardian's coverage](https://www.theguardian.com/world/rss) of the Hormuz situation is instructive here. The Strait remains disrupted, and UK Foreign Secretary Yvette Cooper has warned that fertiliser supplies must be freed within weeks to avoid a global food crisis. German Chancellor Merz described the economic impact on Europe as "severely damaging." Yet the decision to stand down — at least temporarily — was shaped primarily by the preferences of Abu Dhabi and Riyadh. European allies, who bear the most direct economic pain from Hormuz closure, appear to have had little say.
+
+There is a historical precedent worth considering. During the 1973 oil embargo, the Nixon administration discovered how dramatically Saudi Arabia could constrain American options in the Middle East — not through military power but through leverage over energy and economics. The current situation has a different structure: American leverage is greater, and Iran is the adversary rather than the ally. But the underlying dynamic — Gulf monarchies as force multipliers or force dampeners on American power — has persisted across half a century of Middle East policy. [Al Jazeera reporting](https://www.aljazeera.com/xml/rss/all.xml) notes that Iran's President Díaz-Canel (referring to Cuba) and broader regional actors are all watching how the US handles its commitments when pressed.
+
+What is also notable is the degree to which the decision was made publicly and apparently impulsively. Trump announced the cancellation on social media, as he announced the original threat. This is not how great powers have traditionally managed coercive diplomacy. The value of a credible threat depends substantially on the threat being... credible. A strike that is called off once because allies asked nicely is a strike whose deterrent value has been partially consumed. The next time Washington moves forces into position, Tehran's strategists will be running probability calculations that include this data point.
+
+There is, to be fair, a counter-argument from the realist tradition. Nixon himself learned that credible irrationality — the "madman theory" — could be a strategic asset. A president who might really do anything is harder to manipulate than one who is predictably constrained. If Trump's unpredictability keeps Iran genuinely uncertain about American intentions, there may be a deterrence benefit that offsets the credibility cost. But that argument requires trusting that the unpredictability is itself a strategy, rather than improvisation. The evidence for the former is, at best, ambiguous.
+
+## What to watch
+
+Four signals are worth tracking. First, whether Iran's reported deal proposal contains anything that resembles verification mechanisms — any agreement without robust inspection rights is not a deal, it is a reprieve. Second, whether Gulf states, having demonstrated their ability to hold back American strikes, attempt to extract additional concessions from Washington — on arms sales, on Yemen, on post-war reconstruction access. Third, the oil price: Hormuz disruption has driven energy costs higher across Europe; whether the pause translates into re-opening of shipping lanes will be the clearest economic indicator of whether diplomacy is actually progressing. Fourth, Congressional reaction — a president who called off a military strike because foreign monarchies requested it will face questions about war powers authority that may prove more durable than the immediate news cycle.
+
+— J
