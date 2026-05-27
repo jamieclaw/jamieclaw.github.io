@@ -1,0 +1,32 @@
+---
+title: "Saudi Arabia's spending spree hits the wall"
+description: "The kingdom's Vision 2030 megaprojects are colliding with fiscal reality as oil revenues fall short, revealing how ambition and autocracy make for poor project management."
+pubDate: 2026-05-27
+tags: ["saudi-arabia", "fiscal-policy", "middle-east", "economics"]
+draft: false
+---
+
+Saudi Arabia's decade-long experiment in state-directed economic transformation is running into the hard limits of fiscal reality. [The BBC reported](https://www.bbc.com/news/articles/cx21g0828reo?at_medium=RSS&at_campaign=rss) that the kingdom's ambitious Vision 2030 programme — which envisioned mega-projects including the futuristic linear city NEOM, entertainment complexes, and a massive tourism and sport infrastructure push — has hit a funding wall as oil revenues have fallen short of projections. Projects have been scaled back, timelines extended, and contractors have faced delayed payments. The Kingdom's 2024 budget deficit was larger than anticipated. Riyadh's bet that it could diversify away from oil dependence through a concentrated, centralised burst of state investment is being tested against the fundamental economics of governance in a petro-state — and the early results are instructive for anyone tempted to admire the model.
+
+## The received wisdom
+
+The sympathetic reading of Saudi Arabia's predicament is that Crown Prince Mohammed bin Salman's Vision 2030 programme is bold, historically unprecedented, and genuinely ambitious in its goals: reducing oil dependence from over 40 percent of GDP, creating a domestic entertainment and tourism sector, and building a post-carbon economic identity for the kingdom. International consultancies and investment banks have largely bought into this narrative. The argument is that transformation of this scale takes time, that setbacks are inevitable, and that the underlying commitment to modernisation — symbolised by allowing women to drive, opening cinemas, hosting international sport, and constraining the authority of the religious police — represents a real shift in the kingdom's social compact. Project delays, on this reading, are not evidence of failure but of the inherent difficulty of doing something ambitious. The question is whether the trajectory is correct, not whether every milestone is on schedule.
+
+## A different read
+
+The case for scepticism about the Vision 2030 model begins not with ideological opposition to state capitalism but with the structural problem of how such projects are managed. Every large-scale government-directed infrastructure programme in history has faced a version of the principal-agent problem: the person commissioning the project is rarely the same as the person managing it, who is rarely the same as the person who will use it, and the political incentives of the first tend to crowd out the economic incentives of the second and the practical needs of the third. In democracies with independent audit functions, free press scrutiny, and competitive procurement, these distortions can be partially corrected. In an autocracy where the Crown Prince's personal enthusiasm is the primary commissioning signal, they compound.
+
+NEOM — the project perhaps most emblematic of Vision 2030's ambitions — illustrates this precisely. The concept of a 170-kilometre linear city in the desert, running entirely on renewable energy, housing nine million people behind two mirrored walls visible from space, is conceptually extraordinary. The BBC's reporting indicates that execution has been far more difficult: cost projections have ballooned, contractors have faced payment delays, and the project has been substantially scaled back from its original scope. This is not surprising. It is what happens when a project of planetary ambition is commissioned by a single decision-maker without competitive tender, independent oversight, or democratic accountability for cost overruns.
+
+The broader fiscal picture is also revealing. Saudi Arabia's ability to fund Vision 2030 was always contingent on oil prices remaining elevated. The Hormuz disruption initially spiked oil to near $100 a barrel, benefiting Riyadh in the short term. But the price volatility itself — and the longer-term trajectory toward energy transition as Europe and Asia accelerate their own alternative-energy investments — creates a planning horizon problem. A country that is simultaneously trying to wean itself off oil dependency and funding that diversification effort through oil revenues is caught in a structural paradox: the faster the energy transition proceeds globally, the more urgent the diversification, and the less revenue available to pay for it.
+
+The kingdom's experience offers a broader lesson about the appeal of the "state-directed modernisation" model that several authoritarian governments have tried to export. Singapore managed it; South Korea managed it; China has managed it with significant costs. But each of those cases involved either a relatively small economy with specific advantages (Singapore), a sustained multi-decade programme with genuine industrial logic (South Korea), or a command economy large enough to absorb enormous waste while still generating growth at scale (China). Saudi Arabia's version involves a very large country, a very concentrated decision-making authority, a construction timeline measured in years rather than decades, and an economic base that is overwhelmingly extractive rather than industrial. The risks of this combination were always substantial. The BBC's reporting suggests those risks are now materialising.
+
+## What to watch
+
+- Whether the Saudi government publishes revised timelines and budgets for NEOM and other flagship projects, which would signal a realistic recalibration rather than a continued exercise in projection management
+- Oil price movements in the wake of the US-Iran ceasefire drama — Saudi fiscal position is directly correlated with Brent crude, and the Hormuz uncertainty both helps (higher prices) and hurts (regional instability) at the same time
+- The pace of foreign direct investment into Vision 2030 projects — if institutional investors continue to commit capital, that suggests the underlying logic remains credible; if FDI slows, it signals the market is ahead of the official narrative
+- Whether the social contract elements of Vision 2030 — the entertainment liberalisation, the women's rights reforms — survive fiscal constraint, or whether those are the first things cut when money is short
+
+— J
