@@ -1,0 +1,33 @@
+---
+title: "Trump's voluntary AI safety order is a start"
+description: "The administration's new AI executive order substitutes voluntary review for binding regulation — a pragmatic half-measure that at least acknowledges the security stakes."
+pubDate: 2026-06-03
+tags: ["ai", "tech-policy", "regulation", "national-security"]
+draft: false
+---
+
+President Trump signed an executive order on 2 June titled "Promoting Advanced Artificial Intelligence Innovation and Security," establishing a framework for the voluntary pre-release review of the most powerful AI models. [Under the order, reported by NPR](https://www.npr.org/2026/06/02/nx-s1-5844347/ai-safety-trump-executive-order), AI companies may submit frontier models to government testing up to 30 days before public release, but are not required to do so. The order also directs federal agencies to develop cybersecurity benchmarks for AI systems and creates an "AI cybersecurity clearinghouse" to share vulnerability information. The signing comes after a May episode in which the White House scrapped an earlier version of the order because Trump feared it would stifle innovation; the final version cut the review window from the originally proposed 90 days to 30. The catalyst was Anthropic's April announcement that it was limiting distribution of its Mythos Preview model because the system could identify and exploit high-severity software vulnerabilities in every major operating system and web browser.
+
+## The received wisdom
+
+The progressive and tech-progressive critique of this order will run in two directions simultaneously, which should tell us something about the political incoherence of the debate. From the safety-maximalist wing — the Effective Altruism-adjacent researchers and the "AI doom" cluster — the voluntary approach is a catastrophic capitulation to industry lobbying, the equivalent of asking pharmaceutical companies to self-certify their own drug trials. If a model can identify zero-day vulnerabilities in every major operating system, treating its release as a matter of corporate discretion is not a safety policy; it is a policy of hoping nothing goes wrong. From the civil liberties and anti-corporate wing, meanwhile, any government pre-clearance framework is a threat to open-source development, a competitive moat for incumbents like OpenAI and Anthropic, and a potential tool for censorship of AI outputs that challenge official narratives.
+
+Both critiques contain partial truths. But taken together, they reveal that the left has no coherent position on AI governance — only a reflexive opposition to whatever the current administration proposes.
+
+## A different read
+
+The right way to evaluate this order is not against some ideal regulatory framework but against the realistic political and institutional alternatives. The Trump administration came to office with a strong deregulatory stance on AI, having campaigned against the Biden administration's executive order as overreach. That the administration signed any AI safety order at all — prompted by genuine alarm in both Silicon Valley and the national security community about Anthropic's Mythos Preview — represents a meaningful updating of priors. It is worth pausing on what that model reportedly could do: find high-severity vulnerabilities in every major operating system and web browser. That is not a theoretical risk; it is a live capability that nation-state adversaries would pay handsomely to acquire or reproduce.
+
+The 30-day voluntary review window is not nothing. The federal government's ability to assess frontier AI capabilities is genuinely limited — the talent and compute required to evaluate these systems do not currently exist in government at scale. Building the benchmarks and the clearinghouse infrastructure the order mandates is a prerequisite for any more ambitious regulatory framework. You cannot go from zero to binding pre-market approval in one step without either massive regulatory error or massive industry resistance that produces worse compliance than voluntary cooperation. The order is best understood as institutional infrastructure-building rather than end-state policy.
+
+The serious limitation is the word "voluntary." The history of voluntary industry self-regulation in sectors with large externalities — financial services pre-2008, social media content moderation, pharmaceutical off-label marketing — is not encouraging. The order itself acknowledges this: it explicitly states that nothing in it should be construed to authorise mandatory licensing or preclearance requirements, and that any binding regulations would require Congressional action. That is a significant escape hatch, and Congress has not distinguished itself on AI policy. The same legislative body that was unable to pass comprehensive social media regulation for minors over a decade of trying is being asked to legislate on systems vastly more complex and faster-moving.
+
+What the order does accomplish is to establish a norm: frontier AI companies should cooperate with government security review. Norms, once established voluntarily, become harder to walk back. The cybersecurity clearinghouse creates an institutional actor with bureaucratic interests in expanding its mandate. And the 30-day window, however voluntary, puts the question of national security review onto every major AI company's product roadmap. That is not a trivial change.
+
+The harder question — who inside government actually has the expertise to evaluate a model like Mythos Preview — remains unanswered. The order establishes benchmarks and processes without specifying the talent pipeline that makes those processes meaningful. If the clearinghouse is staffed by government employees who are several years behind the frontier, the review window produces paperwork rather than security. That gap is not Trump's creation, but it is his administration's problem to solve.
+
+## What to watch
+
+Watch whether the major frontier labs — OpenAI, Anthropic, Google — actually submit models voluntarily and what, if anything, the review process reveals or prevents. Watch for Congressional hearings on binding AI legislation; the Mythos Preview episode created the kind of concrete, security-specific concern that can actually move votes on the Hill. Watch the open-source AI community's response: the order's scope covers large commercial models, but open-source releases of comparable capability fall outside its reach. And watch China's reaction — one of the implicit rationales for the voluntary approach was avoiding measures that would slow the US-China AI race.
+
+— J

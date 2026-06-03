@@ -1,0 +1,31 @@
+---
+title: "Brazil tariffs and the logic of economic coercion"
+description: "Trump's proposed 25% tariffs on Brazil — a country with which the US already runs a $14 billion surplus — reveal how economic nationalism has displaced trade logic entirely."
+pubDate: 2026-06-03
+tags: ["trade", "brazil", "tariffs", "latin-america"]
+draft: false
+---
+
+The Trump administration has proposed 25% tariffs on imports from Brazil, invoking Section 301 of the Trade Act of 1974. The Office of the US Trade Representative cited lax Brazilian anti-corruption enforcement and "unreasonable" trade practices that burden US commerce. [The Guardian reported](https://www.theguardian.com/business/2026/jun/02/trump-administration-brazil-tariffs) that in 2024, the United States exported $54.4 billion to Brazil and imported $39.9 billion — a US goods trade surplus of more than $14 billion — with American services exports running at four times Brazil's services exports to the US. President Lula, who visited the White House in May and presented Trump with documents demonstrating the surplus, received the announcement "with indignation" and vowed that Brazil would "adopt every measure capable of reducing the damage." A public hearing is scheduled for 6 July. The proposal arrives weeks after the Supreme Court's February ruling that the administration had overstepped its authority using the International Emergency Economic Powers Act for broad tariff impositions, prompting a pivot to Section 301, which has survived legal challenge.
+
+## The received wisdom
+
+The standard free-trade critique of this tariff proposal is straightforward and largely correct on its own terms: the United States already has a bilateral trade surplus with Brazil, which means the conventional mercantilist justification — equalising a deficit — does not apply. Tariffs on a surplus partner impose costs on American importers and consumers without correcting any structural imbalance. The US imports Brazilian steel, aircraft components, agricultural goods, and critical minerals; a 25% levy raises costs throughout those supply chains. The Section 301 rationale — corruption enforcement and "unreasonable" trade practices — is a legal vehicle capable of covering virtually any bilateral relationship the administration dislikes. If the standard is whether Brazil's domestic governance meets American expectations, there are very few countries in the world that qualify for tariff-free access.
+
+The political context sharpens the critique: the timing of this proposal, following Bolsonaro family members' visit to the Oval Office and ahead of Brazil's October elections, suggests the tariffs are at least partly an instrument of electoral interference rather than trade policy. Lula said as much directly, and the coincidence is hard to dismiss.
+
+## A different read
+
+The conventional free-trade response, however, has a blind spot. The Trump administration is not, and has not been, operating within the framework of neoclassical trade theory, where the goal is aggregate welfare maximisation through comparative advantage. It is operating within a framework where trade policy is an instrument of geopolitical leverage, domestic industrial rebuilding, and political coalition maintenance. Evaluated on those terms, the Brazil tariffs are not irrational — they are consistent with a broader strategy that has been applied to the EU, China, Mexico, and Canada in various forms.
+
+The more interesting question is whether that strategy works. The record so far is mixed. The tariffs on China prompted supply chain diversification that has, over several years, genuinely reduced some American dependencies on Chinese manufacturing — though at significant consumer cost. The tariffs on allies, by contrast, have tended to generate retaliatory measures and diplomatic strain without producing the renegotiated trade deals the administration promised. Canada's formal request for a 16-year renewal of the North American free trade pact — [reported by the BBC](https://www.bbc.com/news/articles/cn9prr3w9nlo) — reflects the paradox of tariff diplomacy: the pressure generates defensive consolidation rather than concession.
+
+Brazil's case is analytically interesting because it illustrates the limits of economic coercion against countries with credible alternatives. Lula's response — "if they don't want to buy from us, we will sell to someone else" — is not empty rhetoric. China has been Brazil's largest trading partner for over a decade. Brazilian soybeans, iron ore, and beef flow eastward in enormous volumes. Pushing Brazil's government toward Beijing is precisely the wrong outcome if the underlying strategic goal is to limit Chinese economic influence in the Western Hemisphere, which is ostensibly among the administration's objectives. The tariff on Brazil's agricultural and mineral exports may accelerate exactly the China-Brazil economic integration that serves neither American trade interests nor American geopolitical interests.
+
+The Section 301 pivot after the Supreme Court's IEEPA ruling is also worth examining as a precedent. Section 301 tariffs have survived legal challenge because they require a specific USTR investigation with findings. That process, however, produces a written record — and the written record here shows a US trade surplus with the target country. That is an unusual predicate for a punitive trade action, and it may prove legally and politically vulnerable in ways that the administration has not fully anticipated.
+
+## What to watch
+
+Watch the 6 July hearing and whether Brazilian industry and American importers — particularly in aircraft, agriculture, and critical minerals — mobilise against the proposed tariffs. Watch Lula's response: his China pivot rhetoric is real and has been building since Trump's first-term tariff episodes; a formal shift in commodity export orientation toward Beijing would be geopolitically significant. Watch whether the Bolsonaro connection becomes a political liability for the tariff proposal domestically, given that it ties American trade policy to the electoral interests of a foreign political faction. And watch the Section 301 legal challenges that will inevitably follow if the tariffs are imposed — the surplus predicate is unusual and may generate judicial scrutiny.
+
+— J
