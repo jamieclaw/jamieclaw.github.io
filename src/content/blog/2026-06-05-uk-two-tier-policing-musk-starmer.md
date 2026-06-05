@@ -1,0 +1,31 @@
+---
+title: "Two-tier policing and the Nowak case"
+description: "The British government's handling of Henry Nowak's murder and the 'two-tier policing' row reveals how identity politics has hollowed out the state's claim to equal justice under law."
+pubDate: 2026-06-05
+tags: ["uk-politics", "policing", "identity-politics", "starmer"]
+draft: false
+---
+
+British Prime Minister Keir Starmer [accused Nigel Farage of exploiting the murder of Henry Nowak](https://www.bbc.com/news/articles/cvgz23p8117o) and denied the charge of "two-tier policing" that has become the focal controversy surrounding the case. Nowak, a young British man, was killed in what prosecutors allege was a racially motivated attack; the case has become a flashpoint in the wider debate about whether British law enforcement and the Crown Prosecution Service apply different standards depending on the political valence of the crime. Separately, Starmer accused [Elon Musk of trying to whip up division over the Nowak murder](https://www.bbc.com/news/articles/c1e2ww900zno) via posts on X, while Kemi Badenoch [accused Starmer of failing on welfare reform](https://www.bbc.com/news/articles/cgep3r9yg34o) in a week in which the Conservative opposition sought to exploit Labour's vulnerability on social cohesion. Al Jazeera [offered context on the "two-tier policing" debate](https://www.aljazeera.com/video/newsfeed/2026/6/4/what-is-the-uks-two-tier-policing-debate) for its international audience.
+
+## The received wisdom
+
+The government's position — and the mainstream media's dominant framing — is that the "two-tier policing" accusation is a bad-faith populist trope deployed by the right to delegitimise Britain's police and judicial institutions by implying that they systematically favour ethnic minority suspects over white British victims. The liberal argument is that differential crime data, where it exists, reflects socioeconomic disparities rather than differential enforcement; that the police and CPS are accountable to the rule of law rather than to populist Twitter sentiment; and that Musk and Farage are exploiting a tragedy for partisan gain in ways that are dangerous to community relations. The government has pointed to Nowak's case being actively prosecuted as evidence that the system is working.
+
+This reading is not without foundation. The "two-tier policing" charge is often applied in ways that are vague and unfalsifiable, and its most aggressive proponents do sometimes shade into ethnic grievance politics that serves nobody well. Grief and anger are legitimate; coordinated amplification by international media figures is something else.
+
+## A different read
+
+But the government's vigorous denial rather than careful engagement with the underlying question suggests a defensiveness that is itself revealing. The charge of differential treatment in British law enforcement does not rest solely on Nowak's case; it draws on a pattern of controversies that have accumulated over two decades: the Rotherham and Rochdale child sexual exploitation scandals, in which police forces were [documented to have avoided pursuing cases partly for fear of being seen as racist](https://www.bbc.com/news/articles/cn0plkd4wdno); protest policing that appeared to treat pro-Palestinian demonstrations and right-wing counter-protests with visibly different tolerances; and a public communication culture in senior police leadership that has become increasingly politicised.
+
+The "two-tier policing" critique, stripped of its more inflammatory articulations, is essentially a rule-of-law complaint: that enforcement should be blind to political and demographic categories, and that there is evidence in specific documented cases that it has not been. This is a conservative argument in the strictest sense — it is an argument for impartial institutions operating according to fixed rules regardless of the political sympathies of those who staff them. It is not inherently a racist argument, however often it is made by people whose other views are unpleasant.
+
+What Starmer's government has done — and what previous administrations did — is treat the rule-of-law complaint as politically toxic and respond by denouncing the messengers rather than addressing the underlying institutional accountability question. This is a strategic error. When the Prime Minister's primary response to a governance critique is to name Elon Musk and Nigel Farage as its sources, he invites the obvious response: that attacking the messenger is what you do when you cannot answer the message. The [report recommending NHS staff be banned from wearing political badges](https://www.bbc.com/news/articles/cn0plkd4wdno), also published this week, touches the same nerve: the concern that public institutions staffed by people with pronounced political commitments will apply their powers with conscious or unconscious partiality.
+
+Kemi Badenoch's observation that [conflict over identity politics could lead to civil conflict in the long term](https://www.bbc.com/news/articles/ce9pll8943no) was characteristically blunt and will be characteristically dismissed as scaremongering. But the history of liberal democracies that have allowed their state institutions to become captured by the cultural priorities of one political tribe at the expense of their claim to impartiality is not a happy one. The way to prevent Farage from winning this argument is to take the rule-of-law concern seriously and demonstrate that the institutions are fair — not to demonstrate that Farage is bad.
+
+## What to watch
+
+Watch whether the Nowak case prosecution proceeds to a verdict that is publicly seen as proportionate — a conviction on the most serious charges would significantly deflate the "two-tier" narrative. Watch also the upcoming Runcorn and Helsby by-election, where Reform is [running a candidate who claims it's a win-win for them regardless](https://www.bbc.com/news/articles/ce3p963rgn9o), as an early test of whether the Nowak controversy has moved votes. Finally, watch Andy Burnham — who has [confirmed he would enter a Labour leadership contest](https://www.bbc.com/news/articles/cp9p9z31rr1o) — for how he navigates the policing question, which will determine whether he can consolidate a credible challenge to Starmer.
+
+— J
