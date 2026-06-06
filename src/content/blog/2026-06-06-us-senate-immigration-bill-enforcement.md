@@ -1,0 +1,39 @@
+---
+title: "The Senate immigration bill and enforcement's long failure"
+description: "The Senate's passage of a major immigration funding bill reflects Washington's instinct to throw money at a system whose dysfunction is structural, not merely under-resourced."
+pubDate: 2026-06-06
+tags: ["immigration", "us-politics", "border", "senate"]
+draft: false
+---
+
+The United States Senate [passed a major immigration funding bill](https://www.npr.org/2026/06/05/nx-s1-5846807/senate-weaponization-fund-reconciliation-vote-immigrati) after an overnight vote this week, approving new funding for border enforcement, immigration court staffing, and detention capacity as part of a broader reconciliation package. The legislation, a Republican priority, [was also covered in NPR's morning newsletter](https://www.npr.org/2026/06/05/g-s1-126290/up-first-newsletter-immigration-fund-save-act-john-bolton) as a signal moment in the ongoing struggle between the executive and legislative branches over immigration control. The passage comes amid continuing controversy over the administration's immigration enforcement methods: a [federal judge this week struck down](https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-3) the Trump administration's blanket bar on asylum and visa processing for nationals of 39 countries, finding it exceeded statutory authority. And in an extraordinary case that encapsulates the system's dysfunction, [a US immigration judge signed a deportation order](https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim) for a teenager who had already been murdered — a clerical failure that underscores how overwhelmed the immigration courts have become.
+
+## The received wisdom
+
+The progressive case on immigration is well-rehearsed: the system is broken because Congress has refused to pass comprehensive reform since 1986, leaving enforcement agencies to operate under laws designed for a different era of migration patterns. The humanitarian costs of the current system — family separations, detention conditions, asylum processing delays measured in years — are the product of that legislative failure compounded by executive maximalism. The Trump administration's 39-country ban, now struck down by a federal court, is precisely the kind of overreach that results when an administration tries to achieve through executive action what it cannot pass legislatively. On this view, the Senate's funding bill is a band-aid on a haemorrhage: more money for a fundamentally broken enforcement apparatus will not address the root causes of migration, and will likely generate more human-rights abuses per dollar spent.
+
+There is genuine force to this argument, and it deserves to be engaged seriously rather than dismissed. The immigration court backlog — currently over three million cases — is not a product of insufficient enforcement zeal. It is a product of chronic underfunding of the judicial infrastructure on which enforcement depends.
+
+## A different read
+
+The received wisdom, however, tends to treat "comprehensive immigration reform" as an obviously achievable goal that political bad faith has prevented, when the historical record suggests otherwise. The 2007 Senate immigration bill — supported by George W. Bush, Ted Kennedy, and John McCain, a coalition of unusual breadth — failed not because of right-wing obstruction alone but because it encountered genuine public ambivalence across the political spectrum. The 2013 Gang of Eight bill passed the Senate with 68 votes and died in the House not because of ideological extremism but because House members in competitive districts calculated that their constituents had mixed views on its specific provisions.
+
+The political economy of immigration reform is not simply elite consensus thwarted by nativist rabble. It reflects a real and unresolved tension between the economic case for labour mobility — which is strong, and supported by most mainstream economists — and the legitimate interest of citizens in the social and institutional coherence of the communities they live in. A conservative who worries about the capacity of particular communities to absorb rapid demographic change is not necessarily xenophobic; they may be making a reasonable empirical claim about the limits of institutional adaptability, which is a claim that left-wing commentators tend to accept readily in every other context (housing supply, school capacity, healthcare waiting times) except this one.
+
+The striking statistic is the immigration court case of the murdered teenager. [The Guardian's report](https://www.theguardian.com/us-news/2026/jun/03/north-carolina-judge-deport-teen-murder-victim) describes an immigration judge signing a removal order for someone who was already dead — a grim metonym for a system so overwhelmed that basic administrative accuracy has broken down. The court backlog is a management failure, and management failures are, by definition, amenable to resource solutions. The Senate bill's focus on court staffing and case-processing capacity is not simply punitive enforcement theatre; it is a recognition that a system which cannot process claims in any reasonable timeframe provides neither justice to migrants nor order for communities.
+
+[Trump's tariff pitch to farmers in Wisconsin](https://www.aljazeera.com/news/2026/6/5/trump-makes-pitch-to-farmers-hard-hit-by-tariffs-high-prices) is a reminder of the political economy that surrounds immigration: agricultural states depend on immigrant labour for food production, yet rural communities in those same states are among the most politically opposed to high immigration levels. This contradiction is not going to be resolved by a funding bill or a court ruling. It reflects deep structural features of American political geography that neither party has found a way to address honestly.
+
+The [court's striking down of the 39-country ban](https://www.aljazeera.com/news/2026/6/5/judge-strikes-down-trump-bar-on-asylum-visa-processing-for-3) on statutory grounds is, on the one hand, an example of judicial oversight working as intended. On the other hand, it returns the administration to the baseline of a broken system — not a functional one. Courts can prevent executive overreach; they cannot supply the missing congressional legislation or the administrative capacity that would make the system work. The cycle of executive action, judicial reversal, and legislative stalemate has been running for twenty years, and the people who suffer most from it are not the advocates on either side of the debate but the migrants waiting years for processing and the communities that have absorbed significant social change without being asked.
+
+## What to watch
+
+**Whether the reconciliation bill's immigration provisions survive conference** and reach the president's desk in recognisable form. Reconciliation's procedural constraints limit what can be included, and immigration's political complexity makes it a frequent casualty of final-stage negotiations.
+
+**The appellate trajectory of the 39-country ban ruling**: the administration will appeal, and the Ninth Circuit's handling of the case will tell you whether the judiciary is prepared to draw a clear line between executive discretion and categorical statutory override.
+
+**The immigration court backlog number at year-end**: if the new funding translates into measurable case-processing gains, it will be a data point for the resource-solution argument; if the backlog continues to grow, it will support the structural-dysfunction argument.
+
+**Political effects on competitive Senate seats in 2028**: immigration has consistently outperformed polling as a mobilising issue on the right. Whether Democrats have found a credible alternative framing — as opposed to process objections — will be a leading indicator of the next cycle's terrain.
+
+— J
