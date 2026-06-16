@@ -1,0 +1,36 @@
+---
+title: "Iran deal signed, but the hard part begins"
+description: "Trump's G7 announcement of a signed US-Iran agreement closes one chapter, but the nuclear question and Israel's free hand mean the real test lies ahead."
+pubDate: 2026-06-16
+tags: ["iran", "us-foreign-policy", "middle-east", "g7"]
+draft: false
+---
+
+On the sidelines of the G7 summit in France, President Trump declared Monday that a deal to end the war with Iran had been formally signed — electronically — and that the full text would be released "pretty soon," with a ceremonial signing in Geneva scheduled for Friday. According to Trump, the [Strait of Hormuz would reopen the same day](https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss), with the US lifting its naval blockade of Iranian ports. Pakistan's Prime Minister Shehbaz Sharif, who served as the principal mediator alongside Qatari officials who ran some fourteen to fifteen hours of talks in Tehran, announced a "permanent termination of military operations on all fronts, including Lebanon." The deal was signed by Trump, Vice President JD Vance, and Iranian Parliament Speaker Mohammad Bagher Ghalibaf. Technical talks on Iran's nuclear programme are expected to begin this week.
+
+## The received wisdom
+
+The dominant liberal-internationalist reading of this moment is one of qualified vindication: Trump's maximum-pressure campaign, however reckless and unorthodox in execution, produced a framework that the Obama and Biden-era diplomatic establishment could only dream of. The mainstream interpretation holds that the Strait of Hormuz's reopening is an unambiguous win for the global economy — [oil prices fell and equity markets jumped immediately](https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss) on the news — and that Trump's willingness to break diplomatic norms ultimately broke a strategic deadlock. Centre-left commentators have been careful to acknowledge the deal's economic benefits while reserving their criticism for what they describe as the uncertainty of its nuclear provisions. UK Foreign Secretary David Lammy's government put out a joint statement with Paris, Berlin, and Rome congratulating the parties while insisting that Iran "must never acquire a nuclear weapon" and that sanctions relief must be tied to "clear, verifiable steps." The received wisdom, in short, is: messy but necessary, and better than the alternative of indefinite conflict.
+
+## A different read
+
+There is a great deal to admire in the bare fact that ships are moving through Hormuz again and that an active military conflict has been paused. Let us say that plainly. But the architecture of this agreement carries warning signs that deserve closer scrutiny than the market rally invites.
+
+The deal is, by Trump's own admission, a preliminary framework — the full text was not public as of Monday. Iran's foreign ministry was notably cool in its language, describing the agreement as "merely a step towards reducing tensions" while citing "deep mistrust" of the United States. Iran's military framed the outcome, astonishingly, as the US and Israel "having no option but to accept defeat." Ghalibaf, not the President or Supreme Leader, signed on Iran's behalf — a significant signal about the domestic politics of the agreement within Tehran. These are not the markers of a durable settlement.
+
+The nuclear question is where the architecture becomes genuinely worrying. JD Vance has stated that Iran's commitment never to acquire a nuclear weapon is "built into the agreement" with US verification. But the verification mechanism remains undisclosed, and Iran has consistently maintained that its enrichment programme is non-negotiable. [The deal provides for a 60-day ceasefire extension](https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss) while final negotiations proceed — which is precisely the structure of the 2015 JCPOA framework process, a framework that then took years to conclude, survived politically for only a few years, and ended with Iran's breakout timeline shrinking to weeks rather than months.
+
+Then there is the Israel problem. Netanyahu announced Monday evening that Israeli forces would remain in "security zones" in Lebanon, Syria, and Gaza "as long as necessary." The first Israeli strike on a car in southern Lebanon was reported hours after the deal's announcement. Hezbollah responded with missiles and drones. The deal explicitly does not require Israeli withdrawal from Lebanese territory. In other words, the underlying military dynamic on one of the most explosive fronts remains entirely unaddressed by the agreement. Students of the post-2006 Lebanese ceasefire, or the various Gaza truces, will recognise this pattern: a framework that resolves the headline conflict while leaving the proxy arrangements intact, guaranteeing the next escalation.
+
+Historically, framework agreements in the Middle East that lack enforcement mechanisms and rely on the goodwill of non-signatories — whether Israel in this case, or spoiler factions in previous ceasefires — tend to deteriorate within twelve to eighteen months. The Camp David framework of 1978 worked because both Egypt and Israel had strong strategic incentives to comply and US security guarantees with teeth. The Oslo framework failed because neither side could control the actors who preferred violence. The question for this deal is: who controls Hezbollah, who controls the IRGC hardliners who publicly claimed victory, and who controls the Israeli settlers and far-right coalition partners who regard any Iranian survival as an existential failure?
+
+None of this is to say the deal is worthless. A pause in active hostilities has real value. The Hormuz reopening is economically significant — [the BBC's analysis suggests meaningful downward pressure on oil and food prices](https://www.bbc.com/news/articles/cd0p8me2m5do?at_medium=RSS&at_campaign=rss). And Trump deserves credit for achieving something no administration managed since 1979. But optimism requires ignoring the fine print, the missing text, the Iranian framing, the Israeli free hand, and the 60-day clock. Those who said maximum pressure could produce a deal were right. Whether this deal produces stability is a different question entirely.
+
+## What to watch
+
+- **Nuclear talks timeline**: Whether substantive technical negotiations begin before the 60-day window expires is the single most important variable. A deadline that passes without progress will test whether the ceasefire is self-sustaining.
+- **Israeli actions**: Netanyahu's government faces domestic pressure from coalition partners to maintain military posture. Watch for whether strikes in Lebanon or Syria escalate to a level that provokes Iranian retaliation before the full agreement is finalised.
+- **Iranian domestic politics**: Ghalibaf's signature rather than the Supreme Leader's is telling. Watch whether Khamenei issues public endorsement or strategic ambiguity — the latter signals that Iran is preserving its option to walk away.
+- **Full text release**: The agreement's credibility depends entirely on what the verification and enrichment clauses actually say. If the text is delayed past Friday, the reasons will matter.
+
+— J
