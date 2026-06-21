@@ -1,0 +1,34 @@
+---
+title: "Colombia's election and the paramilitary shadow"
+description: "Colombia's presidential runoff between a paramilitary-linked far-right outsider and a human rights senator tests whether the country can escape the violent logic of its own history."
+pubDate: 2026-06-21
+tags: ["colombia", "latin-america", "elections", "rule-of-law"]
+draft: false
+---
+
+Colombia voted on Sunday in a presidential runoff [between two candidates whose lives have been diametrically shaped by the country's paramilitary history](https://www.theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff). Abelardo de la Espriella, a 47-year-old lawyer who built his career defending paramilitary leaders during the AUC demobilisation negotiations of the early 2000s, led in polls throughout the campaign after topping the first round. He has promised an "iron-fist" approach to crime, including private mega-prisons in the Amazon and the military destruction of armed groups. His opponent, Iván Cepeda, is a 63-year-old senator and human rights activist whose father, also a senator, was assassinated in 1994 by army officers linked to paramilitaries. Cepeda backs a modified version of outgoing president Gustavo Petro's "total peace" strategy. The winner takes office on 7 August. Trump has endorsed De la Espriella, calling Cepeda a "radical left Marxist."
+
+## The received wisdom
+
+The progressive interpretation of De la Espriella's rise is coherent and merits a serious hearing. Colombia has had the most violent twelve months since the 2016 peace agreement, with rising homicides, kidnappings, forced displacement, and massacres. Petro's "total peace" strategy — negotiating simultaneously with the Gulf Clan, remnant FARC dissidents, and the ELN — has, by most security experts' assessment, broadly failed. It produced neither peace nor a sustainable reduction in violence. Colombians who voted in the first round for De la Espriella are not cartoon authoritarians; many are people who have watched their relatives kidnapped, their towns controlled by armed groups, and their government's negotiations produce nothing but tactical time for the criminals. The desire for an "iron fist" after years of failed pacifism is not irrational, and dismissing it as mere fascist nostalgia understates the genuine security collapse that created it. Trump's endorsement is vulgar, but Bukele's success in El Salvador — which De la Espriella explicitly cites as a model — is a real data point that mass incarceration of gang members can produce measurable short-term improvements in public safety.
+
+## A different read
+
+The problem is not that Colombians want order. The problem is the specific vehicle they may be choosing to deliver it.
+
+The investigation by [La Silla Vacía](https://www.theguardian.com/world/2026/jun/20/colombia-presidential-election-paramilitary-militia-runoff) found that minority shareholders in De la Espriella's businesses include relatives of convicted paramilitary leader Hugues Rodríguez Fuentes, known as Comandante Barbie. Cepeda has filed a criminal complaint alleging that De la Espriella was a possible recruiter for the AUC through a foundation he created. Eleven Democratic members of the US Congress sent a letter to the Trump administration arguing that, given the AUC's designation as a foreign terrorist organisation by Washington since 2001, the administration should be examining its candidate's ties rather than endorsing him.
+
+None of this proves personal criminal culpability. But it raises a structural concern that the history of Latin American security states makes pressing: when a government that promises to destroy armed criminal organisations is itself embedded in the networks from which those organisations grew, the likely outcome is not the elimination of the criminal economy but its reorganisation under different management. The Colombian paramilitary history is instructive here. The AUC was originally formed in the 1960s to fight leftist guerrillas and protect landowners. By the 1980s it had become intertwined with the cocaine trade. The Gulf Clan — now Colombia's largest armed group — was founded by former AUC members who inherited its trafficking routes and territory after the official demobilisation. The pattern of armed groups penetrating the state, rather than being destroyed by it, is Colombia's recurring political tragedy.
+
+The Bukele comparison — which De la Espriella explicitly invokes — deserves particular caution. El Salvador's mass incarceration programme has produced genuinely lower homicide rates, but independent human rights organisations have documented thousands of wrongful imprisonments, and the long-term effect on institutional capacity and rule of law is deeply uncertain. El Salvador is also a much smaller, more geographically compact country than Colombia, where the guerrilla and criminal geography is vastly more complex. Scaling Bukele to a country with 50 million people, dozens of distinct armed groups, and a territorial complexity that defeated decades of US-funded counter-narcotics strategy is not a plan. It is a slogan.
+
+The deeper question is whether Colombia's electorate, exhausted and frightened, will be able to distinguish between a candidate who offers the *appearance* of order and one who might actually construct it through institutions rather than around them. Cepeda's "total peace" lineage is genuinely discredited, and the left has no compelling answer to why a policy that failed under Petro would succeed under new management. The tragedy of this election is that neither candidate offers a credible institutional path forward. De la Espriella offers energy and ruthlessness tied to a deeply compromised history; Cepeda offers moral authority and a failed strategy. Colombia is, in effect, being asked to choose which kind of gamble it prefers.
+
+## What to watch
+
+- The electoral outcome and margin: a narrow De la Espriella win will invite immediate legal challenges from Cepeda's camp; a landslide will read as a genuine popular mandate for the iron-fist approach.
+- Whether the US Congress letter gets traction in Washington: eleven Democratic members is not a majority, but the formal record of the AUC's terrorist designation creates a legal and political exposure for the Trump administration's endorsement.
+- De la Espriella's first cabinet appointments: whether he appoints military figures with clean records or figures with connections to the security-paramilitary nexus will be the clearest early signal of what kind of government he intends to run.
+- Gulf Clan's response: the largest armed group will have read this election with great care. Whether it attempts to negotiate, accommodate, or escalate will determine much of De la Espriella's first year in office.
+
+— J
