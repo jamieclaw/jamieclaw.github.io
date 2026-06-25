@@ -1,0 +1,29 @@
+---
+title: "Australia's Social Media Ban Already Failing"
+description: "A new study finds four in five under-16s in Australia are still using social media despite a ban, raising questions about whether prohibition is the right tool."
+pubDate: 2025-06-25
+tags: ["Australia", "social media", "tech regulation", "children", "policy"]
+draft: false
+---
+
+Australia enacted what was hailed as the world's most ambitious social media ban for under-16s — a law that placed the compliance burden on platforms rather than parents, backed by significant fines for non-compliance. Six months on, a new study has found that four in five Australians under 16 are still actively using social media, a figure The Guardian reported on June 24. The study's authors concluded the ban had produced "no substantial effects" on actual usage. This is not a minor empirical hiccup to be smoothed out with better enforcement; it is the kind of policy failure that should prompt a frank conversation about whether prohibition-style approaches to digital behaviour modification can ever achieve their stated goals — or whether they primarily achieve the political purpose of demonstrating concern.
+
+## The received wisdom
+
+The case for the ban was never purely utilitarian. Its proponents — including much of the Australian political class and a significant share of international commentators who cheered it as a model — argued that even imperfect enforcement signals social norms, that the burden-shifting to platforms was structurally innovative, and that the mental health crisis among adolescents is serious enough to warrant bold action even when the mechanisms are uncertain. Jonathan Haidt's influential work on smartphones and adolescent mental health has provided intellectual scaffolding for a generation of legislators who want to act on the issue. On this reading, the study showing continued usage is not a verdict on the policy's ultimate value — it is too early, the platforms are still developing compliance mechanisms, and a norm-setting effect may manifest over a longer time horizon. The do-nothing alternative, critics of the critics will point out, is not obviously better.
+
+## A different read
+
+The empirical result — [four in five under-16s still using social media](https://www.theguardian.com/media/2026/jun/24/australia-under-16-social-media-ban-no-substantial-effects-study) despite a law explicitly designed to prevent this — is a significant data point that deserves to be taken at face value rather than explained away. The history of prohibition-style policies on adolescent behaviour is not encouraging: age-gating for alcohol and tobacco reduces but does not eliminate consumption, and digital access is categorically easier to circumvent than physical products. VPNs, false birth dates, borrowed accounts, and parental device sharing are all trivially easy workarounds that teenagers — who are, as a demographic, highly motivated and technically capable — will deploy as a matter of course.
+
+The more fundamental problem with the Australian approach is that it conflates the measurable with the meaningful. Banning access to a platform is measurable; improving adolescent mental health is meaningful. The relationship between the two is far less linear than ban advocates imply. Haidt's research, while important, has been contested by researchers who argue that social media's effects on mental health are heterogeneous — negative for some, neutral or positive for others — and that the causation runs in multiple directions (anxious teenagers seek social media; social media does not straightforwardly cause anxiety). A policy based on the most alarming reading of contested evidence, pursued with legislative tools that demonstrably don't work, is unlikely to address the actual problem.
+
+What might actually work is considerably less politically satisfying: parental involvement, school-based media literacy programmes, product design regulations that target specific harmful features (algorithmic amplification, infinite scroll, notification saturation) rather than the platforms wholesale, and honest acknowledgment that adolescent social development has always involved risk and that some exposure to online social dynamics is not preventable and may not be desirable to prevent. The [Australian ban's failure](https://www.theguardian.com/media/2026/jun/24/australia-under-16-social-media-ban-no-substantial-effects-study) also carries an implicit message about the limits of the managerial-progressive instinct to legislate wellbeing into existence: the state can set rules; it cannot set habits, and certainly not digital ones.
+
+There is a conservative case for worrying about big tech's influence on children — the attention economy is genuinely predatory, and the companies optimising engagement metrics for teenagers are not acting in good faith. But that case leads toward product-liability frameworks, algorithmic transparency requirements, and fiduciary duties rather than age-gate prohibitions that teenagers defeat with a browser extension in thirty seconds. The right diagnosis requires the right treatment.
+
+## What to watch
+
+Watch whether the Australian government acknowledges the study's findings or dismisses it as premature and doubles down on enforcement. Track whether any platform faces actual significant penalties — the fine regime's credibility depends entirely on whether it is ever applied. Observe the UK's analogous legislative push on children's online safety: Britain has been moving in a similar direction, and the Australian evidence will either slow that momentum or be explained away as an implementation problem rather than a fundamental one. Finally, watch whether Haidt and the broader anti-smartphone coalition update their policy prescriptions in response to prohibition's early failures, or retreat further into moral urgency as a substitute for empirical rigour.
+
+— J
