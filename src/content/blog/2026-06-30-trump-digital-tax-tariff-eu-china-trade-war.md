@@ -1,0 +1,37 @@
+---
+title: "Trump's digital tax ultimatum and the trade war's next front"
+description: "Trump's 100% tariff threat over European digital services taxes, combined with EU-China trade talks, signals a global trade realignment that will reshape alliances as much as economies."
+pubDate: 2026-06-30
+tags: ["trade", "us-eu-relations", "tech-regulation", "geopolitics"]
+draft: false
+---
+
+Two trade stories collided on Sunday and Monday with implications that stretch well beyond their individual headlines. President Trump posted on Truth Social that any country imposing a Digital Services Tax on American technology companies would immediately face [100% tariffs](https://www.bbc.co.uk/news/articles/cn4rd71411ko) on all goods exported to the United States — a threat that, if executed, would effectively double the price of European exports overnight. The announcement came days after the US and EU had finalised a new trade deal, a timing that sent European capitals scrambling to interpret whether the tariff threat superseded the deal's terms. Separately, the European Union and China agreed on Sunday to establish [three months of formal trade consultations](https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit) aimed at addressing a €360 billion annual trade deficit — equivalent, as EU Trade Commissioner Maroš Šefčovič noted, to "€1bn per day." The first joint EU-China statement in seven years was issued in Brussels; the next meeting is scheduled for Beijing in October.
+
+## The received wisdom
+
+The standard progressive critique of Trump's tariff threats is that they are economically illiterate, diplomatically reckless, and serve primarily as domestic political theatre. Digital services taxes, on this account, are legitimate exercises of national sovereignty — countries taxing economic activity that occurs within their borders, affecting companies that earn enormous profits from European users while routing those profits through low-tax jurisdictions. France, Italy, Spain, and the UK have all enacted DSTs at rates between 2% and 3%. Amazon already raised seller fees in 2026 citing DST costs. Threatening 100% tariffs on all European goods in retaliation for a 3% levy on tech company revenues is, by any measure of proportionality, a grossly disproportionate response.
+
+The broader concern is that weaponising tariffs against tax policy blurs the line between trade instruments and domestic fiscal sovereignty in ways that could unravel the entire framework of international economic cooperation. If the US can threaten punitive tariffs against any country that taxes American companies in ways Washington dislikes, every bilateral trade relationship becomes hostage to executive mood.
+
+## A different read
+
+Even granting the proportionality objection — and it is valid — Trump's underlying complaint deserves more serious engagement than it typically receives from European commentators. The digital services taxes are, in practice, designed to fall almost exclusively on American companies: Google, Apple, Meta, Amazon. The UK's version, with its thresholds of £500m in global revenues and £25m in UK revenues, is crafted to exclude virtually every European competitor while hitting every American tech giant. The DSTs are not generically applied levies on digital activity; they are targeted taxes on a specific cohort of firms defined, in practice, by their nationality. That a 2% or 3% rate does not feel confiscatory misses the point: a discriminatory tax is discriminatory regardless of its rate.
+
+The deeper structural issue is that the OECD's decade-long effort to produce a multilateral digital taxation framework — Pillar One and Pillar Two — failed precisely because the US never delivered domestic ratification, leaving individual countries to implement national DSTs in the vacuum. Trump's tariff threats are, in this context, partly a response to a framework that the US itself helped create and then declined to implement. The frustration is understandable even if the remedy is disproportionate.
+
+The EU-China talks are, if anything, the more revealing story. The EU faces a [€360bn trade deficit with China](https://www.theguardian.com/world/2026/jun/29/eu-sets-up-three-months-of-talks-with-china-over-360bn-trade-deficit) — a figure that reflects not just cheap Chinese goods but a systematic pattern of market access asymmetry, intellectual property appropriation, and subsidised industrial competition that EU officials are now privately describing as "China Shock 2.0." The 2024 EV tariffs failed to stem the tide; Brussels is now discussing quotas on hybrids and chemicals, with a monitoring mechanism designed to trigger political discussions when exports surge into "amber or red" danger zones.
+
+Here is where the two stories connect. Europe is simultaneously being squeezed from both sides: by an American president threatening punitive tariffs over digital taxes and by Chinese exporters threatening to cannibalise European manufacturing. The strategic logic that underpinned the post-Cold War trade order — that economic integration would produce political convergence, that free trade would be universally beneficial, that the WTO's rules-based system would hold — has been disproved empirically. Both Washington and Beijing are now operating with overtly mercantilist logics. Europe, which spent thirty years building an economic model premised on open markets and rule-based order, finds itself between two powers that have abandoned both.
+
+The conservative insight here is that mercantilism did not arrive with Trump; it arrived with China in the 2000s, and the West's refusal to respond in kind for two decades is the policy failure that explains the current disorder. The question is not whether to manage trade strategically but how. A 100% tariff threat issued on Truth Social days after signing a trade deal is not a strategy; it is a negotiating posture. Whether it produces a more balanced outcome than the OECD's multilateral process managed depends entirely on whether the bluster is backed by coherent follow-through — something this administration's trade record gives limited grounds for confidence.
+
+## What to watch
+
+The UK's position is acutely exposed. Its DST has been in place since 2020 and raised over £800m in 2024-25. The government faces an impossible choice between abandoning a revenue-generating tax to appease Washington, or accepting the threat of tariffs on the trade relationship it spent years stabilising. A Cyprus minister's warning that "the EU can respond swiftly and proportionately" signals that European capitals are not simply going to absorb a 100% tariff without retaliation.
+
+The EU-China October meeting in Beijing is the critical calendar marker. If the three-month consultation produces agreed mechanisms for addressing the €360bn imbalance — particularly on rare earths export controls and intellectual property — it would represent a genuine diplomatic achievement. If it produces only another joint statement, Brussels will face renewed pressure to move from consultation to coercive instruments.
+
+Watch also whether the recently finalised US-EU trade deal survives the contradiction of a 100% tariff threat issued immediately after its completion. Internal EU diplomatic sources will be interpreting this to assess whether the deal's terms mean anything at all.
+
+— J
