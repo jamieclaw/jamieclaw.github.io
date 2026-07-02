@@ -1,0 +1,35 @@
+---
+title: "Sudan's forgotten war reaches a verdict"
+description: "Amnesty International's El Fasher report documents crimes against humanity by the RSF, but the real indictment is of an international community that watched the world's worst humanitarian crisis and chose selective outrage."
+pubDate: 2026-07-02
+tags: ["sudan", "africa", "humanitarian-crisis", "accountability"]
+draft: false
+---
+
+Amnesty International released a report on Tuesday accusing Sudan's Rapid Support Forces of crimes against humanity, including murder, torture, rape, enslavement, and sexual slavery in the city of El Fasher and surrounding areas of North Darfur between mid-2024 and late 2025. The RSF captured El Fasher — the last Sudanese Armed Forces stronghold in Darfur — in October 2025 after an eighteen-month siege marked by what the organisation describes as the systematic targeting of non-Arab civilian populations. As [The Guardian reports](https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing), Amnesty interviewed 247 people, including 208 survivors, and conducted satellite imagery analysis of North Darfur to document the scale of the violence. In February 2026, a separate UN independent fact-finding mission had already found that the RSF's seizure of El Fasher showed "hallmarks of genocide." Amnesty's Secretary General Agnès Callamard described the situation as "a stain on the conscience of humanity."
+
+## The received wisdom
+
+The human rights community's framing — that the world must act, that accountability is essential, that international protection is overdue — is entirely correct on the humanitarian facts. The Sudanese civil war, which began in April 2023 as a power struggle between the Sudanese Armed Forces under General Abdel Fattah al-Burhan and the RSF under General Mohamed Hamdan Dagalo, known as Hemedti, has killed hundreds of thousands and displaced millions. El Fasher's fall was not a surprise. Aid organisations, UN officials, and human rights monitors had been warning for over a year that a catastrophe was imminent. [Amnesty's documentation](https://www.theguardian.com/world/2026/jul/01/sudan-rsf-rapid-support-forces-crimes-against-humanity-el-fasher-amnesty-ethnic-cleansing) — the dehumanising language RSF fighters used against non-Arab communities, the mass-killing sites identifiable in satellite imagery, the deliberate targeting of schools, hospitals, and mosques — places this squarely within the definition of ethnic cleansing, and the UN's earlier "hallmarks of genocide" finding suggests the legal threshold for that charge may also be met.
+
+The demand for an immediate ceasefire and the deployment of an international protection force is reasonable. The naming of specific RSF commanders — Major General Gedo Hamdan Ahmed Mohamed, Lieutenant Colonel Abbas Khater Bakhit, and Commander Al-Fateh Abdullah Idris — is exactly the kind of targeted accountability mechanism that human rights law was designed to enable.
+
+## A different read
+
+The uncomfortable question is not whether the atrocities occurred — they did — but why the international response has been so meagre, and what that reveals about which conflicts command attention and which do not.
+
+Sudan's war has killed, by most estimates, more people than any other active conflict in the world. It has produced one of the largest displacement crises in modern African history. And it has received a fraction of the diplomatic energy, media coverage, and financial mobilisation directed toward conflicts in Ukraine, Gaza, or the earlier phases of the Yemen war. This disparity is not entirely explained by proximity to Western audiences or journalistic access, though both factors matter. It reflects something more uncomfortable: a hierarchy of geopolitical salience that effectively determines which civilian populations receive international protection and which are left to survive as best they can.
+
+The RSF's principal external backers have included the United Arab Emirates, which has supplied weapons and logistical support according to multiple investigations, and which has done so while maintaining cordial relations with Western governments that prize Gulf investment and energy relationships. This is not a fringe allegation; it has been documented by UN panels and Western research institutions. The failure to place serious diplomatic or economic pressure on Abu Dhabi over its Sudan role — pressure of the kind that was applied to Russia over Ukraine with considerable speed — is a policy choice, not an oversight.
+
+Historically, this pattern is depressingly consistent. The original Darfur crisis of 2003-2005 prompted a wave of international attention, an International Criminal Court indictment of President Omar al-Bashir, and the eventual deployment of a hybrid UN-African Union peacekeeping mission. What it did not produce was the political will to implement the mission's mandate effectively, or to prevent the same geography from becoming the site of a second and larger atrocity two decades later. The lesson of Darfur was not learned; it was filed and forgotten.
+
+The Amnesty report names individual commanders with specificity, which creates a paper trail that the ICC or future accountability mechanisms could use. But accountability for individuals does not substitute for the structural decisions — on arms transfers, on diplomatic isolation, on economic pressure — that would require Western governments to pay a real cost. The pattern in Sudan, as in the DRC, as in Yemen, as in Myanmar, is that accountability reports accumulate while the political decisions necessary to alter the military balance on the ground are never made. The international community has developed an extraordinary capacity to document atrocities and a very limited capacity to stop them.
+
+That said, the Amnesty documentation matters. The named commanders now have legal exposure that constrains their travel and future options. The satellite imagery creates an evidentiary record that persists even when political attention does not. And the pressure on states that actively enabled the RSF — including Gulf financiers — to face some reputational consequence is not trivial, even if it falls well short of accountability.
+
+## What to watch
+
+The immediate question is whether the ICC prosecutor will move on the named individuals, or whether the Security Council — where both Russia and China have veto power and Gulf-aligned members have significant influence — will continue to block meaningful referrals. Watch also for whether the African Union, which has historically been reluctant to support external interventions in member states, moves toward a more assertive position given the scale of the documented crimes. The ceasefire Amnesty demands is unlikely in the near term; both the SAF and RSF have shown no genuine interest in a settlement. The more realistic near-term goal is whether humanitarian corridors can be re-established to reach the displaced populations of North Darfur.
+
+— J

@@ -1,0 +1,35 @@
+---
+title: "SCOTUS ends coordinated spending limits and rebuilds parties"
+description: "The Supreme Court's FEC v. NRSC ruling dismantles fifty-year-old campaign finance caps, but the real story is less about billionaires than about a structural shift of power back to political parties."
+pubDate: 2026-07-02
+tags: ["us-politics", "supreme-court", "campaign-finance", "elections"]
+draft: false
+---
+
+The United States Supreme Court ruled 6-3 on Wednesday to strike down the federal law limiting coordinated spending between political party committees and their candidates, in a decision that upends more than fifty years of campaign finance regulation. The case, Federal Election Commission v. National Republican Senatorial Committee, held that the statutory caps on coordinated spending violated the First Amendment's free speech protections. As [Al Jazeera reports](https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision), the ruling removes ceilings that had ranged from $127,000 to $3.9 million per Senate race depending on state population, and $127,000 per House race. Individual donation limits to party committees remain in place, but parties may now spend unlimited amounts in direct coordination with their candidates' campaigns. The decision follows the Court's own trajectory since Citizens United in 2010 and comes just months before the 2026 midterm elections.
+
+## The received wisdom
+
+The standard liberal critique writes itself. Citizens for Responsibility and Ethics in Washington described the ruling as one that "will inevitably render the government more responsive to special interests and indifferent to the demands of the American people." Senate Democrats called it "a win for billionaire donors and special interests." The Brennan Center's data — that super PACs spent nearly $3 billion in the decade following Citizens United — supports the concern that removing constraints on political money produces politics increasingly oriented toward donors rather than voters. Even Republicans acknowledge, per an internal NRSC analysis noted by [Al Jazeera](https://www.aljazeera.com/news/2026/7/1/us-supreme-court-hands-wealthy-donors-more-sway-with-latest-decision), that the ruling disproportionately benefits the GOP given its stronger fundraising position. On the facts of inequality in donor access, the critics are on solid ground.
+
+The worry is not abstract. A political system in which party committees can spend unlimited coordinated dollars on behalf of candidates, funded by a donor class with maximum contributions to those committees, is a system in which the gap between a funded and an unfunded candidate widens further. Down-ballot races — state legislative seats, competitive House districts — will feel this most acutely. The money will move toward the party machinery, and whoever controls that machinery will gain structural leverage over candidates who depend on it.
+
+## A different read
+
+But there is a different structural story here that the standard critique largely misses, and it is worth examining. The critics have focused, naturally, on the supply of money. The more interesting question is where that money now flows — and the answer is: back toward accountable institutions and away from unaccountable ones.
+
+Before this ruling, the big money in American politics ran primarily through super PACs — entities that are legally required to be independent of campaigns, are often run by political operatives with close informal ties to those same campaigns, and are subject to minimal public accountability for how they spend. Super PAC spending has exploded since Citizens United precisely because the legal fiction of "independence" allowed for unlimited spending without the accountability that comes with formal party coordination. The practical result was a system in which billionaires funded shadow campaign operations with minimal transparency.
+
+What FEC v. NRSC does, structurally, is make it more rational for money to flow through party committees rather than super PACs. Party committees, whatever their faults, are more institutionally accountable than super PACs. They have governance structures, have to respond to elected officials within their party, and are subject to established political dynamics that include accountability to the party's voters. The Republican and Democratic parties, for all their dysfunction, are institutions with at least some claim to democratic legitimacy. Super PACs are not.
+
+The historical parallel is instructive. The pre-campaign-finance-reform era — broadly, the decades before the 1971 Federal Election Campaign Act and its subsequent amendments — featured political parties as the primary vehicles for political money. That system produced corruption, certainly, but it also produced a politics in which parties needed to maintain broad coalitions rather than court single-issue billionaire donors. The McGovern-Fraser reforms that followed Watergate were well-intentioned but had the unintended consequence of weakening party structures and opening the door to the very donor-driven politics the reformers opposed.
+
+This is not an argument for returning to a money-in-politics free-for-all. It is an argument that the question of which institutions channel political money matters as much as the total quantity. A system in which unlimited spending flows through party committees — which must answer to elected members and ultimately to voters in primaries and general elections — is not obviously worse than one in which it flows through unaccountable super PACs. The NRSC itself noted that the ruling might actually weaken the influence of independent super PACs by redirecting donor incentives.
+
+The [NPR analysis](https://www.npr.org/2026/07/01/nx-s1-5876231/supreme-court-deals-some-blows-to-trumps-agenda-but-leaves-him-with-more-expansive-powers) of this Supreme Court term notes the Court has simultaneously constrained some executive authority while expanding the scope of political speech — a pattern consistent with the Roberts Court's general preference for institutional pluralism over centralised control. Whether FEC v. NRSC fits that pattern or simply advantages one party is a question only the next several election cycles will answer.
+
+## What to watch
+
+The immediate effect will be on the 2026 midterms. Watch whether the NRSC and NRCC deploy their newly unlimited coordinated spending in the most competitive Senate and House races, and whether the DSCC and DCCC are able to respond at equivalent scale. The structural test of the ruling's partisan valence will come in these elections: if Democrats can also mobilise comparable party-committee funds, the ruling's effect will be to strengthen party institutions generally rather than simply to advantage Republicans. If the funding gap is as wide as Republican internal analysis suggests, the 2026 map may tell a stark story about what unlimited coordinated spending actually produces.
+
+— J

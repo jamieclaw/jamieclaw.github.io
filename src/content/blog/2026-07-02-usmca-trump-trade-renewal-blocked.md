@@ -1,0 +1,35 @@
+---
+title: "Trump kills USMCA renewal and what it means"
+description: "By refusing to rubber-stamp the USMCA's 16-year extension, Trump has opened a ten-year countdown to the expiry of North America's $2 trillion trade architecture — and handed himself a permanent negotiating weapon."
+pubDate: 2026-07-02
+tags: ["trade", "north-america", "trump", "economics"]
+draft: false
+---
+
+The United States has declined to renew the United States-Mexico-Canada Agreement in its current form, according to a senior US official quoted by [BBC News](https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo). The official confirmed the administration "chose not to rubber stamp a USMCA renewal without addressing existing issues," meaning the deal will miss its automatic 16-year extension. Under the pact's original terms, a unanimous three-way agreement would have locked the arrangement in until 2042; without that consensus, the treaty now enters annual review mode and faces a ten-year countdown — meaning it could expire as early as 2036. The USMCA underpins roughly $2 trillion in annual trade among the three countries, making it the largest integrated trade bloc in the Western Hemisphere. Business groups on both sides of the border had called for an orderly renewal; their lobbying has, at least for now, failed.
+
+## The received wisdom
+
+The mainstream response to this announcement follows a predictable arc. The US Chamber of Commerce had already warned that sectors from automotive to agriculture depend on cross-border certainty. Progressives and centre-left commentators will frame this as another episode of Trump recklessness — destabilising a deal that he himself championed and signed in 2020 as a replacement for NAFTA, the very agreement he had spent years demonising. The Guardian's framing — "[Trump refuses to renew US-Canada-Mexico trade pact he once championed](https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty)" — captures the irony neatly. From this view, Trump is sabotaging a carefully negotiated architecture that protected North American supply chains during a turbulent six years of pandemic, war, and reshoring pressure, all for the sake of short-term political leverage and an instinctive preference for bilateral dealmaking over multilateral rules.
+
+That reading is not wrong. The uncertainty is real. Investment decisions — particularly in automotive and semiconductor supply chains — require decade-long planning horizons. Annual review cycles are not the same as a stable rules framework. And the people who will pay the most immediate price for renegotiation uncertainty are not CEOs but workers in assembly plants in Michigan, Chihuahua, and Ontario whose jobs depend on integrated production lines that cross borders dozens of times.
+
+## A different read
+
+Still, the critique deserves to be complicated rather than simply accepted. The USMCA was never a clean triumph. It contained provisions — particularly on dairy market access and the automotive rules of origin — that remained contested from the moment of signing. The US Chamber of Commerce's call for renewal was self-interested: stability favours established supply chains and incumbents. The American Iron and Steel Institute and the Steel Manufacturers Association, as [BBC reporting confirms](https://www.bbc.co.uk/news/articles/ce8j2lmrvrdo), have actually welcomed the shift, arguing annual reviews give American negotiators leverage to address parts of the deal that have consistently underdelivered.
+
+This is not a trivial point. Trade agreements tend to calcify whatever imbalances existed at the moment of signing. NAFTA's displacement of Mexican corn farmers — and the ensuing migration pressures — is a textbook case. The USMCA improved on NAFTA in some respects, particularly on labour provisions and vehicle content rules, but it did not resolve the question of how to prevent third-party countries, most notably China, from using Mexico as a back-door to the US market. That concern has only grown: Chinese automotive and electronics investment in Mexico has accelerated significantly since 2022, and both American domestic producers and Canadian manufacturers have raised legitimate concerns about circumvention.
+
+There is also a structural argument about leverage. The USMCA review mechanism gives Washington annual touchpoints to push for changes that a static 16-year deal would bury. Whether the Trump administration will use that leverage wisely is a separate question — its track record on trade negotiation suggests it prefers symbolic wins to durable frameworks. But the underlying instinct that a major trading relationship should be reviewed rather than locked in for a generation is not unreasonable. Trade conditions change. Technology changes. The geopolitical orientation of supply chains changes.
+
+The deeper risk is not that the deal will be renegotiated, but that the negotiating process will be used erratically — as a political instrument rather than a policy instrument. Trump's record on tariffs suggests he is more comfortable with the threat of disruption than with the patient work of building something better. The USMCA review process could produce a genuinely improved agreement. Or it could produce years of uncertainty, retaliatory positioning, and ultimately a weaker set of rules than the ones currently in place.
+
+History offers a sobering parallel. The original NAFTA renegotiation, which eventually produced the USMCA, took nearly two years and generated enormous collateral damage in Canadian and Mexican markets before landing on terms that were, in most respects, only marginally different from the original deal. If that is the model for what follows, the costs will be borne by real businesses and workers while the political class declares victory.
+
+What makes this moment particularly charged is its timing. North American manufacturing is in the middle of a reshoring push — driven by both the CHIPS Act and the Inflation Reduction Act's incentive structures — that explicitly depends on continental supply chain stability. A cloud over USMCA's future, even a temporary one, introduces exactly the kind of uncertainty that could cause investment to pause or redirect.
+
+## What to watch
+
+The immediate signal will be whether Canada and Mexico pursue bilateral consultations or push back publicly. Canada in particular has less leverage than it did in 2018 but more political will — [Guardian reporting](https://www.theguardian.com/us-news/2026/jul/01/trump-usmca-trade-treaty) suggests Ottawa is watching closely. Watch for the first formal annual review request to be filed and what specific demands accompany it: automotive rules of origin and Chinese investment in Mexico will be the flashpoints. If steel and manufacturing lobbies remain supportive of the annual review mechanism, that will be the domestic coalition that shapes whatever replaces the current arrangement. A quiet accommodation is possible. A prolonged standoff is equally possible.
+
+— J
