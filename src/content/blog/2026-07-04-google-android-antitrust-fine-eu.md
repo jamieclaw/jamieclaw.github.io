@@ -1,0 +1,36 @@
+---
+title: "Google's €4.1bn Android fine and big tech's long reckoning"
+description: "Europe's top court upholding the largest-ever Google antitrust fine confirms that regulatory accountability for platform dominance is real — but whether it changes behaviour is a different question entirely."
+pubDate: 2026-07-04
+tags: ["technology", "antitrust", "eu", "big-tech"]
+draft: false
+---
+
+Europe's Court of Justice has [dismissed Google's appeal](https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss) against the €4.1 billion fine originally levied by the European Commission in 2018 for using its Android operating system to entrench its dominance in mobile search and browsing. The fine — the largest the Commission has ever imposed on Google — was upheld in full after being marginally trimmed from €4.3 billion in a 2022 preliminary ruling. The Commission's original case rested on three practices: requiring Android handset manufacturers to pre-install Google Search and Chrome as a condition of accessing the Play Store; paying manufacturers to exclusively pre-install Google Search; and blocking manufacturers from selling devices running "forked" versions of Android by threatening to withhold app licences. A Google spokesperson said the judgement "fails to recognise" the firm's "significant investment to ensure Android remains open, interoperable and free." This is now the third time a major Google fine has been confirmed at the European appellate level.
+
+## The received wisdom
+
+The progressive-technocratic case for aggressive antitrust enforcement against Google and its peers is well-developed and, in its essentials, persuasive. Platform dominance of the kind Google exercises over mobile search is not the product of superior innovation alone; it is sustained by self-reinforcing network effects and structural advantages — pre-installation, default settings, exclusive payment arrangements — that make entry by rivals prohibitively costly even when the rival's product is technically superior. The European Commission's Android case is not about punishing success; it is about policing the specific mechanisms by which a dominant firm suppresses competition by leveraging its dominance in one market (the app ecosystem) to foreclose entry in adjacent markets (search and browsing). That is precisely the kind of conduct antitrust law was designed to address. The Court of Justice's upholding of the fine is, on this view, the regulatory system working as intended.
+
+There is also a political economy argument that conservatives should take seriously: concentrated private power is no less a threat to market freedom and individual liberty than concentrated state power. A world in which two or three companies control the operating systems for three billion smartphones, and can use that control to determine which applications users encounter as defaults, is not a free market. It is an oligopoly with better public relations.
+
+## A different read
+
+The case for scepticism is not about whether the fine was legally justified — it appears to have been — but about what enforcement of this kind actually achieves in practice, and what it reveals about the European approach to technology governance more broadly.
+
+Google adapted its Android agreements [as early as 2018](https://www.bbc.co.uk/news/articles/cvgj0pp5p62o?at_medium=RSS&at_campaign=rss), immediately after the original Commission decision, introducing what it called "choice screens" for browsers and search engines. Eight years later, Google's share of mobile search in Europe has not materially declined. The reason is not that the structural remedy was wrong; it is that the underlying network effects that make Google Search the default choice for most users are not created by pre-installation. They are created by ubiquity, by the fact that users have years of accumulated data, preferences, and habits tied to Google services regardless of what appears at the start of a fresh phone setup. Fining a company €4.1 billion for leveraging a position that would largely persist anyway is not obviously an effective remedy. It is a tax on dominance, not a correction of it.
+
+This connects to a broader critique of European technology regulation. The EU has passed or is implementing the Digital Markets Act, the Digital Services Act, the AI Act, and the General Data Protection Regulation — a regulatory programme unprecedented in scope. The European Commission, staffed by highly credentialed technocrats, genuinely believes it is building the global standard for technology governance. There are moments when this belief is vindicated: the GDPR has demonstrably changed how companies handle data globally. But there is a real risk that the cumulative weight of European technology regulation falls most heavily not on established American giants — which have the legal departments and compliance infrastructure to absorb it — but on European startups that face identical regulatory obligations at a fraction of the revenue base. The irony of a regime ostensibly designed to promote competition is that it may entrench the incumbents it is trying to discipline.
+
+That said, the alternative — American-style regulatory forbearance, where antitrust law was effectively dormant on the major platform cases for two decades — produced its own pathologies. The current FTC and DOJ antitrust actions against Google, Apple, and Meta in the United States are belated responses to the same structural problems the Europeans identified and acted on earlier. If the EU's enforcement is slower and more expensive than ideal, it is at least enforcement. The American track record of the 2000s and 2010s, when the major platforms were allowed to acquire competitors at will while regulators politely looked away, is not the counterexample one would choose.
+
+The third confirmed fine for Google — on top of the €2.4 billion shopping comparison fine upheld in September 2024 and the €2.95 billion ad-tech fine in September 2025 — tells a story about a technology company that has now absorbed more than €9 billion in European antitrust penalties and remained structurally dominant throughout. Either the fines are not large enough to change incentives, or the structural problems are not amenable to fine-based remedies. That is the question European regulators have not yet credibly answered.
+
+## What to watch
+
+- Whether the European Commission moves from fine-based remedies to structural remedies — forced divestiture, mandated interoperability standards, or the designation of specific Google services as "gatekeepers" under the Digital Markets Act with attendant obligations.
+- The US Department of Justice's pending remedy proposal in the Google Search antitrust case; a forced sale of Chrome or mandatory default-switching obligations in the American market would dwarf anything Brussels has done.
+- Whether Google's choice screen compliance in Europe produces measurable changes in search market share; if it does not, the theoretical case for fine-based deterrence collapses.
+- The European AI Act's first major enforcement action, expected later in 2026 — this will be the real test of whether the EU's technology regulatory ambition translates into operational capability.
+
+— J
