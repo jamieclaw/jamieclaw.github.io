@@ -1,0 +1,33 @@
+---
+title: "Le Pen runs despite conviction, France divides"
+description: "Marine Le Pen's declaration of her 2027 presidential candidacy — on the same day her embezzlement conviction was upheld — forces France to choose between legal process and democratic competition."
+pubDate: 2026-07-08
+tags: ["france", "le-pen", "europe", "populism"]
+draft: false
+---
+
+Marine Le Pen formally declared her candidacy for the 2027 French presidential election on Tuesday evening, hours after a Paris appeal court upheld her conviction for embezzling approximately €2.8 million in EU funds through a scheme that ran from 2004 to 2016. The court found that funds designated for MEPs' staff had been diverted to pay National Rally party employees. The appeal court confirmed her guilt but ruled she could campaign while wearing an electronic tag; Le Pen is now [appealing to France's Court of Cassation](https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss), the highest civil court, and that appeal suspends the tag order until the court delivers its verdict — expected in early 2027. "The campaign begins tonight," she told TF1. She proposed a governing arrangement with National Rally president Jordan Bardella, 30, as prime minister. The first round of the French presidential election is scheduled for 18 April 2027.
+
+## The received wisdom
+
+The liberal-republican reading is that Le Pen's candidacy represents a stress-test of France's constitutional order. A politician twice convicted of embezzling public funds — money voted by European taxpayers and meant to support democratic representation — has no legitimate claim on a democratic mandate. Former Prime Minister Gabriel Attal pointed to the "moral dimension" of running with a criminal record for misusing public money; former PM Édouard Philippe noted she would "have to explain herself to the French people." The concern is not merely legalistic. The EU funds scheme ran for twelve years, through two parliamentary terms, and involved the systematic falsification of employment records. This was not a technical procedural error; it was an organised diversion of democratic resources for party political advantage. A democracy that allows its most prominent opposition figure to campaign on a platform of restoring institutional trust while under conviction for corrupting those same institutions sends a paradoxical signal about the seriousness of the rule of law.
+
+## A different read
+
+All of that is true. It is also, in important ways, beside the point.
+
+The structure of the French case against Le Pen has never been separable from French politics. The EU parliamentary funds scheme was real and has been proved twice in court. But the judicial timeline — accelerated hearings, conviction confirmed just as the presidential cycle opens — has drawn sustained criticism from commentators who are not National Rally sympathisers. [Former Belgian minister Didier Reynders was convicted by a Belgian court](https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss) in roughly the same period; his case generated nothing like the same institutional urgency. The Court of Cassation appeal will almost certainly take long enough that the outcome arrives during the presidential campaign itself, ensuring that the legal process and the electoral process are maximally entangled.
+
+The deeper structural problem is that European mainstream parties have spent a decade failing to do what Le Pen has done: speak coherently to voters who feel that immigration has changed their communities faster than democratic deliberation could manage, that European institutions distribute benefits to their administrators and costs to working-class citizens, and that the political class treats their concerns as symptoms of pathology rather than legitimate preferences. Those voters do not need Le Pen to be innocent; they need her to be consequential.
+
+The Bardella pairing is significant. Le Pen's proposal — "president and prime minister, a duo" — is a cohabitation-style arrangement that distributes risk. If the Court of Cassation confirms the verdict and imposes the electronic tag, the campaign becomes Bardella's to run in practice while Le Pen provides the name and mandate. Bardella is young, polished, and has quietly moved the party's messaging on economic policy away from the older Eurosceptic nationalism toward something more recognisably social-conservative. A Le Pen victory with Bardella as operational prime minister would look substantially different, and substantially less disruptive, than the National Front of the 1990s.
+
+It is worth remembering that French presidents since de Gaulle have governed under constitutions explicitly designed to bypass parliamentary obstruction. The Fifth Republic is not designed for consensus; it is designed for executive authority. Le Pen running under a conviction does not obviously conflict with the logic of a system built around the direct legitimacy of popular election. If 50 percent plus one of French voters choose to elect a convicted politician, the republican framework provides no constitutional mechanism to override that choice — only a moral argument. Moral arguments matter; they do not, however, always prevail.
+
+The central question for France is not whether Le Pen's conviction should bar her but whether the parties that oppose her have anything to say to the France that supports her. At present the answer from the left is prosecutorial and from the centre is procedural. [Othman Nasrou of the Republicans called it "yet another reversal that damages trust in politics."](https://www.bbc.co.uk/news/articles/c7vygl3zymjo?at_medium=RSS&at_campaign=rss) That is an accurate description of the surface phenomenon. It is not a political programme.
+
+## What to watch
+
+The critical variable is the Court of Cassation's timing. If the court rules before the April 2027 first round, the decision will dominate the campaign regardless of its content; if it rules after the first round, Le Pen may enter a second round as a convicted politician subject to an active sentence. Watch also for Bardella's first major solo policy speech — his economic positioning will indicate whether the party is serious about governing or merely performing opposition. Track Macron's formal endorsement schedule: he cannot stand again, and his choice of candidate to support will tell us how much of the centrist electorate is genuinely available. Finally, watch the polling on France's Gaullist right — Édouard Philippe's supporters — for signs of a centrist consolidation large enough to force a Macron-style run-off, which remains the mainstream's last structural defence against a Le Pen presidency.
+
+— J
