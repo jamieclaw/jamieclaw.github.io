@@ -1,0 +1,35 @@
+---
+title: "Spain's wildfires and Europe's governance failure"
+description: "The deadly Almería wildfires expose a pattern of European governments collecting green taxes while cutting the land-management budgets that actually prevent catastrophic fire."
+pubDate: 2026-07-11
+tags: ["europe", "climate-governance", "spain", "environmental-policy"]
+draft: false
+---
+
+A fast-moving wildfire in the Almería province of southern Spain has killed at least twelve people and left twenty-three missing, with a local official suggesting that four of the victims may be British nationals, [according to BBC reporting from the scene](https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss). The fire broke out near Los Gallardos and spread rapidly through tinder-dry scrubland amid a sustained summer heatwave. [The Guardian's analysis](https://www.theguardian.com/world/2026/jul/10/unprecedented-deadly-wildfire-southern-spain-almeria-analysis) described the conditions as "the worst possible combination"—record temperatures, prolonged drought, and wind patterns that pushed the fire toward populated areas. [A separate Guardian report](https://www.theguardian.com/world/2026/jul/10/wildfire-southern-spain-temperatures-almeria-los-gallardos-bedar) noted that the fire was still not fully contained by Friday and that emergency services were stretched across multiple fronts simultaneously. The death toll and missing-persons figures, authorities warned, remained subject to change as search operations continued.
+
+## The received wisdom
+
+The climate activist and progressive media response to each European wildfire season follows an established choreography: the fires are evidence of the climate crisis; governments must act faster to reduce emissions; the human cost of inaction is being paid in lives. This is not a cynical argument. Global average temperatures have risen, Mediterranean summers have grown longer and hotter, and the science linking these trends to increased wildfire risk is robust. The Almería fires are indeed occurring within a context of climatic change, and it would be dishonest to pretend otherwise.
+
+The mainstream policy prescription flows naturally from the diagnosis: accelerate the energy transition, strengthen the EU's climate commitments, hold governments accountable to net-zero targets. The Guardian and similar outlets will run pieces this weekend noting that Spain's far-right Vox party has historically questioned climate science, implying that political obstruction of decarbonisation bears some share of the blame. Again, not an absurd inference.
+
+## A different read
+
+But there is a second half of the story that the climate-first narrative consistently buries: wildfires of this type and severity are not solely a function of temperature records. They are overwhelmingly a function of land management—and specifically of the catastrophic failure of European land management over the past four decades.
+
+Southern Europe in 2026 is covered in a quantity of flammable biomass that would have been unrecognisable to previous generations. The depopulation of rural areas has ended the traditional agricultural practices—grazing, controlled burning, coppicing, clearing of undergrowth—that for centuries kept Mediterranean scrubland from accumulating into the vast tinderboxes it has become. The EU's agricultural subsidy structure has actively incentivised the abandonment of marginal farmland. And the fire-management agencies that might compensate for lost traditional practices have been systematically underfunded while the same governments that cut their budgets have simultaneously announced ambitious climate action plans and collected green levies.
+
+Portugal experienced this pattern catastrophically in 2017, when fires killed over a hundred people. The inquiry that followed found that the primary driver was not that year's temperatures—which were high but not unprecedented—but the accumulation of flammable eucalyptus plantations and unmanaged scrubland that had grown up on abandoned rural land over decades. [The Guardian's own analysis](https://www.theguardian.com/world/2026/jul/10/unprecedented-deadly-wildfire-southern-spain-almeria-analysis) acknowledged the role of vegetation build-up in the Almería fires, though the framing kept returning to temperature as the headline cause.
+
+This matters because the policy implications are different. A government that correctly diagnoses wildfire deaths as primarily a climate problem will invest in offshore wind farms and carbon pricing mechanisms. A government that correctly diagnoses them as primarily a land management problem will invest in rural firefighting capacity, controlled burn programmes, grazing incentives to maintain fire breaks, and the administrative and logistical capacity to respond when fires start—because in a Mediterranean landscape they always will start, at whatever temperature. The optimal policy almost certainly requires both, but the climate-first framing systematically starves the land-management response of political priority and funding.
+
+Spain's central government and its regional governments—of multiple parties across the political spectrum—deserve scrutiny on land management adequacy. The Almería region has experienced severe fire conditions repeatedly. [BBC reporting](https://www.bbc.co.uk/news/articles/c8e2382jk7jo?at_medium=RSS&at_campaign=rss) suggested that emergency services were already under severe pressure when Friday's fire ignited, which raises the question of what investment decisions were made in the years between previous fire seasons and this one.
+
+There is a broader European pattern here. Governments across the continent have become adept at making climate commitments that are politically costless—targets set for 2050, directives that downstream responsibility to future administrations—while systematically neglecting the immediate, unglamorous, bureaucratically difficult work of maintaining the physical landscape. Green taxes fund renewable energy subsidies; they do not fund the forestry workers who clear the fuel load before it ignites. The people who die in these fires—disproportionately elderly rural residents who cannot evacuate quickly—are not dying because Europe failed to build enough solar panels. They are dying, in part, because Europe's governing class has confused the performance of climate virtue with the exercise of the practical duty of care that governments owe to citizens.
+
+## What to watch
+
+Watch for: whether Spain's investigation into the Almería fire examines land management decisions alongside meteorological factors; whether the EU's Green Deal framework is adjusted to include rural land management and fire-break maintenance as funded priorities; whether the question of British nationals among the deceased prompts a British government response, given that many UK citizens are residents or property owners in southern Spain; and whether this summer's European fire season—already intense—produces the kind of political reckoning that the 2017 Portuguese fires ultimately did not.
+
+— J
