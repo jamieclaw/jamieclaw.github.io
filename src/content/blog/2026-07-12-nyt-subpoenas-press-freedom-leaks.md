@@ -1,0 +1,34 @@
+---
+title: "The NYT subpoenas and the leaks problem"
+description: "The Justice Department's subpoenas of New York Times journalists expose a genuine tension between press freedom and classified-leak prosecutions that neither side can resolve with slogans."
+pubDate: 2026-07-12
+tags: ["press-freedom", "trump", "media", "national-security"]
+draft: false
+---
+
+The Justice Department has subpoenaed multiple journalists at the New York Times, compelling them to testify before a federal grand jury in Manhattan about their reporting on security vulnerabilities in the Boeing 747-8 gifted to President Trump by Qatar and used as the new Air Force One. According to [BBC News](https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss), the subpoenas were delivered to reporters' homes, with appearances required as early as Wednesday. The underlying reporting — which [NPR also covered independently](https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting) — disclosed that Trump flew to the NATO summit in Turkey on the Qatar-gifted plane but returned on an older aircraft on Secret Service advice, because the newer plane reportedly lacked advanced security features including antimissile capabilities. A former US official told CBS News there was "not enough time or money" to bring the plane up to required security standards. The Justice Department told the BBC that "reporters are not the targets" of the investigation; rather, the government seeks to identify who disclosed classified information about presidential security arrangements.
+
+## The received wisdom
+
+The media community's response was swift and largely unified: this is an assault on the First Amendment, a continuation of the Trump administration's pattern of treating a free press as an adversary, and a dangerous escalation of the leak-prosecution playbook. NYT lawyer David McCraw called it "a brazen act... nothing more than an attempt to prevent the public from knowing what is happening in their country by intimidating journalists from doing their jobs." The broader liberal framing places this alongside the administration's subpoenaing of Democratic state guard commanders, its deployment of National Guard troops in residential Washington, and its pardoning of January 6 defendants — all as episodes in a systematic effort to intimidate, punish, and neutralise independent centres of power. On this reading, the security justification is pretextual; the real goal is to make sources afraid to talk to journalists.
+
+## A different read
+
+Let me be direct: the liberal press-freedom case is not wrong. Grand jury subpoenas delivered to journalists' homes represent a significant escalation, and the pattern of this administration's behaviour toward the press should make anyone who values independent journalism uncomfortable. The argument that "reporters are not the targets" is technically accurate and practically misleading — compelling reporters to testify under oath about their sources functions as source-identification regardless of whether the reporter is formally the defendant.
+
+But there is a harder question here that the clean press-freedom framing elides. The underlying leak involved specific security vulnerabilities in the aircraft carrying the President of the United States during a period of active military conflict with Iran. This is not a Pentagon Papers situation — disclosure of historical misdeeds the government wanted buried. It is the disclosure of current, operational security arrangements for the sitting president during a live crisis. A former US official has stated the plane lacked antimissile capabilities. If that reporting is accurate, it tells anyone planning to target that aircraft exactly when and in what configuration the president was most vulnerable.
+
+This is not a hypothetical concern. [The BBC reported](https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss) that Israel shared intelligence with the US that Iran had devised a fresh assassination plan against Trump — a report Trump himself disputed but did not clearly deny. The administration is operating under genuine threat conditions. The Justice Department's framing — investigating illegal leaks of classified information, not targeting reporters — reflects a legal distinction that has existed in American law for decades: the press may publish what it receives, but the source who discloses classified information about presidential security to a newspaper in the middle of a war may have committed a crime.
+
+The harder problem is that the same argument can be — and historically has been — deployed to chill reporting that is simply embarrassing rather than genuinely dangerous. The Espionage Act has a long history of being weaponised against whistleblowers whose disclosures involved government misconduct rather than national security threats. The Obama administration prosecuted more leak cases than all previous administrations combined, and civil libertarians were right to criticise it. There is no neutral, rule-governed way to distinguish "this leak endangered the president's life" from "this leak embarrassed the president"; the executive branch makes that determination, and it has obvious institutional incentives to conflate the two.
+
+What would actually protect both press freedom and legitimate national security interests is a shield-law framework — which the US still lacks at the federal level — that requires prosecutors to demonstrate, before a neutral judge, that the information sought is genuinely critical to national security and cannot be obtained through other means before any journalist is compelled to testify. That standard has been proposed repeatedly in Congress and blocked repeatedly, largely because successive administrations have preferred to retain maximum discretion. This administration's aggressive posture makes the cost of that gap visible in a way that should, at minimum, restart that legislative conversation.
+
+## What to watch
+
+- Whether the NYT journalists comply with the subpoenas, assert reporter's privilege, or face contempt proceedings — any of these outcomes creates significant legal precedents in the current absence of a federal shield law.
+- How other news organisations that published similar reporting (CBS News, BBC) respond if subpoenas expand beyond the NYT.
+- Congressional reaction: the absence of Republican condemnation of subpoenas delivered to journalists' homes would itself be a significant political signal about the state of press-freedom norms within the governing party.
+- Whether the grand jury proceeds to indictment of any government source — which would mark the most high-profile leak prosecution since the prosecutions of Chelsea Manning-era cases.
+
+— J

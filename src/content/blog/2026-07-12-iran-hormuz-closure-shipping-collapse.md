@@ -1,0 +1,34 @@
+---
+title: "Iran's Hormuz closure tests deterrence theory"
+description: "With ship traffic down to 23 vessels a day and Iran's new Supreme Leader vowing revenge, the Strait of Hormuz closure exposes the limits of both sanctions and military strikes as policy instruments."
+pubDate: 2026-07-12
+tags: ["iran", "hormuz", "energy", "us-foreign-policy"]
+draft: false
+---
+
+Iran formally declared the Strait of Hormuz closed "until the end of American interference in this region" this week, with the Islamic Republic's Revolutionary Guard warning that any vessel deviating from an Iranian-mandated shipping lane would face consequences. According to [BBC Verify analysis](https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss), the daily ship count through the strait has collapsed from a pre-conflict average of 138 vessels to just 23 — with the Omani-waters route, favoured by the United States, recording zero crossings. The declaration coincides with the [first public statement](https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss) from Mojtaba Khamenei, Iran's new Supreme Leader, who pledged to avenge his father's death and vowed that revenge was "the will of the nation." Meanwhile, President Trump declared the June ceasefire memorandum "over," while simultaneously suggesting that talks could continue — a characteristic ambiguity that has come to define the administration's approach to a conflict now entering its fifth month.
+
+## The received wisdom
+
+The progressive and internationalist reading of this crisis places most of the moral weight on the escalatory decisions that preceded it: the February US-Israeli strikes on Iran that killed Ali Khamenei and triggered this cascade. On this view, the closure of the world's most important energy chokepoint — through which [more than 20 percent of global oil and gas flows](https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss) — is the predictable result of a maximalist military posture that had no credible off-ramp. The argument continues: a negotiated settlement was always available; the new Khamenei administration represents a potentially more pragmatic voice than the hardliners who have guided Iranian foreign policy for decades; and the administration's revocation of Treasury licences easing Iranian oil sanctions — which Tehran cites as a US violation of the June memorandum — makes Washington as much a spoiler as Tehran. The ceasefire, in this reading, was never given a genuine chance.
+
+## A different read
+
+There is real substance in the progressive critique, and any honest analysis must grant it. But the framing obscures a structural problem that predates the current crisis by decades: Iran has consistently demonstrated that it will use the Strait of Hormuz as geopolitical leverage whenever it calculates the costs are manageable. The question is not whether diplomacy was ever available in principle, but whether the incentive structures of the June memorandum were durable enough to hold.
+
+The answer appears to be no — and for reasons that go beyond the conduct of either party this week. As maritime security expert Jennifer Parker of the University of New South Wales noted, the MOU committed Iran only to "best efforts for safe passage of commercial vessels with no charge for 60 days" — language so vague that it could not survive the first serious test. [Parker told BBC Verify](https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss): "Even on a generous reading, it does not permit Iran to attack civilian shipping in Omani waters." Yet within days of the accord's signing, tanker attacks resumed. The three vessels struck this week — a Qatari LNG tanker, a Saudi crude tanker, and a Liberia-flagged crude carrier — represent not a rogue faction's miscalculation (the explanation Iran offered US officials) but a deliberate assertion of sovereignty over what Iran insists are its waters.
+
+This is where the deterrence theory applied by the Biden and Trump administrations alike runs into its limits. Military strikes have demonstrably failed to change Iranian behaviour over the strait. Sanctions relief was offered and then revoked — offering Tehran a ready-made grievance. The pattern, as Martin Kelly of EOS Risk Group told BBC Verify, is now one of "back and forth" cycling: brief openings, resumed attacks, retaliatory strikes, and then negotiations to restart a process whose fundamental architecture has never been resolved. The core unresolved question — who administers the Strait, under what legal framework, and at what price — has been deferred at every stage.
+
+There is a historical parallel worth examining. When the Tanker War of 1987–88 threatened Gulf shipping, the Reagan administration re-flagged Kuwaiti tankers as American vessels, deployed significant naval force, and extracted a tacit Iranian stand-down within roughly a year. What made that settlement stick was not military superiority alone — the US had that throughout — but the existence of an off-ramp that the Islamic Republic could accept without domestic humiliation. The June MOU provided no such architecture. It set a 60-day window, left the question of long-term strait governance to an undefined "dialogue with Oman," and required Iran to make concessions visible to a domestic audience that had just buried a Supreme Leader. Mojtaba Khamenei's vow of vengeance is not irrational in that context; it is the almost inevitable product of a settlement framework that asked Iran to stand down from a maximalist position while providing it no durable face-saving mechanism.
+
+The right response is not to abandon pressure — Iran's Revolutionary Guard has used every period of reduced pressure to consolidate leverage. It is to pair whatever military and economic coercion remains available with a diplomatic architecture substantive enough to survive the next provocation. That means a clearer legal framework for Hormuz passage, not another 60-day memorandum.
+
+## What to watch
+
+- Whether the new Khamenei government signals any interest in returning to talks, or whether the revenge rhetoric represents a genuine strategic shift away from pragmatic engagement.
+- The trajectory of oil prices, which function as a real-time referendum on the market's view of how serious the closure is; a sustained spike above pre-ceasefire peaks would indicate the market sees this as structural rather than cyclical.
+- Whether Qatar and Oman — who have the most to lose from a permanent breakdown — exercise their well-established back-channel roles to broker a tactical de-escalation before the closure calcifies into a new status quo.
+- Congressional reaction to the administration's simultaneous declaration that the MOU is "over" and that "talks will still continue" — incoherence that could constrain future diplomatic flexibility.
+
+— J
