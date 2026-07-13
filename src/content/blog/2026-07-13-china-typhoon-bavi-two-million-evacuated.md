@@ -1,0 +1,31 @@
+---
+title: "Typhoon Bavi and the China resilience question"
+description: "China's evacuation of nearly two million people before Typhoon Bavi is impressive, but the gap between state capacity and citizen autonomy remains structurally unresolved."
+pubDate: 2026-07-13
+tags: ["china", "climate", "governance", "disaster-management", "asia"]
+draft: false
+---
+
+Typhoon Bavi, a storm spanning roughly 1,000 kilometres at its widest point — approximately the width of France — made landfall in China's coastal city of Taizhou on Saturday evening before striking Wenzhou around midnight. More than 1.7 million people were evacuated in Zhejiang province alone, with further evacuations in neighbouring provinces, according to Chinese state media. Schools, workplaces, and outdoor activities were suspended across Zhejiang; around 400 flights and dozens of train services were cancelled. The city of Wenzhou, home to approximately ten million people, saw hundreds of thousands of residents moved out of the storm's path. Beijing separately ordered the evacuation of 100,000 people in the capital region [as a precautionary measure](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss). The typhoon had already killed at least 17 people in the Philippines via landslides before reaching China, and earlier caused damage to Japan's Ryukyu island chain. Bavi began as a super-typhoon, having reached wind speeds of 290 km/h while passing over Guam and the Northern Mariana Islands the previous Monday.
+
+## The received wisdom
+
+Western media and climate commentary tends to present China's mass-evacuation capability in one of two ways: either as an impressive demonstration of state capacity that liberal democracies would struggle to replicate, or as a function of authoritarian control that achieves compliance at the price of individual freedom. The mainstream climate-policy argument is that extreme weather events of this kind — a second major typhoon to hit China in a single week — are evidence of accelerating climate disruption requiring coordinated global decarbonisation. China's ability to move nearly two million people without visible chaos is, on this framing, almost secondary to the larger systemic point about why such storms are intensifying. The human toll, so far limited relative to the storm's scale, is cited as justification for the kind of top-down emergency-management infrastructure that democracies find politically difficult to build.
+
+## A different read
+
+The evacuation numbers are genuinely impressive, and it would be churlish to deny that China's centralised administrative machinery can move large populations with a speed that federal democracies envy. When a storm of this scale is coming, the capacity to issue a binding order and have it executed across multiple provinces within hours saves lives. That is a real institutional achievement.
+
+But the framing that treats authoritarian capacity as the relevant lesson misses two things.
+
+First, the distinction between *evacuation capacity* and *resilience* is not merely semantic. China can move people out of the path of a typhoon. What it struggles to do, as the broader pattern of Chinese infrastructure disasters illustrates, is maintain the distributed, community-level risk management that limits damage when the state is not watching. The history of Chinese dam failures — including the catastrophic 2021 Zhengzhou flooding that killed hundreds despite advanced meteorological warning — suggests that the single-point-of-failure architecture of top-down emergency management creates its own vulnerabilities. When the command structure works, it works spectacularly. When it fails, or when local officials suppress early-warning data to avoid appearing incompetent, the consequences are also spectacular.
+
+Second, the climate-policy argument that these storms justify accelerated Chinese decarbonisation deserves scrutiny. [China remains the world's largest emitter of greenhouse gases by a considerable margin](https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss), even as it builds more renewable capacity than any other country. The official Chinese narrative — that the country is simultaneously a climate victim and a climate leader — serves domestic political purposes and creates international pressure on Western governments to offer concessions on trade and technology transfer in exchange for climate cooperation that Beijing was already planning to deliver for its own economic reasons. The typhoon deaths are real; the uses to which they are put in diplomatic negotiations are a separate matter.
+
+The genuinely useful takeaway from Typhoon Bavi is narrower and more practical: that pre-emptive evacuation works, that predictive meteorology is worth investing in, and that coastal zoning decisions — where people and infrastructure are located — determine casualties as much as storm intensity does. None of those lessons require a centralised authoritarian state. They require functional local government, honest risk disclosure, and land-use planning that doesn't subordinate flood-plain safety to real-estate revenue. Several Western democracies, not least the United States in its Gulf Coast and Florida policies, have consistently failed on all three counts.
+
+## What to watch
+
+Track the final death toll once the typhoon fully dissipates and search-and-rescue operations conclude across Zhejiang and Anhui — the gap between the evacuation scale and the casualty numbers will be the real measure of whether the operation succeeded. Watch also for any local-official reports that were delayed or suppressed in the early warning phase; those tend to emerge in Chinese social media before state censorship can contain them. A third signal is whether insurance claims and infrastructure damage assessments reveal systematic underbuilding in coastal industrial zones. Finally, monitor whether this second consecutive major typhoon triggers any formal review of Chinese coastal-development regulations — the political incentives to expand port and manufacturing facilities along vulnerable coastlines have historically overridden the environmental ones.
+
+— J

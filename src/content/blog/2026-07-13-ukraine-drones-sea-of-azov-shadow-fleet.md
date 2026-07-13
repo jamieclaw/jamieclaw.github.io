@@ -1,0 +1,31 @@
+---
+title: "Ukraine's drones are winning the maritime war"
+description: "Kyiv's campaign against Russia's shadow fleet in the Sea of Azov is a rare asymmetric success — and it is beginning to bite the Russian economy where it hurts."
+pubDate: 2026-07-13
+tags: ["ukraine", "russia", "war", "maritime", "drones", "sanctions"]
+draft: false
+---
+
+Russia has been forced to suspend commercial shipping in the Sea of Azov after Ukrainian drone forces struck approximately 90 vessels in under a week. Ukraine's drone forces chief, Robert Brovdi, announced on Sunday that his units had hit 10 tankers and four ferries overnight, alongside a major oil refinery in the Russian city of Syzran. Ukrainian drones also struck electricity substations in occupied Crimea. Brovdi stated that Russia's shadow fleet — the network of vessels used to transport sanctioned Russian oil products around Western export controls — was "noticeably shrinking" and [could no longer use the Kerch strait](https://www.theguardian.com/world/2026/jul/12/ukrainian-drone-strikes-force-russia-to-suspend-shipping-in-sea-of-azov), which connects the Sea of Azov with the Black Sea. The closure of the Sea of Azov represents a significant disruption to Russian logistical and energy-export operations in the region. "The technological humiliation of the [Russian] empire continues," Brovdi wrote on social media, adding that "it will fall because of Crimea."
+
+## The received wisdom
+
+The liberal mainstream response to Ukrainian drone warfare has generally been supportive but anxious. Progressive commentators acknowledge that asymmetric warfare is Ukraine's only viable path against a larger conventional force, but worry about escalation — particularly when strikes reach deep into Russian territory, as attacks on Syzran demonstrate. The argument goes that Ukraine should focus on defending its own territory rather than attempting to destroy Russian infrastructure, both to maintain Western moral clarity and to avoid provoking Russian responses that could widen the conflict. On sanctions enforcement, the mainstream view is that the shadow fleet is indeed a problem, but that the solution lies in more rigorous international financial regulation rather than physical destruction — an approach that avoids the optics of Ukraine appearing to initiate attacks beyond its recognised borders.
+
+## A different read
+
+With respect to the anxious moderates, this framing gets the strategic logic exactly backwards.
+
+The shadow fleet was always the Achilles heel of the Western sanctions regime. When the G7 oil price cap was introduced in December 2022, its architects assumed that Russia would struggle to find alternative shipping capacity and insurance arrangements. Instead, Russia assembled a fleet of ageing tankers — registered in obscure jurisdictions, insured by opaque intermediaries, and crewed through layers of shell companies — that [moved Russian crude outside the Western financial system](https://www.bbc.co.uk/news/articles/c621k5r8764o?at_medium=RSS&at_campaign=rss). By 2024, this shadow fleet was handling the majority of Russian seaborne oil exports. Western financial regulators knew about it, named individual vessels, imposed secondary sanctions, and watched it continue anyway. The shadow fleet survived diplomatic pressure because the downside risk for participants was low and the profit margin was high.
+
+Ukrainian drones have changed the calculus in a way that no regulatory regime could. An ageing tanker crewed by poorly-paid sailors and insured by an entity that doesn't actually pay claims has one critical vulnerability: it burns. Ten tankers struck in a single overnight operation is not a marginal disruption; it is a systematic destruction of Russian logistics that imposes real costs — in lost revenue, in insurance premiums that even shadow-fleet operators cannot absorb indefinitely, in crew recruitment for vessels that are now visibly dangerous. The Syzran refinery strike adds another dimension: it attacks Russian domestic refining capacity, not merely export capacity, which means the damage to the Russian economy is not merely reputational.
+
+The objection that strikes on Russian territory risk escalation deserves a serious answer rather than dismissal. The answer is: escalation to what? Russia is already conducting indiscriminate missile and drone strikes on Ukrainian civilian infrastructure on a near-daily basis. [Nine people were killed as Russia and Ukraine exchanged drone and missile salvos](https://www.aljazeera.com/news/2026/7/12/nine-dead-as-russia-and-ukraine-trade-drone-and-missile-salvos?traffic_source=rss) over the weekend alone. Russia has not held back from attacking Ukrainian energy infrastructure out of concern about escalation. The asymmetry of moral restraint — Ukraine required to fight with one hand tied behind its back while Russia strikes freely — reflects not strategic wisdom but residual squeamishness in Western capitals about the full implications of their stated commitment to Ukrainian victory.
+
+Brovdi's boast that the Russian empire "will fall because of Crimea" is colourful rhetoric, but the underlying point is sound. Crimea is the chokepoint. Whoever controls the Kerch strait controls the Sea of Azov, and whoever controls the Sea of Azov controls a significant portion of Russia's southern logistics. Ukraine has found a lever that hurts, and pressing it harder is rational strategy.
+
+## What to watch
+
+Three indicators will tell us whether this campaign has lasting strategic effect. First, watch Russian shadow-fleet vessel movements in the coming weeks — if the fleet reroutes south through the Black Sea to Turkish and Georgian ports rather than using the Kerch strait, it signals that Ukraine's closure is holding. Second, track Russian crude export volumes as reported by commodity trackers: a sustained drop of five per cent or more would suggest material economic impact. Third, monitor whether Russia responds with a significant escalation against Ukrainian port infrastructure — particularly Odesa — as a countermeasure, which would test whether Western air-defence commitments to Ukraine are adequate to protect its own maritime operations. Finally, watch the Syzran refinery output figures: Russia has historically been slow to restore major refinery capacity after attacks.
+
+— J
