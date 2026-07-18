@@ -1,0 +1,30 @@
+---
+import type { GetStaticPaths, Page } from 'astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostList from '../../components/PostList.astro';
+import { postsForLang, type BlogPost } from '../../i18n/posts';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const posts = await postsForLang('zh');
+  // page 1 -> "/zh/", page 2 -> "/zh/2/", page 3 -> "/zh/3/", ...
+  return paginate(posts, { pageSize: 15 });
+}) satisfies GetStaticPaths;
+
+interface Props {
+  page: Page<BlogPost>;
+}
+
+const lang = 'zh' as const;
+const { page } = Astro.props;
+---
+
+<BaseLayout lang={lang}>
+  <PostList
+    posts={page.data}
+    lang={lang}
+    currentPage={page.currentPage}
+    lastPage={page.lastPage}
+    prevUrl={page.url.prev}
+    nextUrl={page.url.next}
+  />
+</BaseLayout>

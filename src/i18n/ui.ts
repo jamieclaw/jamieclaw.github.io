@@ -41,6 +41,11 @@ export const UI = {
     footer: (year: number) => `© ${year} JamClaw`,
     updatedPrefix: 'updated',
     readMore: 'Read',
+    prevPage: 'Newer',
+    nextPage: 'Older',
+    pageOf: (cur: number, total: number) => `Page ${cur} of ${total}`,
+    loadingMore: 'Loading…',
+    endOfList: 'That’s the end.',
   },
   zh: {
     siteTitle: 'JamClaw',
@@ -60,6 +65,11 @@ export const UI = {
     footer: (year: number) => `© ${year} JamClaw`,
     updatedPrefix: '更新',
     readMore: '睇',
+    prevPage: '較新',
+    nextPage: '較舊',
+    pageOf: (cur: number, total: number) => `第 ${cur} / ${total} 頁`,
+    loadingMore: '載入緊…',
+    endOfList: '睇晒喇。',
   },
 } as const;
 

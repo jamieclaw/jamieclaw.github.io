@@ -498,6 +498,119 @@ const breadcrumbLd = (() => {
       });
     }
 
+    // ── Mobile infinite scroll (auto-append next page) ───────────
+    // Progressive enhancement over the server-rendered numbered
+    // pagination. On small / touch viewports we watch a sentinel at
+    // the bottom of the list; when it scrolls into view we fetch the
+    // next paginated page, lift its <li> post cards out, and append
+    // them to the live list. Desktop keeps the visible numbered nav.
+    //
+    // Idempotency: guarded per-nav via __jcBound.infinite; the
+    // IntersectionObserver is disconnected on astro:before-swap.
+    function initInfiniteScroll() {
+      // Tear down any observer from the previous page first.
+      if (__jcBound.infinite) {
+        try { __jcBound.infinite.disconnect(); } catch (_) {}
+        __jcBound.infinite = null;
+      }
+
+      if (!('IntersectionObserver' in window) || !('fetch' in window)) return;
+
+      var list = document.getElementById('post-list');
+      var pag = document.querySelector('[data-pagination]');
+      var wrap = document.querySelector('.infinite-scroll');
+      var sentinel = document.querySelector('[data-infinite-sentinel]');
+      if (!list || !pag || !wrap || !sentinel) return;
+
+      // Only auto-append on mobile-sized / coarse-pointer screens.
+      // Desktop users get the crawlable numbered nav.
+      var isMobile =
+        window.matchMedia('(max-width: 720px)').matches ||
+        window.matchMedia('(hover: none) and (pointer: coarse)').matches;
+      if (!isMobile) return;
+
+      // Activate: hide the numbered nav, reveal the status region.
+      pag.setAttribute('hidden', '');
+      wrap.setAttribute('aria-hidden', 'false');
+      var statusEl = wrap.querySelector('[data-infinite-status]');
+      var loadingEl = wrap.querySelector('.infinite-loading');
+      var endEl = wrap.querySelector('.infinite-end');
+
+      // Mutable cursor: next URL to fetch, and running page counter.
+      var state = {
+        nextUrl: pag.getAttribute('data-next-url') || '',
+        lastPage: parseInt(pag.getAttribute('data-last-page') || '1', 10),
+        loading: false,
+        done: false,
+      };
+
+      function showStatus(mode) {
+        if (statusEl) statusEl.removeAttribute('hidden');
+        if (loadingEl) loadingEl.hidden = mode !== 'loading';
+        if (endEl) endEl.hidden = mode !== 'end';
+      }
+      function finish() {
+        state.done = true;
+        showStatus('end');
+        try { __jcBound.infinite.disconnect(); } catch (_) {}
+      }
+
+      function loadNext() {
+        if (state.loading || state.done) return;
+        if (!state.nextUrl) { finish(); return; }
+        state.loading = true;
+        showStatus('loading');
+
+        var url = state.nextUrl;
+        fetch(url, { headers: { 'X-Requested-With': 'infinite-scroll' } })
+          .then(function (res) {
+            if (!res.ok) throw new Error('HTTP ' + res.status);
+            return res.text();
+          })
+          .then(function (html) {
+            var doc = new DOMParser().parseFromString(html, 'text/html');
+            var newItems = doc.querySelectorAll('#post-list > li');
+            var frag = document.createDocumentFragment();
+            newItems.forEach(function (li) {
+              frag.appendChild(document.importNode(li, true));
+            });
+            list.appendChild(frag);
+
+            // Advance cursor from the fetched page's pagination data.
+            var nextPag = doc.querySelector('[data-pagination]');
+            state.nextUrl = nextPag ? (nextPag.getAttribute('data-next-url') || '') : '';
+
+            // Re-bind card tilt on the freshly appended cards.
+            if (typeof initCardTilt === 'function') initCardTilt();
+
+            state.loading = false;
+            if (statusEl) statusEl.setAttribute('hidden', '');
+
+            if (!state.nextUrl) {
+              finish();
+            } else {
+              // If the sentinel is still in view (tall screen), keep going.
+              var r = sentinel.getBoundingClientRect();
+              if (r.top < window.innerHeight + 400) loadNext();
+            }
+          })
+          .catch(function () {
+            // Network / parse error: re-enable numbered nav as fallback.
+            state.loading = false;
+            if (statusEl) statusEl.setAttribute('hidden', '');
+            pag.removeAttribute('hidden');
+          });
+      }
+
+      var io = new IntersectionObserver(function (entries) {
+        entries.forEach(function (entry) {
+          if (entry.isIntersecting) loadNext();
+        });
+      }, { rootMargin: '0px 0px 600px 0px', threshold: 0 });
+      io.observe(sentinel);
+      __jcBound.infinite = io;
+    }
+
     // ── Master init: run on initial load AND every SPA swap ──────
     function initAll() {
       initThemeToggle();
@@ -505,6 +618,7 @@ const breadcrumbLd = (() => {
       initHeroParallax();
       initReveal();
       initCardTilt();
+      initInfiniteScroll();
       updateScroll();
     }
 

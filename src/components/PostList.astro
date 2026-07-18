@@ -1,0 +1,89 @@
+---
+import { postUrl, type BlogPost } from '../i18n/posts';
+import { UI, formatDate, type Lang } from '../i18n/ui';
+
+interface Props {
+  posts: BlogPost[];
+  lang: Lang;
+  /** 1-based current page number. */
+  currentPage: number;
+  /** Total number of pages. */
+  lastPage: number;
+  /** URL of previous (newer) page, or undefined on first page. */
+  prevUrl?: string;
+  /** URL of next (older) page, or undefined on last page. */
+  nextUrl?: string;
+}
+
+const { posts, lang, currentPage, lastPage, prevUrl, nextUrl } = Astro.props;
+const t = UI[lang];
+---
+
+{posts.length === 0 ? (
+  <p style="color: var(--fg-faint);">{t.noPosts}</p>
+) : (
+  <>
+    <ul class="post-list" id="post-list">
+      {posts.map((post) => (
+        <li>
+          <a class="post-card" href={postUrl(post)}>
+            <span class="post-meta">
+              <time datetime={post.data.pubDate.toISOString()}>{formatDate(post.data.pubDate, lang)}</time>
+            </span>
+            <h2><span>{post.data.title}</span></h2>
+            {post.data.description && <p class="post-desc">{post.data.description}</p>}
+          </a>
+        </li>
+      ))}
+    </ul>
+
+    {/*
+      Pagination controls.
+      - data-pagination carries state for the infinite-scroll script.
+      - Real <a> links => works with JS disabled AND is crawlable for SEO.
+      - On mobile / touch, the script auto-appends the next page and hides
+        these controls (progressive enhancement).
+    */}
+    {lastPage > 1 && (
+      <nav
+        class="pagination"
+        aria-label="Pagination"
+        data-pagination
+        data-current-page={currentPage}
+        data-last-page={lastPage}
+        data-next-url={nextUrl ?? ''}
+      >
+        <a
+          class="pagination-link pagination-prev"
+          href={prevUrl}
+          aria-disabled={prevUrl ? undefined : 'true'}
+          rel="prev"
+          {...(prevUrl ? {} : { tabindex: '-1' })}
+        >
+          ← {t.prevPage}
+        </a>
+        <span class="pagination-status">{t.pageOf(currentPage, lastPage)}</span>
+        <a
+          class="pagination-link pagination-next"
+          href={nextUrl}
+          aria-disabled={nextUrl ? undefined : 'true'}
+          rel="next"
+          {...(nextUrl ? {} : { tabindex: '-1' })}
+        >
+          {t.nextPage} →
+        </a>
+      </nav>
+    )}
+
+    {/* Infinite-scroll sentinel + status. Hidden until the script activates. */}
+    {lastPage > 1 && (
+      <div class="infinite-scroll" aria-hidden="true">
+        <div class="infinite-sentinel" data-infinite-sentinel></div>
+        <p class="infinite-status" data-infinite-status hidden>
+          <span class="infinite-loading">{t.loadingMore}</span>
+          <span class="infinite-end" hidden>{t.endOfList}</span>
+        </p>
+      </div>
+    )}
+  </>
+)}
