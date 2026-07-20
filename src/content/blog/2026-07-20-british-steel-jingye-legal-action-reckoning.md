@@ -1,0 +1,34 @@
+---
+title: "British Steel, China, and the nationalisation reckoning"
+description: "Jingye Group's announcement of legal action over British Steel's nationalisation escalates a dispute that reveals the deep contradictions in Britain's attempt to reshore strategic industry while remaining open to Chinese capital."
+pubDate: 2026-07-20
+tags: ["british-steel", "china", "uk-politics", "industrial-policy"]
+draft: false
+---
+
+China's Jingye Group has announced it will pursue "full compensation through legal means to the very end" following the United Kingdom government's formal nationalisation of British Steel's Scunthorpe works on Thursday. [Jingye's statement came after](https://www.bbc.co.uk/news/articles/cwyj4ppqn41o) China's commerce ministry declared on Friday that the move "seriously infringed" upon Jingye's rights and interests and "severely undermined the confidence of Chinese companies investing in the UK." The UK government, which first took operational control of the plant in April 2025 after Jingye warned it was losing £700,000 a day and planned to close the site, has said draft compensation regulations will be published in autumn, with an independent assessor to determine what, if anything, is payable. The plant employs around 2,700 people in North Lincolnshire and the government says it represents a "vital national capability" in primary steel production. Business Secretary Peter Kyle has stated closing the operation is "not an option," and the government is covering running costs estimated at £1.3 million per day, according to a National Audit Office report released in March. The nationalisation also complicates the diplomatic opening Andy Burnham faces as he enters Downing Street today.
+
+## The received wisdom
+
+The left-progressive and much of the centrist press frames the British Steel nationalisation as a vindication of the case for strategic industrial intervention. The argument is that Thatcherite privatisation exported control of critical national infrastructure to a foreign owner who proved unable or unwilling to maintain it, and that the state has been forced to act in the national interest. The human dimension — 2,700 workers, their families, the supply chains of North Lincolnshire — is compelling. The notion of "primary steel production" as a sovereign capability, not merely a commercial activity, resonates with a post-pandemic and post-Ukraine sensibility that supply chain vulnerability matters. On this reading, Jingye's legal threats are the predictable response of a corporation defending shareholder value, and Beijing's "strong dissatisfaction" is diplomatic noise that a self-confident nation should absorb without flinching. Britain's open-investment policy has its limits, and those limits have been reached.
+
+## A different read
+
+The case for nationalisation is more straightforward than its costs. The costs, however, deserve serious attention, and the government's handling of this episode has been notably evasive about them.
+
+Jingye bought the Scunthorpe plant in 2020 and [in 2025 declared it was losing £700,000 per day](https://www.bbc.co.uk/news/articles/cwyj4ppqn41o) and announced closure plans. The UK government responded by taking operational control. The question that has never been answered publicly is why Jingye's losses were so severe. The company entered Britain's steel market at a time of thin margins, high energy costs — particularly post-2021 — and structural overcapacity in global steel production driven substantially by China's own subsidised exports. There is a mordant irony in the UK nationalising a steel plant partly because its Chinese owner was losing money to the structural effects of Chinese state overproduction. The government is now spending £1.3 million per day to operate a plant whose commercial viability remains unproven.
+
+The legal exposure is more serious than official language suggests. Jingye's pledge to pursue compensation "to the very end" likely invokes bilateral investment treaty protections and potentially the UK-China investment framework. The 1986 UK-China BIT provides for investor-state arbitration; the compensation process the government has described — an "independent assessor" determining "what, if any, is payable" — does not obviously satisfy international arbitration standards if the assessor is UK-appointed and applies UK statute. Trade lawyers will be watching.
+
+The broader diplomatic dimension is the most politically sensitive. [China's commerce ministry statement](https://www.bbc.co.uk/news/articles/cjd4kvxpd3do) specifically warned that the nationalisation "severely undermined the confidence of Chinese companies investing in the UK." This matters not because Britain should subordinate national interest to foreign investor sentiment — it should not — but because Andy Burnham's stated agenda includes an ambitious industrial renewal programme that requires significant private capital, and the signal sent by the British Steel episode is that the UK is willing to nationalise strategic assets in ways that leave foreign investors with uncertain compensation outcomes. The timing, with Burnham entering Downing Street today, is maximally awkward.
+
+The harder conservative point is this: if primary steel production is a genuine sovereign necessity, the question is not whether to nationalise it but whether the UK has the political will to fund it indefinitely at public expense or to invest in the plant's genuine commercial modernisation. The current posture — "not an option" to close it, but no announced plan for viability — is fiscal suspension without strategy. Margaret Thatcher's government privatised British Steel in 1988 precisely because the state had proven unable to run a commercially viable steel sector. The reasons for that failure have not obviously changed; what has changed is the geopolitical context that makes closing the plant strategically painful. That is a defensible reason to nationalise, but it comes with an honest price tag that the government has not yet named.
+
+## What to watch
+
+- Whether Jingye formally initiates bilateral investment treaty arbitration — the timelines and forum would determine whether this becomes a long-running diplomatic irritant or a short-term legal skirmish.
+- Whether the autumn compensation regulations satisfy investor-state standards or are designed primarily for domestic political optics.
+- How Burnham handles the China relationship in his first diplomatic engagements — his commitment to a "successful trading relationship" with Beijing sits in direct tension with the steel nationalisation signal.
+- Whether the government announces any plan for the plant's commercial modernisation — decarbonisation of steelmaking is capital-intensive, and without a credible transition plan the daily subsidy is indefinite.
+
+— J
