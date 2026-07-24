@@ -1,0 +1,36 @@
+---
+title: "Trump's forced-labour tariffs and the trade system's slow fracture"
+description: "New US tariffs on 60 trading partners for failing to stop forced labour imports represent a legitimate moral principle deployed with geopolitical convenience — and the consequences will be felt by consumers everywhere."
+pubDate: 2025-07-25
+tags: ["trade", "tariffs", "forced-labour", "globalisation"]
+draft: false
+---
+
+The United States has [imposed tariffs of 10% to 12.5% on imports from approximately 60 trading partners](https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss), citing their failure to adequately prevent goods made with forced labour from entering the American supply chain. The affected countries account for 99% of US imports by value. A [separate NPR report](https://www.npr.org/2026/07/23/g-s1-135388/trump-tariffs-trade-country) confirmed the 10% to 12.5% tariff range and noted that Washington has charged these countries with inadequately enforcing their own labour standards. The action follows a series of earlier Trump trade measures — including the threatened [50% tariff on Canada](https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates) and new [tariffs on generic drugs](https://www.theguardian.com/us-news/live/2026/jul/21/donald-trump-tariffs-canada-mark-carney-lebanon-republicans-gop-spending-bill-latest-news-updates) slated to take effect in 2028 — painting a picture of a US trade posture oriented towards systematic decoupling rather than incremental pressure.
+
+## The received wisdom
+
+The liberal trade establishment's response to this measure will be, characteristically, to emphasise the costs: higher prices for American consumers, retaliatory risks, and the destabilising effect on the WTO-based rules order that the United States itself designed after 1945. There is also a pointed critique about selective enforcement: the same administration that invokes forced labour in Xinjiang and Myanmar has been conspicuously silent about the labour conditions in certain Gulf construction sectors that supply American companies. If forced labour is the standard, the critics will note, it should be applied consistently — and the current list of 60 nations looks suspiciously like a roster of countries that run trade surpluses with the United States rather than a forensic catalogue of the world's worst labour abusers.
+
+There is genuine substance here. Canada, singled out in related tariff threats, has [demonstrably strict labour standards](https://www.bbc.co.uk/news/articles/ce8kvm84lxmo?at_medium=RSS&at_campaign=rss) and is hardly a forced-labour economy. Its inclusion alongside regimes that do engage in state-directed coercive labour undermines the moral coherence of the stated rationale.
+
+## A different read
+
+And yet. The forced-labour framing, whatever its inconsistencies, has landed on something real that the free-trade consensus spent two decades underweighting.
+
+The integration of Xinjiang cotton into global supply chains — documented by auditors, journalists, and ultimately by the US Congress in the Uyghur Forced Labor Prevention Act — demonstrated that comparative advantage, as practised in the 2000s and 2010s, was in some cases built on systematic coercion invisible to the consumer. The trade rules that governed this period were not morally neutral; they had distributive consequences that fell heavily on workers in importing countries and, in the extreme cases, on enslaved workers in the supplying countries. The free-trade framework had a moral blind spot, and the political backlash — from both left and right, in both the US and Europe — reflects a genuine public intuition that this blind spot mattered.
+
+The precedent here is worth taking seriously. In the 19th century, the movement to prohibit the importation of goods made by slave labour — which had significant support among early British free traders as well as abolitionists — eventually lost out to a narrower conception of trade freedom. It took until the 1930 Smoot-Hawley Tariff Act in the US and various later instruments to build statutory prohibition on slave-labour goods into trade law, and even then enforcement was fitful. What is happening now, whatever its political motivations, is a belated (and messy) attempt to operationalise a principle that has existed in US law since 1930 but has been largely dormant. The [Uyghur Forced Labor Prevention Act of 2021](https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss) created a rebuttable presumption that goods from Xinjiang involve forced labour. The 2025–2026 tariff regime is an extension of that logic globally.
+
+The problem is not the principle. The problem is the execution and the opportunism. Applying the same tariff rate to Canada as to countries where state-directed labour coercion is documented and systematic is either strategic incoherence or deliberate leverage dressed up in moral language. If it is leverage, it should be described as leverage. Muddling trade restriction with moral condemnation serves neither goal well: it dilutes the genuine moral case against forced labour and gives adversaries a propaganda gift about American hypocrisy.
+
+There is also a second-order effect that deserves more attention. The 60-country tariff regime, combined with the Canada threats, the drug tariffs, and the earlier steel and aluminium measures, collectively represent the systematic dismantling of the multilateral trade architecture that underpinned globalisation since the Uruguay Round. The WTO's dispute resolution mechanism is already largely moribund. The new tariff regime will generate dozens of new disputes that the WTO cannot meaningfully adjudicate. What replaces it — bilateralism, managed trade, regional blocs — will be less efficient, more prone to political manipulation, and considerably harder to enforce for smaller economies that lack America's negotiating leverage. The countries most harmed by the death of rules-based trade are not the major economic powers, who can manage bilaterally; they are the medium and small developing economies that built export models on the assumption that WTO rules would protect them from exactly this kind of unilateral action.
+
+## What to watch
+
+- **Retaliatory measures**: which of the 60 countries responds with counter-tariffs, and whether they can coordinate through the EU or G20 to amplify bargaining power.
+- **Exemption process**: whether the administration creates a transparent mechanism by which countries can demonstrate labour compliance, or whether exemptions are granted on political grounds — the latter would confirm the leverage hypothesis.
+- **Congressional reaction**: Republican senators from agricultural states and manufacturing districts dependent on imported intermediate goods will feel constituent pressure. Farm-state GOP defections from the tariff consensus have historically been the point of fracture.
+- **WTO DSB filings**: the speed and number of formal dispute filings will indicate whether America's trade partners are pursuing legal recourse or accepting the new reality.
+
+— J

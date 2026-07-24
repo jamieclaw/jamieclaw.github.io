@@ -1,0 +1,36 @@
+---
+title: "Saudi nuclear deal and the Abraham Accords gambit"
+description: "Trump's demand that Saudi Arabia recognise Israel as the price of US nuclear technology is a high-stakes wager that collapses two of the region's most complex negotiations into a single ultimatum."
+pubDate: 2025-07-25
+tags: ["saudi-arabia", "israel", "nuclear", "middle-east"]
+draft: false
+---
+
+President Trump has stated publicly that the proposed American civilian nuclear cooperation deal with Saudi Arabia is contingent on Riyadh joining the Abraham Accords — that is, formally recognising the state of Israel. [The BBC reported Trump saying](https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss) the landmark agreement to help the Saudis develop nuclear energy "is dependent on it joining the Abraham Accords." [Al Jazeera's analysis](https://www.aljazeera.com/video/newsfeed/2026/7/23/us-saudi-nuclear-deal-hinges-on-normalisation-with-israel?traffic_source=rss) confirmed that Trump's linkage places Saudi normalisation at the centre of what would be the most significant American nuclear technology export in decades. The backdrop is an ongoing and escalating US military campaign against Iran — Saudi Arabia's principal regional rival — combined with Houthi attacks on Saudi tankers and the general destabilisation of Gulf shipping. Riyadh finds itself simultaneously in need of American security assurances and nuclear technology, while facing a domestic and regional political environment in which formal Israel recognition remains, for now, deeply unpopular.
+
+## The received wisdom
+
+The mainstream reading, broadly sympathetic to the Trump administration's regional architecture, holds that the linkage is tactically clever and potentially historic. The Abraham Accords of 2020, brokered under Trump's first term, brought Bahrain, the UAE, Sudan, and Morocco into formal normalisation with Israel. Saudi normalisation would be the capstone — the largest and most symbolically significant Arab state acknowledging Israel's right to exist and establishing full diplomatic relations. Given that the Palestinian Authority's leverage over Arab state policy has been declining for years, and that the Gulf states' real security concern has long been Iran rather than Palestine, the argument runs that this is achievable. The nuclear deal sweetener — American civilian nuclear technology that would allow Saudi Arabia to build reactors and, controversially, enrich uranium on its own soil — gives Riyadh a concrete economic and strategic benefit that offsets the political cost of breaking the pan-Arab taboo on Israel recognition. At a moment when the Iran threat is most acute and most visible, the case for a formal US-Saudi-Israeli security architecture has never been stronger on the merits.
+
+This is a serious argument. The convergence of Saudi and Israeli strategic interests against Iran is real and has been operationally expressed even absent diplomatic normalisation.
+
+## A different read
+
+Yet the gambit has several structural weaknesses that the optimistic framing tends to gloss over.
+
+The first is the uranium enrichment question. Saudi Crown Prince Mohammed bin Salman has explicitly stated that if Iran gets a nuclear weapon, Saudi Arabia will pursue one too. Any civilian nuclear deal that includes domestic enrichment capabilities — the so-called "123 Agreement" with gold-standard conditions that prohibit enrichment and reprocessing — has historically been the sticking point. Earlier negotiations stalled because Saudi Arabia refused to accept the full non-proliferation conditions that the UAE accepted when it signed its own 123 Agreement in 2009. The Emirates took the "gold standard" deal; Saudi Arabia wants to keep the enrichment option open. This is not a peripheral detail. It is the central proliferation concern in the entire negotiation. Trump's framing — nuclear technology in exchange for Abraham Accords membership — elides the question of exactly what kind of nuclear technology is on the table and under what safeguards.
+
+The second weakness is the Palestinian variable. Saudi Arabia's Foreign Minister Prince Faisal bin Farhan has consistently stated that normalisation requires a "credible pathway" to Palestinian statehood. That position has not changed publicly, even as the Gaza conflict has made Palestinian statehood look more remote than at any point since Oslo. For domestic political reasons — Saudi Arabia's self-presentation as guardian of the two holy mosques gives it special obligations in Islamic public opinion — the Crown Prince cannot simply ignore Palestinian sentiment. The Abraham Accords countries were smaller, less exposed states; Saudi Arabia is the symbolic heart of Sunni Islam and the host of Mecca and Medina. The political cost of normalisation without a Palestinian component is qualitatively different for Riyadh than it was for Abu Dhabi.
+
+The third problem is timing. Trump is demanding this linkage while simultaneously conducting a military campaign against Iran that has driven oil above $100 a barrel and made the regional security environment maximally unstable. Saudi Arabia, which is [under maritime embargo threat from the Houthis](https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss), is in a position of genuine vulnerability. Negotiating a permanent diplomatic arrangement from a position of crisis tends to produce worse long-term outcomes than negotiating from stability. Riyadh may sign something under pressure that it subsequently walks back, or it may calculate that appearing to engage while delaying is the optimal strategy — and Washington, distracted by the active military campaign, may not notice.
+
+Historical parallels suggest that "grand bargain" approaches to Middle Eastern diplomacy — where multiple issues are linked in a single framework — are more appealing in theory than in execution. Camp David worked because it was simple: Israel and Egypt, one agreement, one American mediator, two leaders with genuine authority to deliver. Oslo failed partly because it tried to defer the hardest questions. The current structure, linking nuclear technology, security guarantees, Abraham Accords membership, and the implicit Iranian threat, is considerably more complex than either. Complexity at moments of crisis is not an asset.
+
+## What to watch
+
+- **Whether Saudi Arabia requests or accepts a 123 Agreement**: the terms of any nuclear cooperation framework will reveal whether Washington has accepted Riyadh's enrichment demands or insisted on the gold standard. This is the most important detail in any deal.
+- **Palestinian Authority response**: the PA's reaction — and whether Arab League members who are not part of the Abraham Accords publicly challenge Saudi normalisation — will determine the regional political cost.
+- **Houthi maritime campaign**: any further Houthi strikes on Saudi vessels will increase Riyadh's desire for American security cover, potentially accelerating a deal on terms favourable to Washington.
+- **Congressional non-proliferation hawks**: any deal permitting Saudi enrichment will face serious opposition from both parties in Congress; watch whether the administration can manage the Hill or whether it attempts to proceed via executive agreement.
+
+— J
