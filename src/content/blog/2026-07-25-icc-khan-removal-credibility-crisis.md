@@ -1,0 +1,34 @@
+---
+title: "Karim Khan's removal and the ICC's credibility crisis"
+description: "The removal of ICC chief prosecutor Karim Khan over sexual misconduct allegations exposes the court's deep institutional vulnerabilities at the moment it needs most to project authority."
+pubDate: 2026-07-25
+tags: ["icc", "international-law", "institutions", "governance"]
+draft: false
+---
+
+The International Criminal Court's [member states voted to remove chief prosecutor Karim Khan](https://www.npr.org/2026/07/24/g-s1-135498/icc-court-prosecutor-karim-khan-vote) on Friday, following allegations of sexual misconduct with a junior staff member. Khan, a British barrister who had led the court since 2021, [denied the allegations and his defence team noted that he was removed while many court officials faced no such scrutiny](https://www.aljazeera.com/news/2026/7/24/icc-prosecutor-khan-removed-over-sexual-misconduct-allegations-sources?traffic_source=rss). The [BBC reported that Khan had engaged in an improper sexual relationship with a junior ICC staff member](https://www.bbc.co.uk/news/articles/cqjxddx12qqo?at_medium=RSS&at_campaign=rss), which the prosecutor denied. The removal comes at an acutely sensitive moment: the court has outstanding arrest warrants for heads of state and has been seeking to try cases related to the Ukraine and Gaza conflicts, both of which have generated intense political pressure from major powers who are not ICC signatories. Meanwhile, [Venezuela announced it would exit the ICC entirely](https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss), accusing the institution of political bias — an announcement Caracas timed alongside its increasingly close relationship with Washington.
+
+## The received wisdom
+
+The mainstream human-rights community's response to the Khan removal is understandably focused on continuity of proceedings and the danger of political interference. The ICC, this argument runs, represents the painstaking construction of international criminal accountability over decades — from Nuremberg through the ad hoc tribunals for Yugoslavia and Rwanda to the Rome Statute's entry into force in 2002. Any weakening of its prosecutorial independence, whether through misconduct scandals, political pressure from major powers, or member-state defections, sets back the project of holding powerful actors legally accountable for atrocities. The specific allegations against Khan, while serious, should not be allowed to overshadow the systemic importance of the institution he led. The court's cases — ongoing investigations into alleged crimes in Ukraine, Gaza, Sudan, Myanmar — represent the only realistic prospect of accountability for actions that would otherwise go unpunished.
+
+## A different read
+
+The problem with the institutional-continuity argument, sympathetic as it is, is that it papers over a set of tensions in the ICC's design that have been accumulating since 2002 and which the Khan episode has now cracked open in full public view.
+
+The first tension is between universalist aspiration and selective application. The ICC prosecutes individuals from states that either signed the Rome Statute or were referred to the court by the UN Security Council. The United States, Russia, China, and Israel are not signatories. This means the court can issue warrants for the heads of allied parties in conflicts while the most powerful states escape its jurisdiction by institutional design. [Venezuela's exit](https://www.aljazeera.com/news/2026/7/24/venezuela-to-exit-international-criminal-court-accusing-it-of-bias?traffic_source=rss) — however self-serving the timing — echoes an accusation that African states have long levelled: that the ICC's docket reflects the geopolitical interests of Western powers more than a neutral application of international law. That accusation is not new, and it has never been fully answered.
+
+The second tension is institutional. The prosecutor of the ICC holds a degree of independent authority that is structurally unusual in international law — more than a diplomat, less constrained than a national attorney general. This was by design: the architects of the Rome Statute wanted a prosecutor who could resist political pressure from member states. The consequence is that misconduct by the prosecutor himself is especially difficult to manage without the very political interference the statute was designed to prevent. Khan's removal, whatever the merits of the underlying allegations, will be characterised by his supporters as exactly such an interference — and in a court whose authority rests entirely on its perceived legitimacy, the distinction between removing a genuinely misconducting official and removing an inconveniently active one is impossible to establish beyond reasonable doubt.
+
+The third problem is timing. The court is attempting to pursue cases that implicate the strategic interests of the United States, Russia, and Israel — none of which are signatories and all of which have expressed varying degrees of hostility to the institution. A leadership crisis that makes the court look dysfunctional and politically manipulable is, from the perspective of those powers, advantageous. One need not assume bad faith to observe that the timing is damaging.
+
+The deeper conservative case here is not for abandoning international accountability mechanisms but for being honest about their limitations. Institutions derive authority from consistent and impartial application of rules. An ICC that cannot manage its own leadership without generating a credibility crisis, that applies its jurisdiction selectively by structural necessity, and that is now losing member states is not a failing institution that needs more political support — it is an institution that needs reform honest enough to acknowledge those structural problems, not merely weather this scandal and continue as before.
+
+## What to watch
+
+- **Successor appointment**: Who member states select as Khan's successor will reveal whether the dominant faction seeks to depoliticise the role or use the vacancy to shift the court's prosecutorial priorities.
+- **Venezuela precedent**: Other states with grievances against the court — particularly from Africa and Latin America — will watch whether Venezuela's exit triggers consequences or passes without response. Further withdrawals are the existential risk.
+- **Outstanding warrants**: Active proceedings in the Ukraine and Gaza cases face procedural uncertainty during the interregnum. How member states manage this will indicate their appetite for continuity versus reset.
+- **US posture**: The Trump administration's attitude toward the ICC has been hostile. Whether it interprets the current crisis as an opportunity to further delegitimise the court — or shows restraint — will materially affect the institution's near-term prospects.
+
+— J
