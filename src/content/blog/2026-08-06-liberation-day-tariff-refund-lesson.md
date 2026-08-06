@@ -1,0 +1,31 @@
+---
+title: "A hundred-billion-dollar tariff lesson"
+description: "The $100bn Liberation Day refund reveals that judicial guardrails on executive trade power still hold — but the follow-on tariff regime shows the lesson hasn't been learned."
+pubDate: 2026-08-06
+tags: ["trade", "tariffs", "us-politics", "rule-of-law"]
+draft: false
+---
+
+The Trump administration has paid back $100 billion — roughly 60 percent of all revenue collected — in "Liberation Day" tariff refunds to American businesses, according to a [court filing from US Customs and Border Protection](https://www.bbc.co.uk/news/articles/cwyewn5wexvo). The repayments follow a February Supreme Court ruling that broad import tariffs levied under the International Emergency Economic Powers Act of 1977 were unlawful. Nearly $29 billion in further potential refunds remains under review, and another $1.6 billion is stalled because importers have not supplied banking details. Amazon alone has received approximately $600 million, according to the company's finance chief, who said some funds would be passed to customers and the rest used to lower store prices. Tariffs are taxes on domestic importers, not foreign exporters, and higher tariffs had raised business costs that were largely passed on to shoppers in the form of higher retail prices.
+
+## The received wisdom
+
+The mainstream liberal framing of this episode is straightforward and, in its narrow terms, correct: the judicial branch functioned as designed, an overreach of executive power was checked by the courts, and $100 billion is being returned to the businesses and ultimately the consumers who bore the burden. The rule of law held. Further, progressive commentators note that the tariff experiment exposed something important about supply-chain vulnerability and the degree to which American consumers subsidise the "cheap goods" model of globalisation. If anything, they argue, the debacle should prompt a more targeted, sector-specific industrial policy — rather than blunt emergency tariffs — to address legitimate concerns about trade imbalances, forced labour, and strategic dependencies on adversarial suppliers. The court ruling, on this reading, is not a defeat for economic nationalism but a corrective that clears the way for better-designed policy.
+
+## A different read
+
+There is a risk that Washington's policy class draws exactly the wrong lesson from the IEEPA tariff debacle. The wrong lesson is: *the mechanism was flawed, so design a better mechanism.* The right lesson is more fundamental: emergency trade powers are a poor substitute for deliberate statutory trade policy, and the cycle of executive improvisation followed by judicial correction has now cost American businesses and consumers a year of uncertainty and, according to the IEEPA tariff receipts figure, roughly $165 billion in total tariff payments before refunds — money that was effectively a forced, interest-free loan to the federal government.
+
+The administration's response to the February Supreme Court ruling illustrates the persistence of the underlying impulse. After the ruling, Trump introduced a [10% universal tariff](https://www.bbc.co.uk/news/articles/cwyewn5wexvo) as a temporary measure. That expired at the end of last month and was replaced by new tariffs on 60 trading partners, justified this time on forced-labour grounds rather than emergency economic powers. Days after that, a [50% tariff on Canada](https://www.bbc.co.uk/news/articles/cwyewn5wexvo) was announced. The legal basis shifts; the interventionist instinct remains constant. This is not trade policy — it is trade improvisation wearing different legal costumes in each act.
+
+The deeper problem is that the unpredictability itself has economic costs that the $100bn refund figure obscures. Businesses make investment and sourcing decisions years in advance. A company that relocated a supply chain from China to Vietnam on the basis of the Liberation Day tariff regime and its apparent permanence cannot recover those sunk costs from US Customs regardless of what the Supreme Court says. Capital allocation distortions induced by policy uncertainty do not show up in customs filing data. The refund is welcome; it does not undo the disruption.
+
+There is a conservative case for tariffs — Alexander Hamilton made it, Friedrich List expanded it, and a thoughtful national-security-inflected industrial policy has genuine intellectual respectability. But that case rests on *statutory* tariffs, negotiated deliberately by Congress, applied transparently and predictably, and designed to build domestic capacity rather than generate short-term leverage. What the Liberation Day episode demonstrated is the opposite: tariffs deployed as a geopolitical bargaining chip, justified under an emergency statute, reversed by the courts, replaced by new tariffs under new justifications, all within twelve months. The signal sent to every company considering long-term US investment is not reassuring.
+
+Amazon's decision to pass "some" of its $600 million refund to customers — and keep the rest — also tells us something about how the tariff burden actually distributed. Consumers paid higher prices; when refunds arrive, the distribution is discretionary, not automatic. The progressive hope that tariff pain fell on foreign exporters or large importers rather than ordinary shoppers was always economically confused. The Customs filing simply confirmed what basic economics predicted from day one.
+
+## What to watch
+
+Watch the legal challenges to the new forced-labour tariffs on 60 trading partners: the administration has changed its statutory hook from IEEPA emergency powers to trade enforcement, but the breadth of the new regime will face its own legal scrutiny. Track the $29 billion still under review — whether that sum is released promptly or slow-walked matters for small-business importers who lack Amazon's liquidity cushion. And watch Congress: the entire episode is an argument for restoring legislative primacy over trade policy, but no serious bipartisan bill to that effect has advanced. Until it does, the next administration — of either party — will inherit the same improvised toolkit and be tempted to use it the same way.
+
+— J
