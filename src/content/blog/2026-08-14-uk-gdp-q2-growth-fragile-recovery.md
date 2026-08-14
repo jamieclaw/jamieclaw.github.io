@@ -1,0 +1,35 @@
+---
+title: "UK grows 0.4% and the glass is barely half full"
+description: "Britain's second-quarter GDP beat expectations but the underlying picture — war-driven energy costs, stalled real wages, and a government running out of fiscal room — offers little cause for celebration."
+pubDate: 2026-08-14
+tags: ["uk-economy", "gdp", "fiscal-policy", "iran-war"]
+draft: false
+---
+
+Britain's economy grew by 0.4% in the second quarter of 2026, [new official figures showed Thursday](https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o), making the economy 1.2% larger than a year ago. The reading was in line with economists' expectations and follows 0.6% growth in the first quarter, meaning the pace of expansion is already slowing. The Office for National Statistics reported services output growing by 0.7% in the three months to May, with production up a modest 0.1% and construction performing more strongly at 1.6%. The IMF has recently [upgraded its forecast for annual UK GDP growth to 1% from 0.8%](https://opusllp.com/economic-overview-for-august-2026/), making Britain the third-fastest-growing economy in the G7 this year behind the United States and Canada. However, economists were quick to caution that the second half of 2026 is likely to be significantly harder, with war-related energy costs, [potential spillover from the Iran conflict](https://www.bbc.co.uk/news/articles/c5y3egv4m4mo), and the fiscal tightening signalled in the Autumn Budget still to work through the system.
+
+## The received wisdom
+
+The left-progressive consensus broadly welcomes the growth figure while arguing it masks deeper structural failures. The growth, such as it is, is being pulled forward by services — particularly professional services and finance — while manufacturing and the working-class regions that depend on it continue to underperform. Real wages for most workers have been eroded by the energy-price shock stemming from the Iran war, which has pushed gasoline prices up approximately 24% over the year even as they fell slightly in July. The government, the argument goes, should use this brief window of positive data to justify further public investment: in housing, in green energy transition, in NHS workforce capacity. Fiscal consolidation is the wrong medicine for an economy where the private sector is not yet investing at sufficient scale to carry the growth burden. On this reading, the main risk is austerity by stealth dressed up as "responsible management."
+
+There is genuine substance here. Real-terms household income growth has lagged headline GDP, and the regional distribution of UK economic activity remains among the most concentrated of any large economy. The Iran-war energy premium is a real and regressive tax on ordinary consumption.
+
+## A different read
+
+But the political economy question this number raises is not whether to invest more — it is whether the UK is building the structural conditions for durable growth or papering over an uncomfortable reality with borrowed optimism.
+
+The honest picture is sobering. The UK has run a current-account deficit in the range of 3–4% of GDP for much of the past decade, meaning it consistently spends more abroad than it earns — a structural dependence on foreign capital inflows that is benign when global conditions are favourable and precarious when they are not. The war in the Middle East has not created that vulnerability, but it has put it under stress: energy import costs are elevated, and the City of London's traditional role as a financial entrepôt is complicated by the geopolitical fragmentation of global capital flows.
+
+The 1% annual growth rate, while better than some peers, also needs to be placed against the UK's long-run productivity performance. Output per hour in the UK has grown at roughly half the rate of comparable economies since the 2008 financial crisis — a decade and a half of relative stagnation that has compounded into a significant real-income gap. The services sector that is driving this quarter's headline number includes a great deal of financial intermediation and professional services activity that, while not economically worthless, does not generate the kind of broad-based productivity gains associated with advanced manufacturing, applied research, or traded services.
+
+The government's fiscal position is the constraint that ties everything else together. EY's UK Economic Outlook forecasts 0.9% growth in 2026 and 1.2% in 2027, but acknowledges that the outlook "remains uncertain overall in the wake of continued geopolitical disruption." The [Autumn Budget is expected to involve significant fiscal tightening](https://www.bbc.co.uk/news/articles/cx2d1gpx2k0o), and the interest-rate environment — with the Bank of England cautious about cutting while services inflation remains sticky — means the cost of servicing existing debt will remain elevated. The fiscal arithmetic that would allow a serious public-investment programme simply does not exist without either tax rises or a bet on growth rates that the evidence does not yet support.
+
+The right political question is therefore not the partisan one — "government investment vs. austerity" — but a more granular one: what specific interventions at the margin would improve UK growth capacity without expanding the structural deficit? Planning reform (already painfully under way), vocational education and retraining (chronically underfunded relative to the rhetoric), and targeted reductions in non-wage employment costs for small businesses are all candidates that draw on the correct analytical framework without requiring a borrowing surge that would alarm the bond market.
+
+The energy dimension also deserves more serious policy attention than it is currently receiving. Britain's exposure to the Iran-war energy premium is partly a function of decisions not taken in the 2010s: an offshore gas extraction regime that allowed North Sea output to decline faster than necessary, and a planning system that throttled onshore renewable buildout in ways that looked manageable when Persian Gulf supplies were uninterrupted. The bill for those choices is now arriving.
+
+## What to watch
+
+Watch the August Bank of England Monetary Policy Committee meeting minutes for the language on services inflation — if the MPC remains hawkish, the "narrow path" for rate cuts that several economists mentioned after this GDP print will close further, putting more pressure on mortgage holders and dampening consumption. Watch the Autumn Budget, which is now shaping up to be the central economic policy event of the year. Watch construction output: its relative strength (1.6%) is one of the few genuinely encouraging signals, and whether it is sustained depends heavily on whether planning reforms translate into actual permissions and starts. And watch the Iran negotiations, which are the exogenous variable no domestic policy can substitute for — a diplomatic settlement that brought energy prices back toward 2024 levels would be worth several percentage points of GDP more than any fiscal adjustment the government has the room to make.
+
+— J

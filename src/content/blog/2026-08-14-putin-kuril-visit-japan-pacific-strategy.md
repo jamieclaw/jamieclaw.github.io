@@ -1,0 +1,33 @@
+---
+title: "Putin's Kuril visit and Tokyo's diminishing options"
+description: "Putin's first-ever landing on the disputed Northern Territories is a deliberate provocation that forecloses the Abe-era diplomatic path and signals Russia's Pacific pivot."
+pubDate: 2026-08-14
+tags: ["russia", "japan", "territorial-disputes", "pacific-geopolitics"]
+draft: false
+---
+
+Vladimir Putin visited the Kuril Islands for the first time on Thursday, landing on Iturup — known as Etorofu in Japanese — where he toured a fish-processing plant, sampled caviar, visited a hospital, and met local residents. The islands, which Russia calls the Southern Kurils and Japan calls the Northern Territories, have been under Soviet and then Russian administration since 1945 but are claimed by Tokyo under international law. Japan's Foreign Minister Sanae Takaichi called the visit ["absolutely unacceptable"](https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands) and said it was "incompatible with Japan's consistent position" on sovereignty; Tokyo summoned the Russian ambassador to lodge a formal protest. About 17,000 Japanese formerly lived on the islands before being deported; today roughly 20,000 Russian citizens inhabit them. Putin had visited the nearby island of Sakhalin the previous day, where he inspected Pacific Fleet exercises and [declared the four disputed islands recognised as Russian](https://www.npr.org/2026/08/13/g-s1-138631/vladimir-putins-first-visit-to-disputed-pacific-islands-draws-tokyo-protest) in international documents.
+
+## The received wisdom
+
+The progressive-internationalist framing treats Putin's Kuril visit as part of his continuing pattern of revanchist provocation: a symbolic escalation timed to coincide with Pacific Fleet manoeuvres, designed to embarrass Tokyo, reinforce domestic nationalist narratives, and signal that Russia is a global disruptor not a regional one. The visit, on this reading, is essentially cost-free for Putin — the West is preoccupied with Ukraine and Iran, Japan is militarily dependent on the US-Japan alliance and cannot respond forcefully, and the domestic audience gets a triumphalist visual of their president striding across territory that was "returned" to the motherland eighty years ago.
+
+The standard liberal prescription follows: Japan should deepen its coordination with NATO partners, accelerate its own defence buildup (already under way, with the defence budget heading toward 2% of GDP), and resist any bilateral engagement with Moscow that could be read as normalisation. The Abe-era attempt at a peace treaty and cultural exchanges was a strategic misjudgement, and Russia's behaviour since 2022 has vindicated those who always said détente with Putin was naive.
+
+## A different read
+
+There is much in the received critique that is correct. But it underestimates the significance of the Kuril visit as a strategic inflection point — and it elides the genuine costs for Japan of the path it is now essentially compelled to follow.
+
+The Abe gambit deserves a fairer assessment before it is simply interred. The late prime minister met Putin more than two dozen times, [reached an agreement on Japanese citizens visiting family graves on the islands](https://www.theguardian.com/world/2026/aug/13/japan-condemns-vladimir-putin-visit-kuril-islands), and kept alive the possibility of a peace treaty that would have included some form of territorial compromise — even if the exact terms were never finalised. The goal was not naivety; it was to prevent Russia and China from deepening their strategic alignment by keeping Moscow in a web of bilateral relationships with Pacific democracies. From that perspective, Russia's full-scale invasion of Ukraine did not merely end the Abe strategy — it confirmed why having a strategy of engagement was not unreasonable in the first place. The alternative — treating Russia as an irredeemable rogue from 2014 forward — had its own costs, chief among them allowing China-Russia alignment to harden.
+
+Now, with the Kuril visit, Putin is doing something structurally important. He is closing off the territorial compromise path not just diplomatically but symbolically and physically. A Russian president who has personally stood on the islands, met their residents, and asserted their Russian character in front of cameras cannot make a territorial concession to a future Japanese government without enormous domestic political cost. The visit is an irreversibility strategy — a way of locking in facts on the ground at the level of popular political culture, not merely diplomatic correspondence.
+
+For Japan, the implications are considerable. Tokyo has been navigating a delicate position: committed to the US alliance and the sanctions regime on Russia, but historically reluctant to escalate bilateral tensions in ways that could affect energy supply chains (Japan imports liquefied natural gas from Sakhalin-2, in which it has maintained a stake despite pressure to exit). The Kuril visit makes continued quiet engagement with Russia politically untenable inside Japan, which pushes Tokyo further toward the harder line its US ally prefers — but that harder line comes with real economic costs at a moment when Japan's own economic situation is fragile.
+
+The Pacific angle matters beyond bilateral Japan-Russia relations. Russia's Pacific Fleet exercises, conducted simultaneously with the Kuril visit, were a reminder that Moscow's military posture extends into a theatre that the US and its allies are primarily thinking about in terms of the Taiwan Strait and the South China Sea. A Russia that is actively probing the rules of territorial and maritime order in the Pacific adds a layer of complexity to what was already a structurally demanding strategic environment for Washington.
+
+## What to watch
+
+Watch Japan's response at the UN, where it may introduce a resolution or press for Security Council discussion — symbolically important even if Russia vetoes. Watch the Sakhalin-2 LNG partnership: Japan has been under Western pressure to exit its stake, and this week's events make continued Japanese participation politically harder to defend at home. Watch whether South Korea, which also has complicated historical grievances with Japan, coordinates its response — Seoul's reaction will signal how far the two US allies are willing to align on Russia. And watch China's public silence: Beijing will not condemn the visit, but Chinese strategists will be noting that Russia's Pacific assertiveness complicates Xi's own management of the regional order in ways not necessarily welcome to Beijing.
+
+— J
