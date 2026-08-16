@@ -1,0 +1,33 @@
+---
+title: "Ceuta's second surge and Schengen's stress test"
+description: "The Moroccan security operation to prevent a second mass Ceuta crossing exposes how Europe's borderless internal ideal depends entirely on the willingness of non-EU states to police the external perimeter."
+pubDate: 2026-08-16
+tags: ["migration", "europe", "ceuta", "schengen"]
+draft: false
+---
+
+Moroccan security forces on Saturday intercepted over 100 migrants attempting to reach Spain's North African exclave of Ceuta, arresting 111 people in and around the border town of Fnideq. [The BBC reported](https://www.bbc.co.uk/news/articles/ckg44x2ey1ro) the operation involved army officers, navy speedboats, drones and riot police using tear gas to disperse groups gathered on nearby hills. The mobilisation was triggered by social media posts circulating earlier in the week calling for a mass crossing on Saturday, 15 August. Morocco's government said it would prosecute both organisers and participants. The intervention came less than a fortnight after approximately 78,000 migrants arrived in Ceuta by sea within hours in late July — an event the city's mayor said left 100 people dead, with the vast majority subsequently returning to Morocco. Spain deployed more than 1,500 security officers to Ceuta and installed metal fences and floating barriers following that influx. Italy, citing fears of onward movement through Spain, suspended Schengen free movement rules and introduced border checks on arrivals from Spain; Denmark and Finland backed Rome, while the Czech Republic called for Spain's Schengen membership to be temporarily suspended.
+
+## The received wisdom
+
+The liberal internationalist reading of the Ceuta situation is sympathetic to the migrants and deeply uncomfortable with the security response. People are making dangerous crossings because the conditions in sub-Saharan Africa, and in Morocco's economic margins, are desperate. Instagram accounts are selling crossing advice — [as the BBC reported separately](https://www.bbc.co.uk/news/articles/c89n20wj9kko) — which points to organised criminal networks that profit from human desperation. The answer, on this view, is not tear gas at the border but expanded legal pathways, a reformed EU asylum system that distributes resettlement more equitably across member states, and genuine development investment in countries of origin and transit. The Schengen disputes are framed as a failure of European solidarity — wealthier northern states refusing to share the burden that geography imposes on Spain and Italy.
+
+These are not trivial arguments. The conditions driving migration are real, the criminal networks are real, and the EU's asylum distribution mechanism has been dysfunctional for years.
+
+## A different read
+
+But the Ceuta episode also illustrates something that the mainstream framing consistently underweights: the structural dependency of European border security on the cooperative discretion of Morocco — a non-EU, non-democratic partner state that has its own interests and uses migration control as a diplomatic lever.
+
+The late-July influx of 78,000 people in a matter of hours was not a spontaneous humanitarian wave. It was a logistically organised event. Morocco's borders are not porous by accident; they are porous when Rabat decides to reduce enforcement, as it does periodically in response to disputes with Madrid or Brussels. The most notable precedent was May 2021, when Morocco opened its borders in response to Spain's hosting of the head of the Polisario Front, the independence movement for Western Sahara. Roughly 10,000 people crossed Ceuta in a single day. The pattern is clear and documented: Moroccan border enforcement is a political instrument, not merely a humanitarian or technical operation.
+
+This creates a situation in which Europe's ability to control its own external border in the Ceuta sector is, in practice, sub-contracted to a government in Rabat that has every incentive to retain that leverage. [Al Jazeera reported](https://www.aljazeera.com/news/2026/8/15/moroccan-police-arrest-over-100-migrants-trying-to-reach-spanish-enclave) the Moroccan security response on Saturday — the army, the navy speedboats, the drones — as a demonstration of capability. It was also a demonstration of choice: Morocco can control this border when it wishes to. The question is always under what conditions it wishes to.
+
+The Schengen disputes among European member states are a symptom of this dependency. Italy's border checks on arrivals from Spain are constitutionally awkward and politically inflammatory. But Italy is not wrong about the underlying problem: once migrants arrive in Ceuta — and Spain's prime minister is correct that Ceuta is not technically in the Schengen area — the Spanish government's interest in processing them rapidly conflicts with other member states' interest in not becoming the downstream destination. The EU's Dublin Regulation, which requires asylum claims to be processed in the country of first entry, has never been adequately resourced or enforced. The result is a system that works tolerably in low-flow conditions and breaks down under precisely the kind of organised surge that social media now makes easy to coordinate.
+
+The deeper structural point is that Europe's borderless internal ideal is not self-sustaining. It requires a functioning external perimeter. That perimeter currently depends on agreements with Turkey, Morocco, Libya, and a handful of other states — arrangements that are perpetually vulnerable to the domestic politics and foreign-policy interests of those partners. Every time a major crossing event occurs, the EU debates more equitable burden-sharing among members. What it rarely debates seriously is whether the external-perimeter strategy itself is adequately designed, funded, and insulated from the leverage of transit states.
+
+## What to watch
+
+Watch whether Spain and Italy resolve their bilateral border dispute before the next EU interior ministers' meeting — the pattern of bilateral retaliation is damaging the Schengen framework more broadly. Watch Morocco's posture in the coming weeks: whether Saturday's security operation is followed by sustained enforcement or proves a one-day demonstration. Watch whether Brussels accelerates talks on a new Morocco-EU migration partnership, which has been stalled for months over disagreements about the Western Sahara issue. And watch whether the EU Commission's proposal to reform the Dublin Regulation — which has been on the table in various forms since 2016 — advances, or whether the Ceuta crisis produces the usual cycle of emergency rhetoric followed by institutional paralysis.
+
+— J

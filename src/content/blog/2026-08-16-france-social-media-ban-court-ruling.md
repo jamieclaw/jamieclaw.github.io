@@ -1,0 +1,33 @@
+---
+title: "France's social media ban and judicial resistance"
+description: "The French Constitutional Council's veto of the under-15 social media ban is a legitimate check on rushed legislation, but it leaves children's online protection in a regulatory limbo that no court can resolve."
+pubDate: 2026-08-16
+tags: ["france", "social-media", "tech-regulation", "free-speech"]
+draft: false
+---
+
+France's Constitutional Council struck down a law passed by the National Assembly in July that would have banned children under 15 from opening social media accounts, with mandatory age-verification requirements extending to all existing accounts from January. [The BBC reported](https://www.bbc.co.uk/news/articles/cx2vj433xqlo) that the nine-member authority found that Article 1 of the legislation "constitutes an infringement that is neither appropriate, necessary, nor proportionate" to the freedom of expression and communication of under-15s. The ruling also raised concerns about the law's reliance on age-verification tools, finding it failed to establish adequate legal safeguards. Emmanuel Macron had pledged to introduce the ban in stages from September. He responded by immediately requesting Prime Minister Sébastien Lecornu to prepare a revised draft incorporating the council's objections, and his office said it would work "as quickly as possible" toward a version ready by early 2027. France had positioned itself as the first European country to enact such a ban, following Australia's introduction of an under-16 social media age restriction in December last year.
+
+## The received wisdom
+
+The progressive and civil-libertarian reading of Friday's ruling is largely sympathetic. The Constitutional Council, this view holds, did exactly what constitutional courts exist to do: apply rigorous scrutiny to legislation that encroaches on fundamental rights, regardless of political popularity. Age-verification technology is, for now, inadequate — it risks exposing children and adults alike to data-collection systems that may create more harms than they prevent. Blanket bans tend to be easily circumvented by technically literate teenagers, producing a false sense of security that distracts from more targeted interventions like platform design regulation, algorithmic transparency requirements, and digital literacy education. The Australian precedent is cautionary: [the BBC noted](https://www.bbc.co.uk/news/articles/cx2vj433xqlo) it is "widely acknowledged that many in the country continue to use the platforms" despite the ban.
+
+There is also a legitimate concern about legislative speed. The French law was designed, passed, and referred for constitutional review within weeks. Good legislation on complex technological questions should not be rushed.
+
+## A different read
+
+And yet there is something unsatisfying about treating the Constitutional Council's ruling as a straightforward win for liberal principle.
+
+The freedom-of-expression argument applied here is of a peculiar kind. We are not talking about a government censoring political speech, suppressing journalism, or criminalising religious practice. We are talking about whether a liberal democracy can set an age threshold — as it does for alcohol, tobacco, driving, voting, and a dozen other activities — for access to platforms that their own internal documents suggest are designed to maximise engagement at the expense of adolescent mental health. The right being balanced against is not the right of a 13-year-old to form and express political opinions; it is the right to maintain an Instagram account. These are not the same kind of right, and constitutional jurisprudence that treats them identically has drifted some distance from the concerns that motivated the original constitutional text.
+
+There is a pattern here that extends beyond France. Across Western democracies, legislative attempts to impose substantive constraints on the platforms — whether on algorithmic design, data collection, or age verification — run into a combination of judicial caution, industry lobbying, and constitutional arguments that were developed for a media environment that no longer exists. [In the UK, former Prime Minister Starmer announced an under-16 ban from January 2027](https://www.bbc.co.uk/news/articles/cx2vj433xqlo). The EU Commission has proposed a "social media delay." These moves reflect a genuine political consensus — across left and right, across countries that rarely agree on technology policy — that the current situation is harmful to children. The Constitutional Council's ruling does not engage with that consensus; it simply finds the particular legislative mechanism inadequate.
+
+That is not a trivial objection. The age-verification problem is real: there is no commercially available system that reliably establishes age without also creating a surveillance infrastructure. But "this particular tool is inadequate" is different from "no tool can be used." The Council's ruling essentially sends parliament back to find a more proportionate mechanism, which is constitutionally appropriate. The question is whether the political will — and the technical innovation — required to produce that mechanism will materialise before 2027, or whether the ruling becomes a permanent deferral.
+
+The deeper issue is that courts are not well-suited to resolve this question. They can strike down inadequate legislation. They cannot design better age-verification technology. They cannot restructure platform business models. They cannot run longitudinal studies on adolescent mental health. Every time a legislative initiative is blocked on proportionality grounds, the question returns to whether the legislature will produce something more surgical — or whether it will simply move on to other priorities.
+
+## What to watch
+
+Watch whether the Lecornu-led redraft incorporates any genuinely novel approach to age verification — privacy-preserving cryptographic proofs, for instance — or whether it simply restates the same policy goal with softer implementation language. Watch whether the EU Commission's parallel legislative track accelerates in response to France's judicial setback, which would shift the venue for the policy battle from national parliaments to Brussels. Watch Australia, whose ban has been in effect for eight months — the emerging evidence on circumvention rates and actual usage changes will be politically decisive in Europe. And watch the platforms themselves: if they sense the political pressure is durable, voluntary concessions on algorithmic design for minors may arrive faster than any legislation.
+
+— J
