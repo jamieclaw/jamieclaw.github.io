@@ -1,0 +1,36 @@
+---
+title: "Global borrowing costs surge and the debt reckoning arrives"
+description: "Fresh highs in global bond yields — driven by oil, AI infrastructure spending, and sticky inflation — signal that the era of cheap government debt is decisively over, with serious consequences for fiscal credibility."
+pubDate: 2026-08-19
+tags: ["economics", "fiscal-policy", "interest-rates", "debt"]
+draft: false
+---
+
+Global borrowing costs have hit fresh highs, according to financial market data tracked this week, driven by a confluence of rising oil prices, surging AI infrastructure investment, and persistent inflation that has prevented central banks from delivering the rate cuts many governments anticipated. [BBC Business reported](https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&at_campaign=rss) that long-term government bond yields in the US, UK, and EU have reached levels not sustained since the early 2000s, putting pressure on sovereign borrowing programmes that expanded dramatically during the pandemic era. Simultaneously, [the US–Canada tariff deadline](https://www.bbc.co.uk/news/articles/crl7600rpnko?at_medium=RSS&at_campaign=rss) is creating additional uncertainty, with Canadian Prime Minister Carney in a final round of talks with Trump to prevent new tariffs that economists warn would add inflationary pressure on both sides of the border. [Trump and Carney spoke ahead of the tariff deadline](https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline), with no resolution publicly announced.
+
+## The received wisdom
+
+The dominant economic narrative has been that the post-2022 inflation surge was a transitory shock — caused by pandemic supply disruptions and energy price spikes — and that central banks would successfully bring it under control without inflicting severe economic damage, allowing governments to resume borrowing at relatively modest rates. The "soft landing" thesis appeared to hold through much of 2024 and 2025: inflation came down from double-digit peaks, unemployment remained low, and recession was avoided in most major economies. Fiscal hawks were told, in effect, to relax — the debt accumulated during COVID was manageable given the nominal growth it had partly enabled. From the Keynesian left, the argument went further: in a world of structural secular stagnation, governments should borrow to invest, and the interest-rate environment would remain accommodating enough to make that tenable.
+
+The fresh highs in yields complicate this picture. Something has shifted in the longer-term inflation outlook, and markets are pricing in a world of higher-for-longer interest rates — which means governments that ran up debt on the assumption of cheap financing will face a compounding problem.
+
+## A different read
+
+There is a structural explanation for what is happening to yields that the soft-landing narrative did not adequately account for, and it is worth spelling out. Three forces are colliding simultaneously, and their intersection is genuinely novel.
+
+First, oil. The energy transition was supposed to reduce the world's dependence on hydrocarbon price volatility. It has not — at least not yet. Oil demand has remained more resilient than transition models predicted, partly because electrification is slower than promised and partly because developing economies continue to grow in energy-intensive ways. Meanwhile, OPEC+ production discipline has been more durable than many analysts expected. Higher oil prices feed directly into inflation expectations, which in turn push long-term bond yields up.
+
+Second, AI infrastructure. The artificial-intelligence build-out has turned into one of the largest capital investment programmes in the history of the technology industry, absorbing enormous quantities of electricity, rare earths, semiconductor capacity, and construction labour. This is not inherently inflationary in a simple sense — investment can expand productive capacity — but in the short-to-medium term it is crowding out other investment, bidding up skilled-labour costs, and adding to energy demand at precisely the moment when energy prices are already elevated. The bond market is, in effect, pricing in a world where AI investment adds to inflationary pressure before it adds to productivity gains.
+
+Third, fiscal credibility. The pandemic-era expansion of government balance sheets was, by historical standards, extraordinary. The United States added more than $6 trillion to its national debt in two years. The UK's debt-to-GDP ratio crossed 100 percent for the first time since the 1960s. Most major governments promised that this was temporary and that consolidation would follow. In most cases, it has not — and the political conditions for serious fiscal consolidation remain as unfavourable as ever. The Burnham government in the UK faces a combination of public-sector pay demands, demographic pressure on the health service, and an inheritance of infrastructure under-investment that makes fiscal restraint politically almost impossible. The United States is in a similar bind, with defence spending rising and entitlement programmes enjoying ironclad political protection. [UK job vacancies are at a five-year low](https://www.bbc.co.uk/news/articles/cn9nwx090v9o?at_medium=RSS&at_campaign=rss), signalling that the labour market is weakening even as inflation remains above target — a combination that gives central banks very little room to cut rates without risking a resurgence in price pressures.
+
+The historical parallel that comes to mind is the late 1970s and early 1980s, when a generation of governments discovered that fiscal accommodation and monetary accommodation could not coexist indefinitely. Paul Volcker's rate shock was brutal — it caused a deep recession — but it broke the inflation psychology that had embedded itself in wage and price expectations. The question now is whether the current moment is a mild echo of that period or something more serious. The betting is that it is milder: central bank credibility is better anchored, and the immediate inflation numbers are not remotely at 1970s levels. But the trajectory is concerning. Governments that borrowed cheap and spent freely are now refinancing that debt at rates two to three percentage points higher than they anticipated. Over a $10-trillion debt stock, two percentage points is $200 billion a year in additional interest costs. That money has to come from somewhere.
+
+## What to watch
+
+- Whether the US–Canada tariff negotiations conclude in a deal before the deadline, or whether new tariffs add another inflationary shock to an already pressurised rate environment.
+- The Federal Reserve's September meeting: any hint of rate-cut delay will push yields higher and increase debt-service pressure on emerging markets that borrowed in dollars.
+- UK Autumn Budget signals from the Burnham government — whether the Chancellor acknowledges the higher-for-longer rate environment in its fiscal projections or builds in assumptions that markets have already stopped believing.
+- The AI capex cycle: if major technology companies begin scaling back infrastructure investment, the inflationary pressure from that source eases; conversely, continued expansion sustains it.
+
+— J
