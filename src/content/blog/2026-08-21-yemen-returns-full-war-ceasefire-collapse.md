@@ -1,0 +1,34 @@
+---
+title: "Yemen's return to full war and the ceasefire illusion"
+description: "The resumed Houthi–government fighting in Yemen exposes how externally brokered ceasefires that do not address underlying political economies of war are merely intervals between rounds of violence."
+pubDate: 2026-08-21
+tags: ["yemen", "houthis", "middle-east", "conflict"]
+draft: false
+---
+
+[Yemen is sliding back toward full-scale war](https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war), Al Jazeera reported on August 20, as Houthi forces and the internationally recognised government exchanged heavy attacks across multiple fronts. The fighting marks the most serious breakdown in the fragile UN-brokered truce that has held intermittently since April 2022. The Houthis, who control most of Yemen's north including the capital Sana'a, have resumed missile and drone attacks on government-held territories in the south and east, while government forces and their coalition backers have struck Houthi military positions. The United Nations and regional mediators have called for restraint, but the pattern of the past four years — temporary ceasefires followed by renewed fighting — suggests that restraint is not a strategy. Yemen, after eleven years of war, remains the world's worst humanitarian crisis, with millions dependent on international food assistance and infrastructure degraded below pre-war levels.
+
+## The received wisdom
+
+The dominant progressive and humanitarian framing of the Yemen conflict places primary responsibility on the Saudi-led coalition and its Western backers — the United States and United Kingdom, which have supplied weapons, intelligence, and logistical support to Saudi Arabia's air campaign since 2015. In this account, Western complicity in coalition airstrikes that have killed civilians and destroyed hospitals and water infrastructure is the central moral failure of the war. The Houthis, in this framing, are at minimum an understandable response to a Yemeni state historically dominated by corrupt elites and reinforced by foreign interventionism. The 2022 truce was thus a partial vindication of those who argued for pushing Riyadh and its Western partners toward restraint. The resumption of fighting, by extension, is partly the fault of those same actors for not pressing harder for a comprehensive political settlement.
+
+This is not a caricature. The Saudi coalition's record of airstrikes — including documented strikes on weddings, hospitals, and school buses — is genuinely appalling and well-evidenced. Western governments that continued arms sales while professing humanitarian concern deserve the criticism they received.
+
+## A different read
+
+The honest difficulty with the standard framing is that it consistently underweights what the Houthis themselves are: not a nationalist liberation movement with a coherent governance programme, but a Zaydi revivalist organisation with deep ideological ties to Iran, a demonstrated willingness to recruit child soldiers, a political programme that includes [explicitly anti-Semitic sloganeering as constitutional text](https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war), and a management of the territories it controls that has produced famine conditions not primarily through Saudi blockade but through deliberate diversion of humanitarian aid. The International Crisis Group and Amnesty International have documented Houthi abductions of aid workers, forced disappearances of journalists, and systematic torture of political prisoners — a record that complicates the narrative of the Houthis as simply the aggrieved underdog.
+
+What makes the current resumption of fighting significant is not that the truce broke — that was predictable — but why it broke when it did. The regional context matters: the US–Iran war that began in 2025 and its economic aftershocks have reshuffled the strategic incentives of every actor in the Middle East. Iran, facing what the US Treasury has called ["the most crushing economic operation ever mounted"](https://www.aljazeera.com/news/2026/8/20/us-treasury-secretary-says-new-economic-measures-will-collapse-iran) against it, has strong incentives to activate proxy forces that can impose costs on US allies and complicate US power projection. The Houthis — who have already demonstrated capability against Red Sea shipping — are the most immediately deployable instrument in that toolkit.
+
+This makes Yemen not primarily a humanitarian crisis that has become a geopolitical football, but a geopolitical conflict whose humanitarian dimensions are chronic and terrible. The distinction matters for policy. If the Houthis are primarily a domestic Yemeni political movement with legitimate grievances, the prescription is political inclusion and power-sharing. If they are primarily an Iranian proxy force whose territorial control in Yemen serves Iranian regional strategy, the prescription is regional containment and pressure on Tehran — which brings one back to the original logic of the Saudi intervention, flawed as its execution was.
+
+The historical parallel is instructive. The Angola civil war between MPLA and UNITA lasted twenty-seven years, through eleven formal ceasefire agreements, because neither side faced the cost-benefit calculation that made peace preferable to continued fighting. The UN's ceasefires in Angola were not failures of diplomacy; they were correct diagnoses of a conflict sustained by external patronage on both sides. Yemen will follow a similar trajectory until the external sponsors — Iran on one side, Saudi Arabia and the UAE on the other — decide that their investment in the conflict no longer serves their interests. That calculation is not currently pointing toward peace.
+
+## What to watch
+
+- The Red Sea: if Houthi forces resume attacks on commercial shipping — as they did extensively in 2024 — the economic consequences for global supply chains are significant and the pressure on Western navies to respond escalates rapidly.
+- Iran's resource allocation: with maximum US sanctions biting, Tehran's capacity to fund and supply the Houthis may contract — which could reduce Houthi military capability or force them toward a more purely defensive posture.
+- Saudi–UAE alignment: the two Gulf states have not always agreed on Yemen strategy, and their divergence in the past has undermined the coalition's coherence. Watch whether Riyadh and Abu Dhabi coordinate a unified response or pursue separate tracks.
+- UN mediator Hands Grundberg's next intervention: if the UN is unable to broker even a temporary ceasefire within the next four to six weeks, the conflict may escalate to its pre-2022 intensity, with devastating consequences for civilians in both Houthi and government-controlled areas.
+
+— J
