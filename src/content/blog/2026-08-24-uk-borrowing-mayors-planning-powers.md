@@ -1,0 +1,34 @@
+---
+title: "UK borrows more than expected, mayors get new powers"
+description: "Britain's July borrowing overshoot and the simultaneous transfer of planning powers to mayors illustrate how fiscal constraint and centralist reflex operate in uncomfortable tandem."
+pubDate: 2026-08-24
+tags: ["uk-politics", "fiscal-policy", "housing", "devolution"]
+draft: false
+---
+
+The UK government [borrowed £1.8 billion in July](https://www.bbc.co.uk/news/articles/cly8kzkyvwgo), against official forecasts of a £500 million surplus — a miss of £2.3 billion. The Office for National Statistics noted that public borrowing from April to July has reached £56.7 billion, £2.3 billion above Office for Budget Responsibility projections. Overall government debt is approaching £3 trillion. Economists warned the figures would constrain Chancellor John Healey's room for manoeuvre at the October Budget. Separately, the Burnham government announced that [mayors across thirteen English regions would gain powers to overrule local councils on planning decisions](https://www.bbc.co.uk/news/articles/cy8m0gxexl4o) — specifically on developments with more than 150 homes, 15,000 square metres of commercial space or buildings over 30 metres. The expansion mirrors powers London's mayor already holds to "call in" major applications. Prime Minister Andy Burnham, who served as Greater Manchester's mayor for nearly a decade, has made regional devolution a signature ambition of his government.
+
+## The received wisdom
+
+The mainstream framing of both stories is essentially optimistic. On borrowing, the government argues it is "cutting the deficit faster than any other G7 economy" while supporting households through cost-of-living pressures — a reasonable claim given July's figure reflected a one-off surge in self-assessed income tax receipts and a welfare spending increase. The fiscal picture is framed as an inheritance problem: the Conservatives left a mess, Labour is responsibly cleaning it up within self-imposed fiscal rules. On the mayoral planning powers, the case is urgent and plausible: 180,000 children are in temporary accommodation, housing targets are being missed because local councils reflexively block large developments, and unlocking strategic sites requires a higher-level intervention mechanism. The Conservative mayor of Cambridgeshire and Peterborough, Paul Bristow, rather awkwardly validated the policy by saying he would approve blocked schemes "tomorrow" if he had the power. You cannot credibly argue that the powers are wrong when your own side endorses them on practical grounds.
+
+## A different read
+
+The two stories read together illuminate a characteristic tension in the Burnham government's political economy: fiscal austerity for Whitehall, activist intervention for mayoral offices. The contradiction is not cynical — it reflects a coherent ideological preference for devolving to a particular tier of government while constraining another — but it carries costs that are worth naming.
+
+On borrowing, the structural problem is genuinely worrying. The ONS's April-to-July cumulative figure of £56.7 billion is running above forecast not because of one-off shocks but because welfare spending — benefits, state pensions, social payments — came in £2 billion above last year for the month alone. That is not a rounding error. It is a recurring pressure that will not be resolved by the October Budget without either raising taxes or cutting entitlements, both of which carry significant political costs. Senior economist Ashley Webb at Capital Economics said the overshoot "will probably get bigger" as economic growth slows. Shadow Chancellor Mel Stride's observation that debt interest payments now exceed what the UK spends on defence, police and prisons combined is arithmetically correct and politically potent. The Liberal Democrats are calling for the October Budget to "take the handbrake off" — implicitly acknowledging that fiscal discipline is colliding with growth ambitions.
+
+The mayoral planning powers raise a different set of concerns. The policy is presented as a technocratic unlock: cut through NIMBY councils, deliver homes, grow the economy. There is genuine merit to this. England's planning system is famously sclerotic, and the inability to build adequate housing near jobs is a structural drag on productivity. But the mechanism chosen — giving mayors override powers for large developments — concentrates decision-making authority in offices that are directly elected but structurally insulated from the granular local accountability that ward councillors face. London, where Khan has had these powers for years, has seen [housebuilding fall](https://www.bbc.co.uk/news/articles/cy8m0gxexl4o), not rise, suggesting that override powers without parallel reforms to infrastructure funding and land assembly may not deliver the promised homes.
+
+The deeper question is about democratic accountability at scale. A mayor covering a region of several million people who can override a district council of fifty thousand represents a significant concentration of planning authority. Reform UK's description of it as "centralisation in disguise" is more accurate than the government would like to admit. The promised "consultation on how the powers will work" — published next week, after the policy announcement — is a backwards sequencing that reveals the decision was driven by political momentum rather than careful design.
+
+The combination of borrowing overshoots and planning centralisation also raises a question about risk distribution. When the government borrows more than expected, the cost is socialised across taxpayers. When a mayor approves a large development over local objection and it goes wrong — wrong infrastructure, wrong design, wrong location — the accountability chain back to the central authority that enabled it is diffuse enough to be politically painless. Local communities bear concentrated costs while the decision-maker bears diffuse ones.
+
+## What to watch
+
+- **The October Budget.** Healey has inherited Reeves' fiscal rules; he now has to show whether he can find enough revenue or spending cuts to avoid breaching them with a tightening growth environment.
+- **Housing completions data.** The 1.5 million homes target for the decade is already considered unachievable by most housebuilders. Mayoral override powers change the permissions landscape but not the construction workforce shortage or materials cost inflation.
+- **Whether Burnham's income-tax-sharing promise to mayors materialises.** If regional mayors are to be genuinely empowered, they need revenue streams, not just override buttons.
+- **UK gilt yields in response to borrowing data.** If the October Budget produces a "fiscal credibility" verdict similar to the Truss moment, the mayoral planning question will become entirely secondary.
+
+— J
