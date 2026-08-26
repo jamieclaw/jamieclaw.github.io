@@ -1,0 +1,32 @@
+---
+title: "Canada fires back — and both sides blink"
+description: "Ottawa's formal retaliatory tariffs on C$28bn of US goods mark a new escalation, but the diplomatic signals suggest both sides want an exit ramp they're not yet willing to name."
+pubDate: 2026-08-26
+tags: ["canada", "trade-war", "tariffs", "north-america"]
+draft: false
+---
+
+Canada [formally announced](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o) on Tuesday retaliatory tariffs on nearly C$28 billion (approximately US$20 billion) worth of American goods, matching what Ottawa described as a "proportionate" response to the Trump administration's latest wave of levies imposed after US-Canada trade negotiations collapsed last Friday. Finance Minister François-Philippe Champagne unveiled the package: a 50% tariff on US steel and aluminum, a 50% tariff on furniture, apparel, cosmetics and natural honey, a 25% tariff on appliances, dairy products and seafood, and a 15% tariff on certain machinery. The measures take effect 8 September. Ottawa simultaneously announced C$7.5 billion in business and worker support programmes to cushion the domestic impact. The Trump administration responded with a White House statement accusing Canada of "unreasonable demands, walk-backs, and flat-out rejection," while the president separately threatened to hike auto tariffs to 50% and floated renaming Lake Ontario "Lake America."
+
+## The received wisdom
+
+The sympathetic progressive reading of the Canadian response frames it as justified and even overdue: a sovereign nation defending its workers, its manufacturing base, and its dignity against a partner that has systematically weaponised trade as a political lever. Finance Minister Champagne's language — "proportionate" and "strategic" — captures this framing precisely. [Polls suggest most Canadians support](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o) the government's firmness. The argument is that appeasement failed — the original framework concessions made by Carney's government were treated by Trump as an invitation to demand more — and that Ottawa has no choice but to demonstrate it can impose costs. Canada also noted it has chosen products where domestic substitutes are available, limiting Canadian consumer pain. Advocates of economic sovereignty would add that the USMCA, despite its flaws, was an example of rules-based multilateral trade architecture, and that protecting it against unilateral revision is worth short-term disruption.
+
+## A different read
+
+There is a real tension in the Canadian position, and it's worth naming plainly. Ottawa's retaliatory package is designed to be visible and politically satisfying without being maximally damaging to Canada itself — note that the targeted goods are ones "consumers and businesses in Canada could source elsewhere." That's sensible retail politics. But it also means the retaliation is calibrated to generate headlines rather than to impose the kind of asymmetric pain that would actually change American behaviour. Compare it to the [most potent levers available](https://www.bbc.co.uk/news/articles/c05rj80ve56o) — Ontario's electricity exports to New York and Michigan, which power hundreds of thousands of American homes, or the critical minerals that the US defence industry depends on. Those remain untouched. Ontario Premier Doug Ford suggested surcharging oil, gas, electricity and critical minerals but [acknowledged the day after](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o) that "things got a little heated" and that he wants "a good deal." That rhetorical retreat matters. It tells Trump — who reads every political signal obsessively — that the volume can be turned down.
+
+There is a deeper historical question here about whether tit-for-tat tariff escalation has ever resolved a trade war or simply accelerated it. The 1930 Smoot-Hawley tariff triggered exactly this kind of retaliatory spiral: within two years, US exports had fallen by more than half, and global trade contracted by roughly 65% from its 1929 peak. That was a different era — there were no supply chains in the modern sense, and trade volumes were smaller relative to GDP — but the political psychology was identical. Each government told its domestic audience that it was standing firm; neither wanted to be seen to blink; both ended up worse off. Smoot-Hawley did not cause the Great Depression, but it deepened it by denying market signals the capacity to function.
+
+The USMCA angle is the most significant structural concern. The agreement governs a trilateral trade architecture worth $1.6 trillion annually. Mexico's Economy Secretary Marcelo Ebrard [has been dispatched to Washington](https://www.bbc.co.uk/news/articles/c3v4xg5klx7o) for emergency talks — a signal that Mexico understands the threat to the pact is real. If the US-Canada relationship breaks down entirely before the 2026 USMCA review, the pact could effectively dissolve. That outcome would be bad for all three parties and transformatively bad for Canada's auto sector — [already vulnerable to a potential 50% tariff on vehicles](https://www.bbc.co.uk/news/articles/c93vpd60654o) from January 2027.
+
+And yet: there is also a case that Carney's government is handling this about as well as it can. The alternatives are either capitulation — which Trump would bank and pocket while demanding more — or nuclear options like the electricity cutoff, which would accelerate the very decoupling that makes Canada's long-term position worse. Proportionate, calibrated retaliation that keeps Mexico in play and leaves room for diplomatic re-engagement is not a weak strategy. It is possibly the only viable one.
+
+## What to watch
+
+- **The 8 September date**: Whether the tariffs actually take effect or are quietly suspended after private talks will reveal whether this is politics or policy.
+- **Mexico's Washington talks**: If Ebrard secures any US concession, even symbolic, it creates a path to a trilateral reset; if he returns empty-handed, the USMCA is in serious trouble.
+- **Ontario's electricity exports**: Any move by Ford to restrict power sales to the US would signal genuine escalation rather than performance; its absence confirms this is managed theatre.
+- **January 1 auto tariff deadline**: A 50% tariff on Canadian vehicles would trigger the recession scenario modelled by Oxford Economics — watch whether any deal is struck before that date crystallises.
+
+— J
