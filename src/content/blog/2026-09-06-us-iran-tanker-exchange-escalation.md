@@ -1,0 +1,31 @@
+---
+title: "US-Iran naval exchange and the limits of 'small potatoes'"
+description: "America's strikes on three Iranian oil tankers — and Iran's retaliatory attacks on US-linked vessels — reveal that a conflict the president calls minor has the logic of escalation that no one in Washington seems prepared to manage."
+pubDate: 2026-09-06
+tags: ["iran", "us-foreign-policy", "oil", "war"]
+draft: false
+---
+
+The United States military struck three Iranian oil tankers on Friday, [according to reporting from both the BBC](https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss) and [NPR](https://www.npr.org/2026/09/05/nx-s1-5959159/us-iran-warships-targeted), after the US Navy said its warships had been targeted by Iranian forces. Iran in turn said it struck three US-linked vessels in retaliation. The exchange marks one of the most direct military confrontations between the two countries since the conflict escalated at the end of February, when [US diesel prices hit an all-time high](https://www.bbc.co.uk/news/articles/c7903r0grx0o) and [UK petrol prices reached their highest level since the Iran war began](https://www.bbc.co.uk/news/articles/c20zgjzz0e4o), reflecting the economic consequences of disruption to Gulf oil flows. The strikes occurred just a day after President Trump appeared to characterise the conflict as "small potatoes," a description that sits awkwardly against the scale of the naval exchange.
+
+## The received wisdom
+
+The liberal foreign policy establishment's framing of this conflict has been consistent: Washington stumbled into an escalation it did not fully plan, is managing it with maximum force and minimal strategy, and risks triggering a broader regional conflagration that could pull in Hezbollah remnants, Iraqi militias, and potentially a nuclear-adjacent Iran. The human cost is real — [a fuel tanker blast in western Iran killed at least ten people](https://www.aljazeera.com/news/2026/9/5/fuel-tanker-blast-in-western-iran-kills-at-least-10), though that incident was apparently separate from the naval exchange. The argument is that the Trump administration has traded Obama's imperfect but functional nuclear deal for a state of low-grade open warfare that serves no discernible strategic objective.
+
+There is a legitimate version of this concern. Wars fought without clearly stated war aims have a habit of drifting toward either ignominious withdrawal or uncontrolled escalation. The administration has not articulated what the successful end-state of this conflict looks like, whether that is Iranian capitulation on its nuclear programme, a negotiated rollback of regional influence, or simply regime change. Without those definitions, "maximum pressure" is not a strategy — it is an escalation ladder with no exit marked.
+
+## A different read
+
+And yet the mainstream critique elides the history that brought the two countries to this point. Iran has pursued a nuclear programme in defiance of multiple rounds of international sanctions, IAEA monitoring, and direct diplomatic engagement for more than two decades. The Obama-era JCPOA, whatever its architectural elegance, was not a permanent settlement — it was a time-limited constraint that Iran was already violating at the margins before the Trump administration's 2018 withdrawal. By the time the current conflict began, Tehran's breakout timeline had shrunk to weeks, not months. The question facing any serious strategist in Washington was not whether military pressure was ideal but whether the alternatives — continued accommodation or indefinite deterrence — were sustainable.
+
+The tanker exchange needs to be read in this context. American strikes on Iranian oil infrastructure are not random acts of aggression; they are targeted economic pressure designed to constrain Iran's ability to fund its proxy network and nuclear activities. [South Korea's reported pressure to contribute to Hormuz security](https://www.theguardian.com/world/2026/sep/04/south-korea-pushes-back-reports-hormuz-deployment-us-pressure) suggests the United States is attempting to multilateralise the burden, even if Seoul is pushing back. There is a meaningful difference between a war of territorial conquest — the kind Russia is fighting in Ukraine — and a coercive campaign aimed at changing a state's behaviour on weapons proliferation.
+
+The "small potatoes" remark is, characteristically, politically self-destructive while being analytically not entirely wrong. The United States and Iran have been engaged in a form of low-grade confrontation for over four decades — from the hostage crisis through Khobar Towers through the proxy wars in Lebanon, Iraq, Syria, and Yemen. The current exchange is more direct than most, but it is on a continuum that Americans have largely been shielded from because it played out in peripheral theatres. What has changed is geography: tanker strikes affect oil prices, which show up at the pump, which voters notice.
+
+The harder question is whether the current approach has a theory of success. Coercive campaigns against adversarial states work when they combine credible military threat with a credible off-ramp — a negotiated outcome the target government can plausibly accept. The 1990s sanctions regime against Iraq combined maximum pressure with steady corrosion of Saddam's capacity; it ultimately required a ground invasion to resolve. The Libya model — Gaddafi's 2003 WMD capitulation after years of pressure — is the success case that advocates of coercion cite. The problem is that Iran is not Libya, geographically, militarily, or in terms of regime durability.
+
+## What to watch
+
+The next indicators worth tracking: whether Iran moves to formally close the Strait of Hormuz or merely threatens to — the former would be a military red line for the US and its Gulf partners; the latter is the ongoing game. Watch whether Saudi Arabia and the UAE are quietly facilitating backchannel negotiations, as they have in previous Iran-US crises. Watch oil prices — if Brent sustains above $120 through autumn, domestic political pressure in Washington to de-escalate will intensify. And watch for any Iranian signal on nuclear enrichment levels; a move toward weapons-grade enrichment would transform the conflict's character entirely.
+
+— J
