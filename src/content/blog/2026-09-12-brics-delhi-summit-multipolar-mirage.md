@@ -1,0 +1,32 @@
+---
+title: "BRICS in Delhi and the multipolar mirage"
+description: "Modi's BRICS summit is a test of whether the Global South can build coherent alternatives to Western institutions, or whether internal divisions will limit it to symbolism."
+pubDate: 2026-09-12
+tags: ["brics", "india", "geopolitics", "global-south"]
+draft: false
+---
+
+Leaders from eleven BRICS nations — including India, China, Russia, Brazil, South Africa, the UAE, and Iran, with Saudi Arabia attending as an invited member — gathered in New Delhi this weekend for a summit that, as the BBC's India editor noted, is more consequential for host India than for the bloc as a whole. [Indian Prime Minister Narendra Modi is hosting Russian President Vladimir Putin and Chinese President Xi Jinping](https://www.bbc.co.uk/news/articles/c07lv53l7jjo), with bilateral meetings scheduled between all three. The gathering comes against a backdrop of the US-Iran war, soaring oil prices, and the ever-present threat of White House tariffs aimed at both US adversaries and allies. BRICS now [accounts for 49% of the world's population, 40% of global GDP, and 26% of international trade](https://www.bbc.co.uk/news/articles/c07lv53l7jjo), according to BBC Monitoring's analysis, making this summit impossible to dismiss as a marginal event. Yet the group failed to produce a joint foreign ministers' statement in May over divisions on the Iran war — and a repeat at the heads-of-government level would be deeply embarrassing for Delhi.
+
+## The received wisdom
+
+The standard progressive and liberal international reading of BRICS is a combination of grudging acknowledgment and scepticism. On one hand, commentators in the Global South and many academic observers see BRICS as a legitimate and long-overdue attempt to rebalance institutions — the UN Security Council, IMF, World Bank — that still reflect the power distribution of 1945 rather than 2026. The New Development Bank has genuinely channelled billions to infrastructure projects in developing nations. The bloc's push to expand local-currency payment systems offers some protection against the weaponisation of the US dollar through sanctions. When India secured a joint G20 declaration in 2023 despite divisions over Ukraine, Modi demonstrated genuine diplomatic dexterity. In this reading, BRICS is a pragmatic coalition pursuing shared interests in a more just multilateral order, not an anti-Western conspiracy.
+
+## A different read
+
+That framing contains real truth, but it elides a fundamental structural problem: BRICS has become a coherence-destroying coalition. The bloc's expansion in 2024 — which brought in precisely those countries most bitterly divided over major geopolitical fault lines — has made the internal contradictions almost unmanageable. Iran and the UAE are now both members, despite Iran conducting attacks on Emirati interests and the UAE hosting US military bases. Russia and India share a table while India pursues a trade deal with the US and Narendra Modi publicly appeals for peace in Ukraine. China and India spent years in military standoffs along the Himalayan border and are, as Michael Kugelman of the Atlantic Council notes, still "cautiously" rebuilding ties.
+
+The gap between BRICS rhetoric and BRICS reality is clearest on de-dollarisation — the issue that most agitates Washington and most energises the bloc's rhetorical temperature. [Trump has threatened 100% tariffs on any BRICS country](https://www.bbc.co.uk/news/articles/c07lv53l7jjo) that backs an alternative currency. The threat is economically blunt but politically effective: India, which is in the final stages of a US trade deal, cannot afford to be seen coordinating a dollar-replacement currency. China, which uses the dollar for the vast majority of its own financial and trade transactions, has a purely instrumental interest in weakening dollar hegemony without exposing the renminbi to genuine internationalisation. The result is that de-dollarisation talk at BRICS is largely performative — it functions as a solidarity signal, not a programme.
+
+There is a more honest way to frame what BRICS actually does well, and it is not particularly flattering to Western triumphalists either. The bloc is good at forum shopping: finding spaces outside Western-dominated institutions where developing nations can negotiate trade, infrastructure, and payment terms on marginally better terms. That is not nothing. China's Belt and Road Initiative and the New Development Bank represent real capital flows that Western institutions have consistently failed to match. The problem is that "marginal improvements to developing-world infrastructure financing" is not the same as "a coherent alternative global order." BRICS will not rescue failing states from the consequences of the Iran-war energy shock. It will not police the Bab al-Mandab or protect shipping lanes. It does not have a collective security architecture, a common currency, a common border regime, or a shared democratic legitimacy. 
+
+The deeper irony is that Modi, who has spent years cultivating India's self-image as "Vishwaguru" — world teacher — is presiding over a summit whose main achievement may be to demonstrate how hard it is to build a coherent multilateralism from scratch. India's genuine aspiration to lead the Global South is perennially undermined by the China factor: Beijing's deeper penetration of African and Latin American economies means that in the places where leadership of the Global South is most contested, India consistently plays second fiddle. The summit that was supposed to be Modi's geopolitical coming-out party risks becoming a masterclass in the management of polite disagreement.
+
+## What to watch
+
+- Whether the Modi-Xi bilateral produces any concrete deliverables — a border troop withdrawal timeline, a trade framework — that could signal genuine India-China normalisation or merely another holding pattern.
+- The language on the Iran war in any joint statement: vague enough to satisfy India, specific enough for Russia and Iran? The gap between those positions will reveal the real limits of bloc cohesion.
+- Whether BRICS makes substantive announcements on local-currency payment mechanisms — and whether any are operationally meaningful or purely aspirational.
+- How Trump responds: a targeted BRICS tariff threat would immediately test how far India, Brazil, and South Africa are willing to be pushed before the bloc fractures entirely.
+
+— J
