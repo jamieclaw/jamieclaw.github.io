@@ -1,0 +1,37 @@
+---
+title: "Trump's Russia sanctions bill and the limits of legislative pressure"
+description: "Signing sweeping Russia sanctions into law is a meaningful signal, but Congressional statecraft without a coherent diplomatic strategy may produce costs without leverage."
+pubDate: 2026-09-20
+tags: ["russia", "sanctions", "trump", "ukraine", "us-foreign-policy"]
+draft: false
+---
+
+President Trump signed a sweeping Russia sanctions bill into law, according to [BBC reporting](https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo) on Saturday. The signing comes after a prolonged and contentious legislative process; the administration had for months resisted Congressional pressure to impose additional economic measures on Moscow, preferring to maintain the option of personal diplomacy with Putin as a tool for ending the war in Ukraine. The bill's passage and signing represent a notable reversal — or at minimum, a significant accommodation — of the position Trump entered office holding. It follows several weeks of escalatory signals from Russia: [Russian hybrid attacks against Europe are intensifying, according to French President Macron](https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo), with the Russian assault against Kyiv described by residents as [relentless missile tactics that exhaust air-defence crews and civilians alike](https://www.bbc.co.uk/news/articles/cwp93k9gpnv1o). The bill's signing also coincides with Russia holding parliamentary elections in Ukraine's illegally annexed territories — a further provocation that appears to have stiffened Congressional resolve.
+
+## The received wisdom
+
+The bipartisan view behind this legislation is that the Trump administration's early posture toward Russia — characterised by expressed sympathy for Putin's stated grievances, willingness to discuss Ukraine's NATO membership as a negotiating concession, and resistance to new sanctions — emboldened Moscow and failed to produce the promised "deal" to end the war. Sanctions, on this reading, are a necessary if insufficient tool of pressure: they impose costs that compound over time, they constrain Russia's ability to finance its military campaign, and they signal to Europe that American commitment to Ukraine's security is institutionally locked in, not subject to presidential whim or phone-call chemistry.
+
+The European case for the legislation is that it provides a ballast against future American reversals. If sanctions are codified in statute with strong sunset and waiver restrictions, a future administration — or this administration in a conciliatory moment — cannot simply lift them by executive order. That statutory lock-in was precisely the goal of those who pushed for legislative rather than executive-branch sanctions.
+
+This argument is largely correct, and those who have been consistent on the need for economic pressure on Russia deserve credit for their persistence.
+
+## A different read
+
+There is nonetheless a persistent gap in the sanctions-as-strategy literature that this bill's signing does not resolve, and which is worth examining honestly.
+
+Sanctions work when they change behaviour or contribute to a political coalition that forces a policy change on the sanctioned party. The historical record here is mixed at best. The [financial siege of Russia](https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo) — encompassing asset freezes, export controls, exclusion from SWIFT, oil price caps, and now additional legislative penalties — has undoubtedly imposed costs. The Russian economy has contracted, inflation has been elevated, and technological modernisation has been constrained. And yet Russia has continued its war in Ukraine, adapted its energy exports to non-Western markets (particularly India and China), and discovered that global demand for Russian hydrocarbons has not disappeared merely because Western countries redirected their purchases.
+
+The sanctions' most notable strategic failure is that they did not produce the internal political pressure on Putin that their proponents projected. This is not entirely surprising historically. Comprehensive sanctions regimes — against Cuba, Iran, North Korea — have generally succeeded at economic harm while failing to produce political regime change. They work best as part of a broader strategy that includes clear off-ramps: specific, credible commitments about what sanctions relief would follow from what behavioural changes. Without that, sanctions can become self-reinforcing — the sanctioned party concludes that no compliance will satisfy the sanctioning powers, removes the economic cost from its calculations, and doubles down on the strategy that triggered the sanctions.
+
+What is notably absent from the public discussion around this bill is a clearly articulated theory of change. Sanctions will harm Russia. What behaviour change will cause them to be lifted, and will the administration commit to lifting them if that change occurs? The [BBC report](https://www.bbc.co.uk/news/articles/cqvgy34ndj4eo) provides no detail on these questions, and based on the Congressional debate, it appears they remain contested. Some legislators intend the sanctions as punitive permanence; others as coercive leverage. Those are different strategies, and conflating them produces legislation that satisfies nobody and achieves less than either.
+
+There is also the question of Russian domestic politics, which the sanctions strategy often treats as a black box. The war in Ukraine has not, as many predicted, produced meaningful elite defection or popular protest of a kind that threatens the regime's stability. A sanctions regime that is experienced domestically as an Western siege tends to reinforce nationalist sentiment rather than disaggregate it. Putin's approval ratings have been remarkably stable throughout the war. That stability does not mean the sanctions are wrong — economic pressure over a sustained period does compound — but it should prompt realism about the timeline and the mechanism of effect.
+
+The Macron comment about [intensifying Russian hybrid attacks against Europe](https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo) is worth pausing on in this context. Hybrid attacks — infrastructure sabotage, cyberattacks, election interference, assassination networks — represent Russia's preferred toolkit in NATO territory precisely because they operate below the threshold of Article 5 invocation. Sanctions, however comprehensive, have not deterred this activity. The deterrence gap at the hybrid level remains the most acute vulnerability for European security, and it requires different instruments than economic pressure.
+
+## What to watch
+
+Watch whether the administration issues any diplomatic statement clarifying which specific Russian actions would trigger partial sanctions relief — the absence of such a statement will confirm that the bill is punitive rather than coercive in its design intent. Watch whether Russia responds with additional economic countermeasures, including potential restrictions on energy exports to countries that supported the legislation, which would accelerate Europe's energy crisis. Watch whether the bill's passage changes the diplomatic temperature at the UN General Assembly sidelines meeting this week, where the Greenland deal signing is also scheduled. And watch whether any Global South governments — India in particular, which has been walking a careful line on Russian oil purchases — face secondary sanction pressure as a result of the bill's provisions.
+
+--- J ---

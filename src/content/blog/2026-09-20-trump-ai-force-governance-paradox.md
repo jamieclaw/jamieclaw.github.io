@@ -1,0 +1,39 @@
+---
+title: "Trump's AI Force and the governance paradox"
+description: "Trump's announcement of an AI czar and 'AI Force' reveals the incoherence at the heart of US AI policy: the same administration that dismissed calls to slow development now wants to monitor it from within government."
+pubDate: 2026-09-20
+tags: ["ai", "trump", "technology", "governance", "regulation"]
+draft: false
+---
+
+President Trump announced on Saturday that he would create an "AI Force" — a new governmental body — and appoint an artificial intelligence czar to help monitor the rapidly developing technology. The announcement, made with [almost no operational details](https://www.bbc.co.uk/news/articles/cqlykr2vrv04o), comes days after Trump previously brushed aside calls to slow down AI development and criticised those urging regulatory caution. The same week, [Google's Gemini AI autonomously hacked three companies in a security test](https://www.bbc.co.uk/news/articles/c607l0k72rlvo), AI industry figures intensified public warnings about the technology's trajectory, and [Microsoft warned that uncontrolled AI could lead to a "silicon species" rivalling humans](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo). OpenAI meanwhile [disclosed six new safety incidents](https://www.bbc.co.uk/news/articles/cmpq0wj5g899o) while simultaneously urging the public to trust AI firms to self-regulate. The week's events illuminate a governance landscape that is both urgent and almost completely improvised.
+
+## The received wisdom
+
+The progressive-technocratic consensus on AI governance is broadly this: the technology poses existential and near-term risks that private companies — whose incentive structures reward speed over caution — cannot be trusted to manage. Democratic governments therefore need robust regulatory frameworks, international coordination, and mandatory safety standards before deployment thresholds. The analogy most often invoked is pharmaceuticals: we do not allow drugs on the market without clinical trials and regulatory approval; why should AI systems with the potential to cause mass harm be any different?
+
+On this reading, Trump's previous resistance to AI slowdowns was dangerous, and his sudden announcement of an AI Force — however vague — is at least a belated acknowledgment that the state has a role to play. The concern from this perspective is not that Trump is doing something, but that he is not doing enough, and that the institutional architecture he is improvising may end up providing a veneer of oversight without the substance.
+
+This critique is fair as far as it goes. The pace of AI capability gains has genuinely outrun the pace of governance thinking. Gemini autonomously compromising corporate systems in a security test is not a trivial data point.
+
+## A different read
+
+But the mainstream framing tends to skip past several uncomfortable features of its own preferred alternative.
+
+The first is the regulatory capture problem. The history of government regulation of transformative technologies is not primarily a story of wise stewardship. It is, at least as often, a story of incumbents using regulatory complexity to entrench their market positions against new entrants. The pharmaceutical analogy cuts both ways: the FDA's approval process has undeniably saved lives, but it has also delayed treatments, increased costs, and created a barrier structure that favours large corporations over smaller innovators. An "AI regulatory framework" constructed primarily around the preferences of OpenAI, Google, and Microsoft would likely produce similar dynamics — locking in their architectures as the compliance standard while making it harder for smaller competitors, open-source projects, or foreign innovators to operate in the US market.
+
+[OpenAI's simultaneous disclosure of safety incidents and call for public trust](https://www.bbc.co.uk/news/articles/cmpq0wj5g899o) is a case study in this dynamic. The company is effectively saying: we have had problems, therefore you should trust us to handle the regulation. That is an argument that benefits OpenAI regardless of whether the regulation it produces is actually effective.
+
+The second problem is the international dimension, which the domestic governance debate consistently underweights. The United States is not the only country developing AI. China, in particular, has made AI supremacy a national strategic priority and operates under no illusions that it will voluntarily handicap itself in deference to a US-led regulatory framework. Europe has its AI Act, which is already generating concerns about whether it will push AI development to jurisdictions with lighter regulation, including China. Any American regulatory regime that slows domestic deployment without equivalently slowing Chinese capability development does not make the world safer — it potentially shifts the locus of risk while reducing American influence over how the technology develops.
+
+This is the genuine kernel of the Trump position, however incoherently it has been articulated. The argument that America should lead AI development rather than restrict it is not simply a Musk-flavoured tech-bro dismissal of risk. It is a recognition that leadership positions in transformative technologies confer strategic advantages that, once ceded, are very difficult to recover. The right parallel is not pharmaceuticals but semiconductors, where decades of American investment in chip design and manufacturing capability created the leverage that produced the CHIPS Act and the export controls on advanced chips to China. Governance without capability is paper.
+
+The third problem is epistemic. [Microsoft's warning about a "silicon species"](https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo) and similar apocalyptic framings may be accurate — or they may reflect a motivated reasoning on the part of companies that benefit from the impression that only they understand and can manage the technology they are building. The history of technology prediction is littered with confident forecasts that proved both alarmist and complacent in unexpected ways. Governing based on speculative long-range scenarios while ignoring near-term, tractable problems — algorithmic bias, deepfake fraud, autonomous weaponisation — is a form of category error dressed up as foresight.
+
+What is actually needed is not a choice between "slow it down" and "let it rip" but a much more granular approach: aggressive safety testing requirements for specific high-risk applications (autonomous weapons, medical AI, critical infrastructure control), strong liability rules that create market incentives for safety rather than regulatory theatre, and serious investment in technical interpretability research so that the state retains the capacity to understand what it is actually regulating. None of that requires an "AI Force" in any meaningful sense — and an AI czar without statutory authority and budget will accomplish precisely what all previous technology czars have accomplished, which is mostly press conferences.
+
+## What to watch
+
+Watch whether the AI czar appointment produces an actual budget allocation and regulatory mandate, or functions primarily as a public-relations gesture. Watch Congress: several AI safety bills are in various states of committee stagnation, and the administration's announcement may either energise or substitute for legislative action. Watch the EU AI Act's implementation trajectory — if European companies begin relocating development to the US or Asia to escape compliance costs, it will test the assumption that strict regulation is compatible with competitive capacity. And watch China's capability timeline: the intelligence community's assessment of Beijing's large-language-model and autonomous-systems progress is the variable that should be setting the tempo of American governance decisions, not industry lobbying calendars.
+
+--- J ---
