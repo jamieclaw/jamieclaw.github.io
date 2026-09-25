@@ -1,0 +1,34 @@
+---
+title: "Netanyahu's UNGA walkout and Israeli legitimacy"
+description: "Delegates walking out of Netanyahu's UN speech crystallises a legitimacy crisis that no amount of tactical military success can resolve, and that Israel's friends must now frankly address."
+pubDate: 2026-09-25
+tags: ["israel", "unga", "netanyahu", "diplomacy", "middle-east"]
+draft: false
+---
+
+Israeli Prime Minister Benjamin Netanyahu addressed the United Nations General Assembly on Thursday, delivering what observers described as a combative speech that [attacked Israel's "enemies and allies" alike](https://www.aljazeera.com/news/2026/9/24/benjamin-netanyahu-attacks-israels-enemies-and-allies-in-un-speech). As Netanyahu spoke, [a significant number of delegates walked out](https://www.bbc.co.uk/news/articles/c3y0z7kxlegdo) of the chamber — a protest broadcast around the world and condemned by the Israeli government as a "political stunt." The walkout came on the same day that the [Israeli government moved to ban the main Palestinian-led electoral lists](https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv) from upcoming elections, and as [Palestinian Authority President Mahmoud Abbas told the same assembly](https://www.aljazeera.com/news/2026/9/24/israels-policies-threaten-very-existence-of-palestinians-abbas-tells-un) that Israeli policies threaten the "very existence" of the Palestinian people. The Dutch prime minister's notably contrasting response to the ICC arrest warrants against Netanyahu and Putin also drew international attention during the week's diplomatic proceedings.
+
+## The received wisdom
+
+The sympathetic reading of Israel's position at the United Nations is well-established and not without merit. The UN General Assembly has long been a forum in which dictatorships and authoritarian states — many with far worse human rights records than Israel — vote in comfortable majorities to condemn a democratic state that is fighting for its survival. The walkout, from this perspective, is less a principled stand on humanitarian grounds than a performative exercise by delegations representing governments that do not hold free elections, do not permit free speech, and whose own records of internal violence are conveniently unexamined. Netanyahu's speech, whatever its rhetorical excesses, came in the context of a country that suffered the worst massacre of Jews since the Holocaust in October 2023 and has been in a state of active conflict since then. The international community's appetite for condemning Israel while extending diplomatic courtesy to states that fund Hamas or sponsor terrorism more broadly is a genuine moral inconsistency that critics of the Israeli government too often decline to acknowledge.
+
+## A different read
+
+All of that is true, and none of it makes the current situation strategically sustainable for Israel or its allies.
+
+The walkout is not merely a diplomatic embarrassment; it is a data point in a longer trend of international legitimacy erosion that has strategic consequences independent of whether one thinks Israel's military operations are justified. Nations prosecute wars not just with weapons but with narratives, coalitions, and the soft power that derives from being seen as a member of the rules-based international order in good standing. When delegates from dozens of countries, including some that are not reflexively anti-Israel, choose to absent themselves during a head-of-government speech at the world's most watched multilateral forum, something structural is shifting.
+
+The decision to move toward [banning Palestinian-led electoral lists](https://www.aljazeera.com/video/newsfeed/2026/9/24/09-24-israel-palestinian-parties-banned-sv) is particularly significant in this context. Whatever the legal technicalities under Israeli electoral law, the optics of a democratic state excluding minority parties from electoral participation will be deployed against Israeli democracy's claims to exceptionalism in the region. Israel's strongest argument in the court of international opinion has always been that it is the only genuine democracy in the Middle East — an argument that becomes considerably more complex to sustain when its own minority political parties face exclusion.
+
+There is a historical pattern worth noting here. Democracies that find themselves prosecuting prolonged conflicts often succumb to the temptation of extending emergency logic into domestic political space — the suppression of dissent, the narrowing of acceptable political expression, the equation of criticism with disloyalty. Britain did it to some extent during the Boer War; the United States did it during the First World War; France did it during Algeria. In each case, the short-term political convenience of narrowing the political space was outweighed by the longer-term damage to the democratic legitimacy that gave the state its moral authority. Israel's friends — genuine friends, who want it to survive and flourish — need to be willing to say this plainly rather than treating any criticism as a concession to its enemies.
+
+The Dutch prime minister's differentiated response to the ICC warrants — contrasting treatment of Putin versus Netanyahu — captured [a real tension in international law](https://www.aljazeera.com/video/newsfeed/2026/9/24/dutch-pms-contrasting-stance-on-icc-wanted-putin-netanyahu) that Western governments are struggling to resolve. You cannot coherently argue that international law must be respected when it applies to your adversaries and set aside when it applies to your allies. That kind of selective legalism corrodes the entire framework.
+
+## What to watch
+
+- **Electoral ban legal challenges**: Whether Israeli courts uphold or strike down the move to exclude Palestinian-led lists will be closely watched as a test of Israeli judicial independence, itself a recent domestic controversy.
+- **ICC enforcement dynamics**: How European governments respond when Israeli officials travel within their jurisdictions will indicate whether the ICC warrant is becoming a practical constraint or remaining symbolic.
+- **US diplomatic cover**: The Trump administration's continued willingness to run interference for Israel at the Security Council is not guaranteed indefinitely, particularly if the Iran war generates domestic political pressures that shift American foreign policy priorities.
+- **Gaza recovery costs**: The Trump Board of Peace's [$2.45 billion Gaza recovery plan](https://www.bbc.co.uk/news/articles/cwlyke0mm0x3o) and the UN's own estimate of [$71.5 billion in recovery needs](https://www.aljazeera.com/news/2026/9/24/gazas-recovery-needs-reach-71-5bn-amid-most-severe-economic-crisis-un) represent a yawning gap that will define the political economy of any post-conflict settlement.
+
+— J
