@@ -1,0 +1,31 @@
+---
+title: "US-Canada trade war hits alcohol and dairy"
+description: "Trump's ban on Canadian alcohol and dairy products exposes the hidden costs of tariff escalation and why trade wars are easier to start than to stop."
+pubDate: 2026-09-30
+tags: ["trade", "us-canada", "tariffs"]
+draft: false
+---
+
+A new tranche of American trade restrictions against Canada took effect on Tuesday, banning imports of Canadian alcohol and dairy products worth approximately one billion dollars annually. The measures, [reported by both the BBC and Al Jazeera](https://www.bbc.co.uk/news/articles/cm1j43y146d2o), represent the latest escalation in a running trade dispute between the two countries that has already produced tit-for-tat tariffs on steel, lumber, and a range of manufactured goods. The ban was described by the BBC as part of a trade war that "drags on," while Al Jazeera characterised it as "Trump's latest retaliation." Canadian officials have promised countermeasures. American consumers in border states — many of whom have historically purchased Canadian beer, whisky, and dairy products — began noticing shortages on Tuesday morning.
+
+## The received wisdom
+
+The progressive and establishment free-trade view of this development is essentially: this is economic self-harm. Canada is America's largest trading partner, a fellow NATO member, and a country whose supply chains are so deeply integrated with those of the United States that treating it as a trade adversary is categorically different from confronting, say, China. Canadian dairy and alcohol restrictions will raise prices for American consumers, invite Canadian retaliation against US agricultural exports — particularly in the politically sensitive Midwest — and send a troubling signal to other allies that the United States cannot be counted on as a stable economic partner. The multilateral rules-based trading order, painstakingly built since 1945, is being dismantled brick by brick for short-term domestic political advantage. That is, more or less, the view of every mainstream economist writing on this subject, and it has substantial merit.
+
+## A different read
+
+The received wisdom is correct about the costs. It is considerably less honest about why the Trump administration's trade posture finds such persistent political resonance — and why the bipartisan consensus on free trade that governed Washington from roughly 1993 to 2016 collapsed so thoroughly that its survivors seem genuinely baffled by its disappearance.
+
+Start with the dairy dispute specifically. Canada's supply management system — a cartelised arrangement protecting domestic dairy, poultry, and egg producers through import quotas and price controls — has long been a genuine irritant in trade negotiations. American dairy farmers, particularly in Wisconsin and New York, have complained for decades that they cannot access the Canadian market on fair terms. This is not a Trump invention. Barack Obama and George W. Bush both pushed against supply management in trade talks. The difference is that Trump is actually imposing costs on Canada for maintaining it, rather than accepting symbolic concessions and moving on. The political constituency that finds this approach appealing is not irrational; it has simply watched its interests be traded away in successive rounds of "free trade" agreements that liberalised some sectors while carefully protecting others.
+
+The deeper problem with the free-trade consensus, as it operated in practice, was its distributional dishonesty. The aggregate gains from trade liberalisation were real — but they were not evenly shared. Manufacturing workers in the upper Midwest who lost jobs to integrated North American supply chains were told, in effect, that the overall economic pie was bigger even if their slice had shrunk. The political revolt that produced Trump's trade policy, and that has proven durable across two administrations, is the predictable consequence of decades of telling displaced workers that their economic pain was a price worth paying for someone else's cheaper consumer goods.
+
+That said, [the BBC notes](https://www.bbc.co.uk/news/articles/cm1j43y146d2o) that UK diesel prices have been affected by broader Trump trade disruptions — and the collateral damage from US-Canada friction extends well beyond the bilateral relationship. When two deeply integrated economies start erecting barriers to each other's goods, the knock-on effects travel through global supply chains in ways that are difficult to predict and harder to reverse. The alcohol and dairy ban is small in absolute terms, but it is part of a pattern of incremental escalation that, if sustained, could do serious damage to the North American economic architecture that has underwritten continental prosperity for three decades.
+
+The historical precedent here is the Smoot-Hawley tariff of 1930, which is perhaps the most cited cautionary tale in economic history. Smoot-Hawley was not, in isolation, a catastrophic piece of legislation — its direct effects on US GDP were modest. What made it catastrophic was the retaliatory cascade it triggered: country after country raised barriers, global trade contracted sharply, and the Great Depression deepened. That cascade began with measures that, in isolation, seemed defensible. The question now is whether the US-Canada dispute is a negotiating tactic — unpleasant but temporary — or the leading edge of a new and durable deglobalisation. Markets, so far, appear unsure.
+
+## What to watch
+
+Watch Canada's announced countermeasures — the specific sectors targeted will reveal whether Ottawa is aiming for political pain (agricultural states) or economic leverage (sectors where Canada has market power). Watch whether Mexico, which faces its own set of US tariff pressures, coordinates with Canada or defects to a separate bilateral deal. Watch US food price data over the next 30–60 days: alcohol and dairy price increases will be visible to consumers and could complicate the midterm environment. And watch for any signal from either side of a negotiated off-ramp — the fact that both economies are feeling the costs creates an eventual incentive to settle, but political face-saving requirements on both sides make the path back narrow.
+
+— J
