@@ -1,0 +1,33 @@
+---
+title: "Trump's Russian diesel deal and the midterm gamble"
+description: "Buying diesel from Moscow to lower pump prices before midterms trades away the moral clarity of the sanctions regime for a short-term electoral fix."
+pubDate: 2026-10-10
+tags: ["energy", "trump", "russia", "midterms", "geopolitics"]
+draft: false
+---
+
+President Donald Trump announced on Friday that the United States has struck a deal with Russia to import diesel fuel, a move he said was necessary to bring down pump prices ahead of November's midterm elections. [The BBC reported](https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss) that Trump said he struck the arrangement directly with Vladimir Putin in a phone call, and that Ukrainian President Volodymyr Zelensky immediately condemned it as a "gift to Putin." [NPR confirmed](https://www.npr.org/2026/10/09/nx-s1-5996912/trump-says-u-s-to-get-diesel-from-russia-relaxing-pressure-on-moscow-to-ease-prices-before-midterms) that the deal relaxes years of accumulated US pressure on Moscow and comes as Hurricane Isaias threatens to disrupt Gulf Coast refineries further. The announcement produced an immediate diplomatic backlash from European allies and a sharp reaction from congressional Democrats and some Republicans.
+
+## The received wisdom
+
+The mainstream condemnation of this deal is swift and, on its surface, coherent. For two-plus years, the West has maintained that economic isolation of Russia — including energy sanctions — is the essential instrument of pressure on Moscow to end its war in Ukraine. Every dollar flowing to the Kremlin through energy exports funds shells, missiles, and salaries for soldiers committing documented war crimes. The Trump administration itself, in its earlier phase, enforced much of this architecture. To unwind it now, critics argue, is not merely a tactical error but a moral one: it signals to Putin that American resolve has a price, and that price is about thirty cents a gallon at the pump in swing districts. Senate Minority Leader Chuck Schumer said the deal "funds the murder of Ukrainian civilians." Zelensky's phrase "gift to Putin" will echo through every European foreign ministry for months. This is the kind of decision, the progressive foreign policy community will argue, that corrodes the entire rules-based order — not because of its scale, but because of what it reveals about American willingness to subordinate principle to electoral arithmetic.
+
+That is a serious argument, and it should not be caricatured.
+
+## A different read
+
+But let us hold two things in mind simultaneously. The first is that the sanctions architecture — however morally appealing — has been leaking for years. [Al Jazeera reported](https://www.aljazeera.com/economy/2026/10/9/trump-announces-russian-diesel-deal-amid-soaring-us-fuel-prices) that fuel prices have been soaring domestically, partly because of the Iran conflict's disruption to refining throughput, and that the political cost of high diesel prices falls disproportionately on working-class households who haul freight, farm, or commute long distances. These are not the constituents of the liberal foreign policy consensus. They are the voters who elected Trump in 2024 and who will decide the midterms.
+
+The second thing is harder to say but must be said: the sanctions regime as applied to Russian energy has always been more symbolic than effective. India and China have been hoovering up discounted Russian crude throughout the war. [The BBC noted](https://www.bbc.co.uk/news/articles/cv2d6x749lwro?at_medium=RSS&at_campaign=rss) that Trump's calculation is driven by a desire to reduce fuel costs before November, but the underlying reality is that Russia has found alternative buyers for nearly everything the West refused to buy. The West's self-denial raised European energy bills and contributed to a de-industrialisation crisis across Germany and the Netherlands; it did not stop the Russian war machine, which has been sustained by Asian demand.
+
+There is a historical precedent for exactly this tension. In 1941, Franklin Roosevelt's administration faced enormous pressure to cut off oil exports to Imperial Japan while simultaneously worrying about economic disruption at home. The decision to embargo ultimately brought Japan into the war — a consequence that, in retrospect, was probably necessary, but which could not have been predicted with certainty at the time. The lesson is not that embargoes are wrong, but that they are instruments of strategic pressure, not moral theatre — and their effectiveness depends entirely on whether they are global, durable, and coordinated. This one was none of those things.
+
+What Trump is doing is tactically cynical and strategically shortsighted, but it is also exposing a real flaw in the West's approach. The deal will not reverse the war's trajectory. But the collective Western refusal to buy Russian energy while India and China filled the gap did not reverse it either. The question of what combination of incentives and pressures might actually end this conflict is one the progressive foreign policy community has been strangely reluctant to engage with seriously. Sanctions purity is easier than negotiation.
+
+The more serious concern is institutional. When the United States executive bypasses Congress to strike energy deals with a state it has formally designated a source of international aggression — doing so by presidential phone call, without committee review or allied consultation — something is corroding in the democratic accountability of American foreign policy. This is less about the diesel itself than about the process: a pattern in which the presidency treats strategic relationships as personal transactions, with foreign leaders dialing directly to the Oval Office for bilateral deals while NATO allies read about it in the news. That corrosion will outlast the midterms.
+
+## What to watch
+
+Watch whether Congress moves to codify sanctions that Trump is now quietly dismantling by executive discretion — several Republican senators have already indicated unease. Watch European energy markets for the signal effect: if Moscow believes American resolve is seasonal and price-sensitive, its calculus about prolonged conflict shifts. Watch also whether Ukraine's battlefield position deteriorates in the months following this announcement, as the symbolic blow to morale in Kyiv is real. Finally, watch the polling: if diesel prices do fall before November, Trump's gamble may produce the electoral dividend he is seeking — and that outcome will shape every future president's calculation about whether the rules-based order is worth its domestic political price.
+
+--- J
