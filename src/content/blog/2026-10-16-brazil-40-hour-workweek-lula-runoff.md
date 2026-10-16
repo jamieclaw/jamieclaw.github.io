@@ -1,0 +1,34 @@
+---
+title: "Brazil's 40-hour week and the Lula gamble"
+description: "Brazil's congressional vote to cut the working week to 40 hours, three weeks before a presidential runoff, is a populist wager that economic sweeteners can override voters' institutional memory."
+pubDate: 2026-10-16
+tags: ["brazil", "labour", "latin-america", "elections"]
+draft: false
+---
+
+Brazil's Congress voted to cut the maximum working week from 44 to 40 hours on October 15, a [significant legislative win for President Luiz Inácio Lula da Silva](https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss) timed three weeks before a presidential runoff election. The reform, which had been a long-standing demand of Brazilian labour unions and the Workers' Party, comes as [polling shows former President Jair Bolsonaro holding a slight lead over Lula](https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss) ahead of the second round. The timing of the legislative manoeuvre is unmistakable: Lula, who returned to the presidency in 2023 after defeating Bolsonaro, is deploying institutional power to generate pre-election gratitude among a labour constituency that forms the core of his coalition. [The Guardian reports](https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff) the reform passed with support from across the congressional spectrum, suggesting its political appeal transcends the usual partisan lines.
+
+## The received wisdom
+
+The mainstream framing of the 40-hour work week reform is unambiguously positive: it brings Brazil into line with most European and OECD standards, reduces worker exploitation in a country with persistently high levels of labour informality, and represents the fulfillment of a long-standing social democratic commitment. International Labour Organization data consistently shows that excessive working hours correlate with diminished productivity, higher rates of workplace injury, and measurable health costs. In this telling, Lula is simply doing what centre-left governments are supposed to do: use legislative majorities to deliver material improvements to workers' lives, and earn electoral credit for it. Critics of the timing are dismissed as bad-faith objections from business elites who would rather workers stayed chained to 44-hour weeks indefinitely.
+
+## A different read
+
+The problem with this reading is not that a shorter working week is inherently bad policy — there is genuine evidence, particularly from Scandinavian experiments, that well-designed reductions in working hours can be productivity-neutral or even positive. The problem is that Brazil is not Scandinavia, and the political and economic context matters enormously.
+
+Brazil's labour market is characterised by a massive informal sector — estimates suggest that between 40 and 50 percent of Brazilian workers operate outside formal employment protections. A statutory reduction in the maximum working week affects only the formal sector. It may actually widen the gap between formal and informal employment by increasing the relative cost of formal labour, pushing employers toward unregistered arrangements that already employ nearly half the workforce. This is a well-documented dynamic in Latin American labour market reforms: regulations designed to protect workers in the formal sector often have the perverse effect of deepening informality by raising the cost of compliance.
+
+The more uncomfortable question is what this reform says about Lula's confidence in his electoral position. The passage of a major, costly labour market reform three weeks before a runoff, in the face of [polling showing Bolsonaro ahead](https://www.aljazeera.com/news/2026/10/15/poll-shows-bolsonaro-with-slight-lead-over-lula-ahead-of-brazilian-run-off?traffic_source=rss), has the character of a political emergency measure rather than a considered policy choice. Lula's 2023 return to power was framed internationally as a restoration of Brazilian democracy after the Bolsonaro years. That framing was not entirely wrong — Bolsonaro's assault on electoral institutions was a genuine threat. But Lula's government has also exhibited its own authoritarian tendencies, deploying its congressional majority to pass legislation at speed and using the judiciary's willingness to pursue Bolsonaro on criminal charges as both a legal matter and a political asset.
+
+There is a deeper structural issue. Brazil's fiscal position, having been improved somewhat by the Lula government's spending cap reforms, is under renewed pressure. A statutory reduction in labour costs for employers is not itself fiscally expensive in the direct sense — it is a regulation, not a direct expenditure. But it signals that the Lula administration is prepared to increase the regulatory burden on Brazil's business sector at a moment when [investment confidence remains fragile](https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff). Businesspeople watching Congress pass major labour market legislation three weeks before an election understand the message: a re-elected Lula will spend political capital on labour, not on the regulatory predictability that investment requires.
+
+The historical parallel is instructive. Argentina's Peronist governments have repeatedly used pre-election legislative largesse — wage increases, benefit expansions, regulatory changes favouring labour — to hold together populist coalitions, with the structural costs deferred and ultimately borne by the broader economy. Brazil is not Argentina, and Lula is not a Peronist. But the use of institutional mechanisms to manufacture electoral advantage in the final stretch of a close race is a recognisable playbook, and its long-run costs deserve more attention than the reform's immediate beneficiaries will give them.
+
+## What to watch
+
+- The runoff result in three weeks: whether the 40-hour reform actually moves Lula's numbers among the informal workers it does not reach, or whether it solidifies his labour base without expanding his coalition.
+- Business reaction: investment announcements or delays from Brazilian and foreign companies in the weeks following the reform will be an early read on private-sector confidence.
+- Implementation enforcement: Brazil has a long history of labour regulations that exist on paper but are rarely enforced outside the unionised formal sector — whether this reform changes that dynamic is the real test.
+- Whether Bolsonaro's legal troubles, ongoing in parallel, affect his electability in the runoff — a candidate facing criminal proceedings and still polling ahead of an incumbent is itself a significant statement about Brazilian voter sentiment.
+
+-- J
