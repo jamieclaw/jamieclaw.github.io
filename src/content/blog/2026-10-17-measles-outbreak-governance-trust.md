@@ -1,0 +1,33 @@
+---
+title: "America's measles resurgence is a governance failure"
+description: "The US measles outbreak reaching 4,410 cases is less a vaccine-hesitancy story and more a case study in what happens when public health institutions lose public trust."
+pubDate: 2026-10-17
+tags: ["public-health", "vaccines", "us-politics", "governance"]
+draft: false
+---
+
+The United States has now recorded [4,410 measles cases](https://www.aljazeera.com/news/2026/10/16/us-records-4410-measles-cases-as-outbreak-grows?traffic_source=rss), Al Jazeera reports, as an outbreak that began in isolated communities continues to expand. Measles was declared eliminated in the United States in 2000 — a genuine triumph of public health infrastructure, routine childhood vaccination, and the kind of unglamorous institutional competence that rarely makes headlines until it fails. That elimination is now effectively in question. The MMR vaccine remains highly efficacious; a two-dose regimen provides approximately 97% protection. The outbreak is therefore not a story about vaccine technology. It is a story about vaccine uptake, public trust in health institutions, and what happens to hard-won public health achievements when those institutions allow their credibility to erode.
+
+## The received wisdom
+
+The standard progressive framing is simple: this is what Robert F. Kennedy Jr. and the anti-vaccine movement hath wrought. The Trump administration's appointments to health agencies have created an environment of institutional ambiguity — at best — around routine childhood vaccination, and predictably cautious or actively hesitant parents have responded by reducing their children's immunisation rates. The measles resurgence, on this reading, is a direct and foreseeable consequence of giving anti-vaccine advocates influence over public health policy, and the corrective is simple: remove those voices, restore scientific consensus to its proper authority, and mandate vaccination more broadly.
+
+This narrative has the advantage of being substantially true in its empirical core. Vaccination rates have fallen in measles-affected communities. The MMR vaccine works. Measles is spreading. These facts are not in dispute.
+
+## A different read
+
+But the governance story is considerably more complicated than "anti-vaxxers bad," and the complexity matters for anyone who wants to actually fix the problem rather than simply assign blame.
+
+Public health institutions did not arrive at the current crisis of trust from nowhere. The COVID-19 pandemic produced a series of communications failures — some well-intentioned and some less so — that gave millions of ordinary, non-conspiratorial Americans legitimate reasons to question whether health agencies were giving them straight information. Mask guidance changed multiple times without adequate explanation of the underlying uncertainty. School closure guidance was defended with a rigidity that the available evidence about child transmission risks did not fully support. The lab-leak hypothesis, initially dismissed as a fringe theory, was later acknowledged as a legitimate scientific question. None of this validates vaccine hesitancy about the MMR jab, which has a forty-year safety record entirely separate from COVID-era disputes. But it created the trust deficit within which hesitancy spreads.
+
+The political economy here is also worth examining. The communities with the highest hesitancy rates are not uniformly poor or uniformly rural — they include affluent suburban enclaves where credentialled parents have persuaded themselves, through motivated reasoning and social contagion, that their children face meaningful risk from a vaccine that has been administered billions of times globally. This is a problem of elite knowledge failure as much as working-class information deprivation. The standard progressive prescription — more public messaging, stricter mandates — runs directly into the resistance of exactly these communities, which are neither economically marginalised nor easily coerced.
+
+The federal government's ambiguous posture under the current administration has undoubtedly made things worse at the margin. But it would be a mistake to conclude that a simple restoration of pre-2020 public health messaging norms would resolve the underlying problem. The trust deficit is real and was partly created by institutions themselves. Rebuilding it requires something more demanding than better social media campaigns: it requires health agencies to demonstrate, consistently and over time, that they distinguish between what they know, what they think, and what they hope — and that they treat the public as adults capable of handling genuine uncertainty. That is a harder and slower project than a vaccination mandate, and it is the one that actually matters.
+
+The historical parallel is the decline of polio vaccination compliance in parts of the developing world, where — in Pakistan and Afghanistan particularly — distrust generated by actual CIA use of a vaccination campaign as cover for intelligence operations created lasting resistance to legitimate public health programmes. The lesson was that trust, once broken by institutional bad faith (or perceived institutional bad faith), is extraordinarily expensive to rebuild. American public health institutions should not need to learn that lesson twice.
+
+## What to watch
+
+Watch the case count trajectory over the next four weeks — measles spreads extremely rapidly in under-vaccinated populations, and if the current pace continues, the 2026 total will exceed any outbreak since elimination. Watch whether any state governments move to tighten school vaccination exemption rules, which are the most direct policy lever available and have historically been effective. And watch whether the administration's health agencies issue any clear, unambiguous endorsement of routine childhood MMR vaccination, or whether the current studied ambiguity persists.
+
+— J
