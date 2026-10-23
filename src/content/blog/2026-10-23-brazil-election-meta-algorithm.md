@@ -1,0 +1,36 @@
+---
+title: "Brazil's runoff, Meta's algorithm, and democracy's new battleground"
+description: "Lula's claim that Meta's algorithm favoured his rival ahead of Brazil's election runoff tests whether platform neutrality is enforceable in high-stakes democracies."
+pubDate: 2026-10-23
+tags: ["brazil", "elections", "big-tech", "democracy", "latin-america"]
+draft: false
+---
+
+Brazilian President Luiz Inácio Lula da Silva [called this week](https://www.bbc.co.uk/news/articles/c6pwgve2lk5go) for his rival to be disqualified from the presidential election runoff, alleging that Meta's platforms — Facebook and Instagram — had manipulated their recommendation algorithms to favour the opposition candidate in the campaign's final weeks. The accusation centres on differential amplification of political content, with Lula's campaign claiming that critical content about the incumbent received disproportionate algorithmic promotion while positive coverage was suppressed. Separately, the Bolsonaro family's antics continued to dominate social media after Flávio Bolsonaro's ["corrupto" stunt went viral](https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff), generating organic engagement that Lula's campaign argues was further amplified by platform mechanics. Brazil's electoral authority, the TSE, is investigating. Meta has denied any intentional interference.
+
+## The received wisdom
+
+The liberal and progressive consensus is that social media platforms have become structurally hostile to democratic integrity. The argument, associated with researchers at the Oxford Internet Institute, MIT's Media Lab, and journalists from ProPublica to the Financial Times, holds that engagement-maximising algorithms inherently privilege emotionally activating content — outrage, fear, tribal solidarity — which in practice advantages political actors willing to generate it. In a country as politically polarised as Brazil, where Bolsonarismo pioneered the industrialised production of disinformation across WhatsApp, this structural bias is not neutral: it functions as a thumb on the electoral scale. Regulation — whether through algorithmic transparency requirements, the EU's Digital Services Act model, or platform liability for political content — is the necessary corrective. In this reading, Lula's complaint is substantively valid even if his proposed remedy (disqualification) is legally dubious.
+
+## A different read
+
+The progressive diagnosis of platform harm is not frivolous; the research base on algorithmic amplification of divisive content is substantial and reasonably robust. But Lula's disqualification demand, and the broader instinct to use platform regulation as an electoral corrective, deserves considerably more scrutiny than it typically receives in sympathetic commentary.
+
+Start with the evidentiary problem. Algorithmic audits are extraordinarily difficult to conduct in real time, particularly under election conditions. Claims that a platform "favoured" a candidate often conflate algorithmic amplification with organic engagement — content that performs well in recommendation systems frequently does so because users are sharing, liking, and commenting on it at higher rates. If Bolsonarist content is being widely shared by Brazilian users, is Meta amplifying it or reflecting a real distribution of political sentiment? The answer matters enormously for policy, and "Meta did it" is a far cleaner story than the more troubling alternative: that a substantial portion of the Brazilian electorate genuinely prefers the political product the opposition is offering.
+
+There is also a free speech dimension that the progressive framing systematically elides. If electoral authorities gain the power to compel platforms to suppress algorithmically disfavoured political content — on the basis that such content enjoys too much organic reach — the mechanism created is equally available to governments of any ideological stripe. [Brazil's TSE](https://www.bbc.co.uk/news/articles/c6pwgve2lk5go) has been praised internationally for its proactive approach to disinformation; it has also, in the view of Brazilian conservatives and some civil liberties lawyers, used that mandate expansively in ways that disadvantaged the right. The tool does not know who wields it.
+
+The deeper problem is that democratic legitimacy crises cannot be solved by adjusting the algorithm. Brazil's political polarisation predates Facebook; it has roots in [economic inequality](https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff), regional identity, and the long shadow of PT corruption scandals that Lula's Workers' Party has never fully escaped. Treating the platform as the independent variable and social division as its output gets the causation backwards. If the opposition is performing well online, the more politically honest question for Lula's team is why — and whether it reflects something about the government's record that a disqualification petition cannot fix.
+
+None of this means Meta's conduct is beyond scrutiny. An internationally agreed standard for algorithmic transparency during election periods — not a mandate to suppress content, but a requirement to publish amplification data to accredited auditors — would be a defensible, proportionate intervention. What is not defensible is treating platform manipulation as a substitute explanation for political weakness, or using it to justify disqualification rather than competition.
+
+There is a longer historical arc worth tracing here. Brazil has now run three consecutive presidential elections — 2018, 2022, and this cycle — in which the losing side, whether left or right, has challenged the legitimacy of the result through claims about media, platform, or judicial bias. The 2022 election produced Bolsonaro's January 8 attacks on Brasília's government buildings, a direct parallel to the January 6 Capitol riot. The pattern is not incidental: when political actors lose confidence in the electoral process itself, the institutional legitimacy that democracies require to function begins to erode. Both left and right bear responsibility for this in Brazil. Lula's disqualification petition, whatever its merits, contributes to the same corrosive logic: the result is only legitimate if my side wins. That is not a claim that Lula is equivalent to Bolsonaro — the records are very different — but the rhetorical mode is shared. Brazil's democratic institutions are resilient; they should not be tested unnecessarily by leaders who benefit from them invoking their machinery to pre-emptively delegitimise close results.
+
+## What to watch
+
+- The TSE's formal findings on the algorithmic interference claim, and whether any remedy short of disqualification is available under Brazilian electoral law
+- Whether the EU's Digital Services Act creates any precedent leverage for Brazilian regulators in negotiating transparency commitments from Meta
+- The final turnout figure in the runoff and whether urban-rural divides in platform access affect the result
+- Any retaliatory social media restrictions imposed on Bolsonarist accounts by Brazilian courts ahead of polling day
+
+--- J
