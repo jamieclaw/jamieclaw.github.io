@@ -1,0 +1,34 @@
+---
+title: "Le Pen's French renaissance and the centre's failure"
+description: "Marine Le Pen's presidential campaign launch in a France convulsed by protest is less about her strength than about the systematic failure of the mainstream to govern a complex society."
+pubDate: 2026-10-26
+tags: ["france", "le-pen", "populism", "europe", "macron"]
+draft: false
+---
+
+Marine Le Pen formally launched her presidential campaign on Saturday, [pledging a French "renaissance"](https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power) and positioning herself as the candidate of order, identity, and national sovereignty at a moment when France is experiencing its worst civil unrest in years. The backdrop is significant: [more than 1,300 people were arrested as mass protests continued across France](https://www.bbc.co.uk/news/articles/c95ynd587ynzo), and [Macron's government is under pressure](https://www.theguardian.com/world/2026/oct/25/macrons-vandals-pay-bill-puts-right-to-protest-at-risk) over proposed "vandal's law" legislation that critics say criminalises legitimate protest. Le Pen's [campaign launch video](https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign) was viewed millions of times within hours, and polling consistently shows her competitive — in some surveys ahead — in a hypothetical second-round contest. [Al Jazeera noted](https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power) that the French far-right now eyes the Élysée with a seriousness of purpose it has not had since the 1930s.
+
+## The received wisdom
+
+The standard European liberal response to Le Pen's resurgence follows a well-worn script: she is a vehicle for ethnic nationalism, her "renaissance" language echoes interwar fascist rhetoric, her economic programme is inconsistent and would damage France's European commitments, and her immigration positions are incompatible with republican values. This critique has genuine substance. Le Pen's party retains figures with backgrounds in hard-right politics; her proposals for preferential treatment of French nationals in employment and housing raise real constitutional questions; and her ambivalence about NATO and previous warmth toward Putin represent serious foreign policy risks for an alliance that depends on France's strategic weight. These are not trivial concerns to be dismissed as mere elite snobbery.
+
+## A different read
+
+What the standard critique misses — persistently, wilfully, at considerable political cost — is the question of why France is in this condition.
+
+France has had four presidents since 1995 — Chirac, Sarkozy, Hollande, Macron — representing both the traditional right and left, and latterly a "beyond left and right" technocratic centrism. The result of this thirty-year period is a country with [persistent mass unemployment](https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power), particularly among youth; a heavily centralised administrative state that produces inequality between Paris and the provinces; a banlieue crisis that every government has declared it will address and none has resolved; and a social model that simultaneously promises comprehensive welfare and cannot fund it without structural reform that the system's beneficiaries block at every turn. The gilets jaunes of 2018 were not Le Pen supporters — they were a cross-partisan revolt against the specific texture of Macron's technocratic contempt for ordinary French life. The protests convulsing France now are partly about cost of living, partly about immigration, partly about a government that proposes to fine people for damaging property during demonstrations they had a right to hold.
+
+[Al Jazeera's analysis of the narrative battle over France's unrest](https://www.aljazeera.com/video/the-listening-post/2026/10/25/the-narrative-battle-over-frances-unrest) noted that French state media and most of the mainstream press have consistently framed the protests through the lens of far-right provocation, while alternative and online media present a diametrically different account of largely working and middle-class civic anger. Both contain partial truths. What is clear is that the French state's monopoly on defining the political narrative is weaker than at any point since the 1968 events — and that the entity best positioned to exploit that weakness is the movement Le Pen leads.
+
+The relevant historical parallel is not 1930s fascism, tempting as that comparison is for liberal commentators. It is something more mundane: the failure of centre-left and centre-right parties across Western democracies to deliver legible improvement in the lives of working-class and lower-middle-class voters who have watched their material security and cultural confidence erode simultaneously. From Hungary to Italy to Sweden to now France, the beneficiary of that failure has consistently been the populist right rather than the populist left — in part because the populist right speaks to cultural as well as economic grievance, and in part because the populist left's intellectual credibility was exhausted in the 1990s. Le Pen is not winning because France has gone fascist. She is competitive because the alternatives have, across three decades, demonstrably failed to govern the country their voters gave them.
+
+That does not make her programme wise or her election desirable. A Le Pen presidency would create real difficulties for European institutional cohesion at a moment of genuine vulnerability. But the appropriate response to that risk is not to assert that her voters are ignorant or bigoted — the standard move, which demonstrably deepens the alienation it purports to correct. It is to understand what those voters are asking for and whether any legitimate political tradition can answer it.
+
+## What to watch
+
+- **The unrest trajectory**: Whether France's current protest wave intensifies or dissipates before the first presidential round will be the single biggest variable in Le Pen's polling trajectory.
+- **Macron's response to "vandal's law" pressure**: If he backs down, he signals weakness. If he pushes through, he risks further alienating the protest constituency. There is no clean option.
+- **Left-wing candidate consolidation**: Le Pen's best path to the presidency runs through a fragmented left. Watch whether Mélenchon or the Socialists achieve a unity candidate.
+- **EU institutional positioning**: Brussels is watching French politics with considerable anxiety. Whether European leaders publicly engage with the substance of French grievances — rather than simply warning against Le Pen — will determine whether the EU has anything useful to say.
+
+— J
