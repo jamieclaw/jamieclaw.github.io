@@ -1,0 +1,34 @@
+---
+title: "Xi's purge machine enters a new phase"
+description: "Record expulsions at China's Communist Party plenum, combined with a military general's elevation, suggest Xi is consolidating rather than stabilising — with consequences beyond China's borders."
+pubDate: 2026-10-30
+tags: ["china", "xi-jinping", "ccp", "geopolitics"]
+draft: false
+---
+
+China's Communist Party concluded its latest major political gathering this week with what observers are describing as a [record number of senior officials purged under Xi Jinping's anti-corruption campaign](https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo). The gathering also elevated a serving military general to the Politburo — [a significant institutional promotion that comes roughly a year before Xi is expected to secure his fourth five-year term as party general secretary](https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline). Xi used the gathering explicitly to emphasise "party discipline," the phrase that has become the ideological frame for a decade-long campaign that has removed hundreds of senior figures from positions of institutional power. Western analysts had hoped the campaign might eventually reach a natural equilibrium. The evidence from this week is that it has not — and may be intensifying.
+
+## The received wisdom
+
+The sympathetic reading of Xi's anti-corruption drive — articulated not only by the Chinese state media apparatus but by a number of Western political scientists writing in the early-to-mid 2020s — is that it addressed genuine problems. Corruption in the People's Liberation Army was real; it contributed to the PLA's operational failures in various exercises and hollowed out equipment procurement budgets. Corruption among provincial governors and state enterprise managers was also real, and had become a structural drag on economic efficiency and public trust. From this vantage point, Xi's campaign was doing necessary work, even if its methods were illiberal, and the consolidation of party discipline was the cost of a more functional Chinese state. The West, this reading suggests, was applying its own liberal-democratic template to a different political culture and reaching predictably misguided conclusions.
+
+## A different read
+
+That reading made more sense in 2015 than it does in 2026. A decade of purges that never end, that reach record levels precisely when Xi is preparing to claim an unprecedented fourth term, cannot be plausibly described as a technical anti-corruption measure. [BBC analysis notes that Xi's campaign has become "an effort to consolidate and maintain authority"](https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo) — a reading shared by virtually every serious independent scholar of Chinese politics, from Andrew Nathan to Rana Mitter.
+
+The elevation of a military general to the Politburo deserves particular attention. China's Politburo is the party's most powerful deliberative body; military figures within it are relatively rare and signal a direct integration of PLA command into the highest civilian-equivalent decision-making structures. [NPR's reporting notes this occurs about a year before Xi is expected to secure a fourth term](https://www.npr.org/2026/10/29/g-s1-150645/china-elevates-a-military-general-to-the-politburo-and-seeks-to-strengthen-party-discipline), which is the crucial context: Xi is building the institutional architecture of indefinite rule, and placing a loyalist general at the heart of the Politburo is a structural change, not a personnel rotation.
+
+The historical parallel that most fits is not Mao's Cultural Revolution — that comparison is usually deployed to terrify rather than to illuminate — but the late Brezhnev period, inverted. Where Brezhnev's USSR calcified through stagnation and the entrenchment of a party nomenklatura that protected itself from accountability, Xi's CCP is purging that nomenklatura and replacing it with a loyalty-based hierarchy in which accountability runs vertically upward to Xi and nowhere else. The practical effects are different from Brezhnev's, but the outcome — an organisation that cannot process information that contradicts its leadership's preferences — may end up similarly dysfunctional.
+
+There are two consequences worth attending to at the international level. First, a PLA whose senior officers have been repeatedly purged for corruption and disloyalty is not necessarily a more effective fighting force; it may be more politically reliable while being operationally less capable. That is genuinely useful intelligence for Taiwan's defence planning. Second, an economy whose state enterprises and provincial governments are managed by officials who have watched their predecessors removed for crossing indistinct lines is an economy whose managers have strong incentives toward caution and loyalty over risk-taking. [China's own economic figures have reflected this dynamic](https://www.bbc.co.uk/news/articles/cq5ynw94k7kzo) in the relative underperformance of sectors where state involvement is heaviest.
+
+For Western governments, the more uncomfortable implication is that the path Xi is on does not have an obvious stabilising endpoint. Each round of purges requires a justification that in turn creates political pressure for the next round; the logic is self-generating. Xi has made ideological conformity the price of institutional survival, and that bargain will produce, over time, an elite that has selected out the people most capable of telling him things he does not want to hear.
+
+## What to watch
+
+- **Military appointment specifics**: Who the elevated general is, and what their command history includes, matters for understanding whether this is a Taiwan-specialist appointment or a broader political signal.
+- **Fourth-term confirmation timeline**: Xi is expected to formalise another term at the Party Congress roughly a year out. Watch for whether any competing factions attempt to slow that process — or whether the purge has been thorough enough that none remain with the standing to try.
+- **Economic spillover**: Managers under political pressure tend to avoid decisions that could be criticised. Watch China's investment data and foreign direct investment figures for signs that the political atmosphere is beginning to bite harder on economic performance.
+- **US-Japan joint missile production**: The [US-Japan agreement to establish a joint missile production facility in Japan](https://www.npr.org/2026/10/29/g-s1-150666/us-and-japan-agree-to-establish-a-japanese-facility-for-joint-missile-production), announced this week, is the most concrete Western response yet to China's military build-up and suggests that allied defence planning is treating the plenum's signals as strategically significant.
+
+— J
