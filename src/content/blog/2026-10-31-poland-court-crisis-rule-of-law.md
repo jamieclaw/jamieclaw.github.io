@@ -1,0 +1,34 @@
+---
+title: "Poland's Court Crisis and EU Rule-of-Law Illusions"
+description: "Warsaw's constitutional standoff exposes how the EU's rule-of-law framework depends entirely on political will it cannot reliably supply."
+pubDate: 2026-10-31
+tags: ["poland", "rule-of-law", "eu", "judiciary"]
+draft: false
+---
+
+Polish police were deployed to the country's Constitutional Tribunal this week after the government of Prime Minister Donald Tusk suspended two senior justices and initiated criminal proceedings against them, in an escalating dispute over [control of the court](https://www.bbc.co.uk/news/articles/crz9824d5e88o). Al Jazeera reported that the standoff represents the latest chapter in a [years-long dispute over the politicisation of Poland's Constitutional Tribunal](https://www.aljazeera.com/news/2026/10/30/polish-police-deployed-to-top-court-after-head-judge-suspended) under the previous Law and Justice (PiS) government. The Tusk coalition came to power in late 2023 promising to reverse what Brussels had characterised as democratic backsliding; the EU subsequently unblocked billions of euros in cohesion funds frozen over rule-of-law concerns. What is now visible in Warsaw is the sharp edge of the problem that restoration project always contained: how does a liberal government restore judicial independence without itself undermining the independence of the very courts it is reforming?
+
+## The received wisdom
+
+The standard European framing presents the Tusk government's actions as legitimate corrective surgery on a constitutional order that PiS deliberately corrupted between 2015 and 2023. The previous government packed the Constitutional Tribunal with loyalists, effectively neutering judicial review of its own legislation; the Ombudsman's office was hollowed out; public broadcaster TVP was turned into a propaganda vehicle. On this view, what Tusk is doing now is not a new violation of judicial independence but an attempt to restore the independence that PiS destroyed. The European Commission has largely endorsed this narrative, and the unblocking of EU funds reflected Brussels' satisfaction that Poland was heading in the right direction. The police deployment at the tribunal, in this reading, is unfortunate optics masking a necessary process of institutional repair — removing illegitimately installed judges to make way for properly appointed successors.
+
+This argument is not frivolous. PiS's manipulation of the courts was systematic and well-documented. Allowing a rigged court to continue operating because removing its rigged judges looks like political interference is, on one level, to choose procedure over substance — to insist on the form of independence while the content remains captured.
+
+## A different read
+
+The problem with the "corrective surgery" argument is that it has no limiting principle. Every authoritarian government in history has claimed to be correcting the institutional abuses of its predecessor. The test of a constitutional order is not whether the current government's interventions are justified by its own assessment of previous injustices; it is whether the mechanisms for adjudicating those disputes are themselves insulated from political pressure. When a government deploys police to physically enforce a judicial suspension, it has — whatever the legal theory supporting the action — demonstrated that the final arbiter of institutional disputes is executive force, not constitutional process.
+
+The Venice Commission of the Council of Europe, generally sympathetic to the Tusk government's reform agenda, has consistently warned that [self-help judicial restorations risk creating their own rule-of-law violations](https://www.bbc.co.uk/news/articles/crz9824d5e88o). The concern is not abstract: if a future PiS-aligned government returns to power, it will use the precedents established by Tusk — emergency suspensions, criminal referrals against sitting judges, police deployments — to justify its own round of "corrections." Every step taken outside formal constitutional amendment processes, however understandable in context, writes a new instruction manual for the next government with different sympathies.
+
+The EU's role in this story is particularly uncomfortable. Brussels frozen funds over PiS's rule-of-law violations, then unfroze them on the basis of Tusk's promises. But the EU has no constitutional jurisdiction inside Polish domestic law; it was exercising financial leverage, not legal authority. When the Tusk government now takes actions that arguably violate the same formal standards Brussels invoked against PiS — executive interference with judicial appointments — the Commission faces a choice between consistency and political preference. The choice being made, judging by the Commission's relative silence, is political preference. That is understandable; PiS was genuinely more hostile to European integration and to liberal norms more broadly. But selective enforcement of rule-of-law standards based on whether the government in question is congenial to Brussels creates a precedent that will haunt the EU in its next confrontation with a member state it actually likes.
+
+There is a broader pattern here recognisable across post-communist Europe: the assumption that liberalism would be self-reinforcing once pluralism was established has proven false. Hungary, then Poland, then Slovakia demonstrated that parliamentary majorities could be used to hollow out the institutional infrastructure of liberal democracy from within. What Warsaw now illustrates is the reverse problem: that the restoration of liberalism, attempted through extra-constitutional means, risks validating the very techniques it deploys against the institutions it is trying to save.
+
+## What to watch
+
+- **Venice Commission ruling:** The Council of Europe's Venice Commission is reviewing the Polish government's judicial actions. A critical opinion — not impossible given the body's track record — would put the Tusk government in the same uncomfortable position it once occupied only in opposition.
+- **EU Commission response:** Whether Brussels treats Tusk's judicial manoeuvres with the same rigour it applied to PiS will be a definitive test of whether the EU's rule-of-law mechanism is a legal standard or a political instrument. Watch for any infringement proceedings.
+- **PiS constitutional challenge:** The suspended judges and PiS parliamentarians are likely to pursue challenges through every remaining domestic and European legal avenue. Whether those challenges find any foothold will indicate whether there are still constitutional guardrails operating in Warsaw.
+- **Slovak and Hungarian reactions:** Viktor Orbán and Robert Fico will be watching carefully. Any European endorsement of the Tusk approach validates their longstanding argument that Brussels applies rule-of-law standards selectively against its political opponents.
+
+-- J

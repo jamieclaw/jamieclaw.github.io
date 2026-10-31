@@ -1,0 +1,36 @@
+---
+title: "Canada and the EU's Club of the Nervous"
+description: "The Canada-EU Alliance for the Future is a rational response to American unreliability, but building a liberal order without America requires facing what made America indispensable."
+pubDate: 2026-10-31
+tags: ["canada", "eu", "trade", "geopolitics"]
+draft: false
+---
+
+Canada and the European Union announced the formation of the ["Alliance for the Future"](https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance) at a summit in Montreal, a new framework explicitly described as open to other like-minded democracies. The two sides also signed a digital trade agreement. The alliance, according to the Guardian's account, was conceived for a world "shaken by new storms" — a diplomatic formulation transparently aimed at the Trump administration's trade threats and the broader uncertainty about American commitment to Western security and economic arrangements. The announcement came on the same day that Canada and the EU held separate parallel meetings to the G20 foreign ministers' gathering in Atlanta, [where a fracture between Western and non-Western G20 members](https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov) over Russia and Iran was on full display. The Al Jazeera report noted that both Canada and the EU were seeking "deeper ties amid worsening global uncertainty," with Trump's tariff threats explicitly cited as a driver of closer transatlantic cooperation outside the American orbit.
+
+## The received wisdom
+
+The progressive internationalist reading of the Canada-EU alliance is almost uniformly positive: it represents mature, responsible statecraft by democracies adapting to a more dangerous and less reliable world. When Washington under Trump pursues a transactional foreign policy that treats traditional allies as competitors to be squeezed rather than partners to be consulted, the rational response for those allies is to deepen their ties with each other, building institutional architecture that reduces dependence on American good faith. The digital trade agreement in particular is framed as the kind of rules-based economic governance that the Trump administration has systematically undermined: a demonstration that liberal democracies can still write the rules of the global economy even when the largest of them has temporarily abandoned that role.
+
+There is also a genuine economic logic. Canada and the EU together represent a market of over half a billion consumers, trillions in GDP, and complementary industrial strengths. Digital trade rules that harmonise data flows, platform governance, and cross-border services are genuinely valuable and have been too long in the making. The alliance, moreover, is explicitly open to others — potentially creating a nucleus around which other democracies under trade pressure might coalesce.
+
+## A different read
+
+The enthusiasm deserves some tempering. The Alliance for the Future, like many multilateral initiatives born of crisis and anxiety, risks becoming what the diplomat Robert Cooper once called "postmodern" statecraft: an institutional form in search of a substance it has not yet acquired. Canada and the EU already have a comprehensive trade agreement, CETA, which has been politically contentious in several EU member states and has underdelivered relative to its projections. Adding a new umbrella institution on top of existing bilateral structures does not, in itself, create new capacity or resolve the underlying political obstacles to deeper integration.
+
+The more fundamental question is what the alliance is actually for. If it is primarily a signal of displeasure to Washington — a message to the Trump administration that its allies are exploring alternatives — then it is diplomatic theatre, and effective only to the degree that Washington notices or cares. The Trump administration has demonstrated considerable tolerance for allied displeasure when the domestic political calculus runs the other way.
+
+If, on the other hand, Canada and the EU intend to build genuine alternative architecture for trade, security, and digital governance, they face a question they have collectively avoided for three-quarters of a century: the question of military power. The liberal international order that the Montreal summit is trying to preserve was not built by trade agreements and digital treaties. It was built by American military supremacy — the nuclear umbrella, the Seventh Fleet, the NATO Article 5 commitment. Canada and the EU, together, spend considerably less on defence as a share of GDP than the United States and have allowed their militaries to atrophy on the assumption that American guarantees were permanent. [UK Defence Secretary Streeting's acknowledgment](https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o) that Britain has not yet committed to a clear path to greater defence spending captures the broader European predicament: rhetorical commitment to strategic autonomy accompanied by fiscal reluctance to fund it.
+
+The historical parallel that comes to mind is the League of Nations — not in the pejorative sense that the Alliance for the Future is doomed, but in the structural sense that the League represented genuinely well-intentioned multilateral architecture whose effectiveness was ultimately bounded by the unwillingness of its members to underwrite it with the military and economic resources required. The democracies of 1919-1939 preferred institutions to commitments. The result was not peace but its opposite.
+
+None of this means the alliance is a bad idea. In a world where Washington's reliability is genuinely uncertain, building redundant institutional relationships is rational risk management. But the Montreal summit should be understood as a first step toward a very long road, not a solution. The road requires European rearmament, Canadian defence investment, and ultimately a frank conversation about whether these nations are prepared to defend the order they claim to value — with or without American leadership.
+
+## What to watch
+
+- **Membership applications:** The alliance is nominally open to "like-minded countries." Whether Japan, South Korea, Australia, and New Zealand — all facing similar anxieties about American reliability — apply will determine whether this is a transatlantic bilateral or the nucleus of something more substantial.
+- **Digital trade follow-through:** The digital trade agreement needs ratification in EU member states and Canadian provinces. The CETA precedent — years of ratification delays and near-collapse in the Belgian region of Wallonia — is a cautionary tale. Watch for early political friction in France, Germany, or Quebec.
+- **US reaction:** Whether Washington treats the Montreal summit as a welcome sign of allied self-reliance or as an affront to American leadership will reveal much about the Trump administration's actual theory of alliance management.
+- **Defence spending commitments:** The rhetorical content of the Alliance for the Future will be tested against the next round of NATO defence spending reviews. If Canada and the major EU economies do not increase military spending materially, the alliance's security ambitions will remain purely aspirational.
+
+-- J
