@@ -1,0 +1,34 @@
+---
+title: "Stephen Miller's promotion is a warning sign"
+description: "Trump's elevation of Stephen Miller to chief of staff after midterm losses signals the administration will double down on maximalism rather than course-correct."
+pubDate: 2026-11-07
+tags: ["us-politics", "trump", "immigration", "white-house"]
+draft: false
+---
+
+Twenty-four hours after Democrats [swept the House and Senate](https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates) in what many commentators are calling a historic repudiation of the Trump administration's second term, the president made a personnel decision that removed any ambiguity about what comes next. Susie Wiles, the disciplined Florida operative who had served as chief of staff since January 2025, was out. In her place, Trump named [Stephen Miller](https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff) — the architect of the administration's most aggressive immigration policies, now formally the most powerful person in the White House below the president himself. The appointment was announced via social media with the note that Miller would "run things well." For those watching the administration's internal dynamics, it was not a surprise. It was, however, a signal — and not a reassuring one.
+
+## The received wisdom
+
+The progressive and centre-left reading of this appointment is straightforwardly alarmed, and it is worth engaging with seriously. Miller is one of the most consequential figures in modern American immigration policy. As a senior advisor in Trump's first term, he was the driving force behind the travel ban, family separation, the Remain in Mexico policy, and a wholesale reduction in legal immigration levels. He is, in the words of his critics, not a pragmatist but an ideologue, one who views the chief of staff role not as a managerial post but as a lever to entrench his policy vision across the entire executive branch. His elevation, the argument goes, tells us that the midterm defeat has produced in Trump not reflection but defiance — and that the institutional guardrails that Wiles reportedly provided are now gone. Several Democratic leaders have already declared that Miller's appointment proves the White House intends to [double down on hardline policies](https://www.theguardian.com/us-news/2026/nov/06/stephen-miller-chief-of-staff-trump) despite the electoral verdict. That argument deserves honest engagement.
+
+## A different read
+
+The alarm is real, but the analysis behind it skips several things worth noting. First, there is the question of what "course correction" would actually look like. Trump's administration lost the midterms for reasons that are disputed and probably overdetermined: inflation, the Iran conflict, exhaustion with executive overreach, Elon Musk's [costly and unsuccessful campaigns](https://www.bbc.co.uk/news/articles/cv8ez3p3ge5ko) in contested races. Immigration hardlining was not obviously the swing factor. Polling throughout the cycle showed that swing voters in the Rust Belt were more exercised about grocery prices and the cost of the Iran military engagement than about border policy per se. The demand that Trump "moderate" on immigration after a midterm loss assumes immigration was what lost him those seats. The evidence is murkier.
+
+Second, the departure of Wiles is presented as a loss of institutional discipline. That may be true. But it is also worth remembering what that "discipline" often meant in practice: smoothing the edges of policies that were controversial not because they were extreme but because they were *unpopular with the media class*. Wiles kept Trump on script and managed relationships with the Hill. What she could not do — what no chief of staff can do — is convert an unpopular president into a popular one by force of logistics. The argument that she was a moderating force is partly true; it is also partly a projection by journalists who preferred dealing with her.
+
+Third, the historical parallels for this kind of post-defeat doubling-down are instructive, though not uniformly cautionary. After the 2006 midterms, George W. Bush replaced Donald Rumsfeld with Robert Gates and pivoted dramatically on Iraq strategy. The result, the [surge](https://en.wikipedia.org/wiki/Iraq_War_troop_surge_of_2007), was a short-term military success and a long-term geopolitical muddle. After the 2010 midterms, Barack Obama replaced Rahm Emanuel with Bill Daley and then Jack Lew in rapid succession — and ended up governing with a degree of executive action that his own constitutional lawyers sometimes found uncomfortable. Post-midterm personnel reshuffles do not guarantee policy moderation, and the right-leaning commentariat that is currently making a "Miller will cause further losses" argument would do well to notice that bold consolidation of executive will can, sometimes, cut through political opposition in ways that bipartisan outreach does not.
+
+The real concern with Miller is not that he is an ideologue — presidents are entitled to ideological staff — but that ideologues without operational discipline tend to generate legal exposure and procedural overreach. Miller's history includes policy proposals that were struck down by courts, often on procedural rather than substantive grounds. A chief of staff who thinks first about policy goals and last about legal durability is one who will hand the opposition party courtroom victories on a silver platter. That is the risk worth watching.
+
+There is also the question of what happens to the Democratic Congress in the next two years. A newly emboldened House and Senate, facing a White House run by its most ideologically committed adversary, will have a choice between constructive opposition (budgets, oversight, judicial confirmations) and performative confrontation. Miller, more than Wiles, [invites performative confrontation](https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff). That is a risk for both parties. It is the kind of dynamic that produces two more years of institutional gridlock, mutual demonisation, and a 2028 cycle in which the centre has been hollowed out from both directions.
+
+## What to watch
+
+- Whether Miller moves quickly on a second wave of executive orders on immigration before Congress is seated in January — and whether federal courts issue stays, as they did in 2017.
+- Congressional Democrats' response: measured oversight focus vs. impeachment machinery, which would almost certainly backfire given the Senate arithmetic.
+- The fate of any bipartisan deals on fiscal matters, particularly debt ceiling negotiations that will come due in spring 2027.
+- Whether moderate Republican senators who held their seats (or flipped to winning margins) begin to put distance between themselves and the White House.
+
+— J
