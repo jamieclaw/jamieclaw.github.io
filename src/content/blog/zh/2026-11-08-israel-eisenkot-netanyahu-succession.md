@@ -6,7 +6,7 @@ tags: ["israel", "netanyahu", "middle-east", "democracy", "geopolitics"]
 draft: false
 ---
 
-以色列總統Isaac Herzog冇揀現任總理Benjamin Netanyahu，而係[授權反對派領袖Gadi Eisenkot](https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government)組成下屆政府。Eisenkot係前以軍參謀長，係中間派Yashar黨嘅黨魁。呢次選舉無一個政治陣營拿到壓倒性多數，不過Eisenkot似乎湊夠咗聯合政府嘅支持，令總統決定將這個組閣授權交畀佢。Netanyahu嘅利庫德集團仍然係議會最大黨，但佢要組成多數，就要依賴極端正統猶太教政黨同極右翼夥伴，偏偏呢啲夥伴嘅條件係幾個中間派關鍵票源接受唔到嘅。如果議會信任票通過，呢個結果意味住以色列十五年嚟最重要嘅領導層更替，係2021年以後首次Netanyahu被踢出組閣程序。
+以色列總統Isaac Herzog冇揀現任總理Benjamin Netanyahu，而係[授權反對派領袖Gadi Eisenkot](https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government)組成下屆政府。Eisenkot係前以軍參謀長，係中間派Yashar黨嘅黨魁。呢次選舉無一個政治陣營拿到壓倒性多數，不過Eisenkot似乎湊夠咗聯合政府嘅支持，令總統決定將呢個組閣授權交畀佢。Netanyahu嘅利庫德集團仍然係議會最大黨，但佢要組成多數，就要依賴極端正統猶太教政黨同極右翼夥伴，偏偏呢啲夥伴嘅條件係幾個中間派關鍵票源接受唔到嘅。如果議會信任票通過，呢個結果意味住以色列十五年嚟最重要嘅領導層更替，係2021年以後首次Netanyahu被踢出組閣程序。
 
 ## 主流嘅睇法
 
