@@ -1,0 +1,33 @@
+---
+title: "Houthis resume Saudi strikes as sanctions bite and hold"
+description: "The UN Security Council's extension of Houthi sanctions, met immediately with renewed missile strikes on Saudi Arabia, exposes the limits of multilateral pressure when the sanctioned party has nothing left to lose."
+pubDate: 2026-11-13
+tags: ["houthis", "saudi-arabia", "yemen", "unsc", "middle-east"]
+draft: false
+---
+
+Yemen's Houthi movement resumed missile and drone strikes against Saudi Arabia this week, hours after the United Nations Security Council voted to extend sanctions targeting the group. [Al Jazeera reported](https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss) that the attacks struck infrastructure targets in the kingdom's south and that the timing was, almost certainly, deliberate — a public demonstration that UNSC resolutions are, from the Houthi perspective, not a constraint but an occasion for defiance. The strikes come after a period of relative quiet in the Red Sea shipping lanes, where Houthi attacks through much of 2024 and 2025 imposed significant costs on global maritime trade before a combination of US naval interdiction and back-channel Qatari mediation reduced the intensity of operations. The resumption suggests that whatever equilibrium existed has broken down, and that Houthi leadership calculates renewed escalation is either necessary or advantageous given the current regional balance of power in the wake of the Iran-US ceasefire.
+
+## The received wisdom
+
+The international community's response to Houthi activity follows a recognisable script: condemn the strikes, reaffirm UN Security Council resolutions, call for a return to negotiations, and issue statements of solidarity with civilian populations on all sides. The extension of sanctions is characterised as the international system functioning as designed — gradually tightening pressure on an armed non-state actor through multilateral mechanisms. The implied theory of change is that sanctions, over time, degrade the Houthis' capacity to sustain operations and eventually bring leadership to the negotiating table. European governments and the Biden-to-Harris-to-Burnham axis of Western foreign policy have been consistent advocates of this approach, arguing that military escalation risks broader regional conflagration and that the humanitarian costs of intensified operations in Yemen would be unacceptable. The mainstream framing treats the current situation as difficult but manageable within existing frameworks.
+
+## A different read
+
+The difficulty with the mainstream framing is that it describes a theory that the Houthis have comprehensively refuted by their behaviour for the better part of a decade.
+
+The Houthi movement — formally Ansar Allah — began as a Zaydi Shia revivalist movement in northern Yemen in the 1990s. It has survived six rounds of Saudi military intervention, sustained coalition airstrikes over eight years, an economic blockade that has produced one of the worst humanitarian crises in the world, and now multiple rounds of UN sanctions. It has not been brought to the negotiating table on terms that its leadership found unacceptable. The sanctions framework has not degraded its operational capacity to a point where it cannot mount sophisticated drone and missile strikes. The theory of graduated multilateral pressure simply does not match the observed behaviour of this particular actor.
+
+Why? Several reasons converge. First, the Houthis' patron — Iran — provides a level of material and technical support that blunts the impact of sanctions that would otherwise bite. Iran's missile and drone technology transfer to Houthi forces has been documented in multiple UN Panel of Experts reports, most recently in materials cited by the UNSC members who supported the sanctions extension. Iranian support did not stop with the US-Iran ceasefire; if anything, Tehran may now have more bandwidth to supply regional proxies, having removed the immediate threat of a broader military confrontation with Washington.
+
+Second, the Houthis have a political economy that does not depend on international legitimacy or economic integration in the way that a government subject to Western pressure normally does. The group controls significant Yemeni territory and population; it taxes, conscripts, and governs. Sanctions hurt the populations under its control more than they hurt its leadership, which has the standard response of authoritarian movements to external pressure: blame the foreigners, consolidate internally, and continue operations. This is the pattern documented in North Korea, in Iran, and in various African military-controlled governments that have survived decades of international isolation.
+
+Third, the renewed strikes against Saudi Arabia reflect something specific about the post-Iran war regional moment. The US-Iran ceasefire removed a source of existential pressure on Tehran's network of regional proxies. The Houthis may be testing how much operational space they now have with a less engaged American military posture in the Gulf. Saudi Arabia, which has been quietly managing its own accommodation with Iran through Chinese mediation since 2023, is in a genuinely awkward position: it does not want renewed escalation, but it cannot absorb missile strikes on its territory without response, and a military response risks unravelling the very careful diplomatic architecture Riyadh has been constructing.
+
+The UNSC sanctions extension, in this context, is less a tool of pressure than a gesture of institutional continuity — the international system registering its disapproval in a language the Houthis have learnt to ignore.
+
+## What to watch
+
+Watch Saudi Arabia's military response, or lack of one — Riyadh's restraint or escalation will be the clearest signal of whether the Iran-Saudi accommodation of 2023 has survived the Houthi provocation. Watch whether the US redeploys naval assets to the Red Sea in the coming weeks, or whether the post-ceasefire relaxation of American military posture in the Gulf proves durable under Houthi pressure. Watch the shipping lanes: if commercial vessels begin rerouting around the Cape of Good Hope again, the economic costs will register in freight rates within days. And watch China — Beijing brokered the Saudi-Iran deal and has significant trade interests in Red Sea stability; its diplomatic engagement or disengagement with both Riyadh and Tehran will be a leading indicator of whether anyone with actual leverage on the Houthis is prepared to use it.
+
+— J
