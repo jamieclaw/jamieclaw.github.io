@@ -1,0 +1,31 @@
+---
+title: "The Summit That Rewrites World Order"
+description: "Trump, Putin, and Xi are set to meet jointly in China — a trilateral arrangement that would have been unthinkable a decade ago and reshapes every Western assumption about alliance politics."
+pubDate: 2026-11-15
+tags: ["geopolitics", "us-foreign-policy", "china", "russia", "ukraine"]
+draft: false
+---
+
+The White House [confirmed this week](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss) that President Trump will travel to China next week for a historic trilateral meeting with both President Xi Jinping and President Vladimir Putin. According to a White House spokeswoman, the discussions will address "the reduction of nuclear weapons" alongside a broader set of strategic matters. Neither the Kremlin nor Beijing has officially disputed the announcement, though the specific agenda and format remain fluid. If it proceeds as described, the meeting would mark the first time a sitting American, Russian, and Chinese head of state have convened together since the informal margins of the G20 in 2019 — and the first time ever in a bilateral Chinese host arrangement. The world's three largest nuclear-armed states gathering at China's invitation is, by any measure, a civilisational moment.
+
+## The received wisdom
+
+The dominant progressive and liberal-internationalist reading of this summit is alarm. NATO's eastern flank states, already rattled by the [US proposal to trade Ukrainian territory for alliance membership](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss), will interpret a Trump-Putin-Xi encounter as the formal arrival of a new Yalta — a great-power carve-up conducted without European consent. The argument runs: Trump is legitimising Putin at the precise moment Russia is demanding maximalist concessions in Ukraine; he is elevating Xi as indispensable broker when China has been arming Russian industry throughout the war; and he is doing this in Beijing, symbolically conceding the chairmanship of global order to the country whose rise the entire post-Cold War strategy was meant to manage. For liberal hawks and committed Atlanticists, this is the nightmare: American unilateralism splicing off into outright appeasement.
+
+## A different read
+
+It is worth pausing before accepting the Yalta analogy wholesale. Yalta in 1945 was a conference of exhausted victors dividing a prostrate Europe among themselves; what Trump is attempting is something different — a triangular dialogue among powers who each have distinct and not-always-convergent interests. The fact that China is hosting is not evidence that China is directing; Beijing has its own reasons to want a stable Ukraine settlement that does not lock in a long Russian dependency on Chinese supply chains, nor protract the war that has disrupted commodity flows and elevated global inflation.
+
+The deeper question is whether "strategic ambiguity" of the kind Trump traffics in is actually dangerous, or whether it is simply the return of classical great-power statecraft that the post-1990 liberal order tried to outlaw. Henry Kissinger, before his death in 2023, [repeatedly argued](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss) that the West's refusal to offer Russia a dignified exit from the Ukraine conflict had prolonged and deepened it. The Trump administration, whatever its aesthetic vulgarity, may be operationalising a version of that insight.
+
+There is a harder nationalist case too. The United States has spent roughly $175 billion on Ukraine since February 2022, according to the Kiel Institute's tracking. American air traffic control is running on copper wire from the 1970s, as the [FAA ground-stop debacle last week](https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss) vividly demonstrated. At some point the electorate's tolerance for open-ended European security commitments funded on a deficit is a legitimate political variable, not merely a symptom of Trumpian isolationism. The 2026 midterms, which delivered Democrats their biggest House majority in a generation, contained within them a complicated message: opposition to Trump on domestic grounds, but no clear mandate for indefinite Ukraine escalation.
+
+Putin's side of the triangle is equally instructive. As the BBC's Russia editor noted this week, Moscow [now views European security as a subject on the table](https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss) — a framing it regards as a victory in itself. That is not a reason to concede the point; it is a reason to negotiate with eyes open. The EU's foreign policy chief Kaja Kallas [warned at the Dublin summit](https://www.theguardian.com/world/2026/nov/13/russia-ukraine-talks-kaja-kallas-eu-foreign-policy-dublin-summit) that Russia is "setting traps" in the talks. She is right. But the alternative — permanent war managed by an increasingly fractious NATO — sets traps of its own.
+
+The China dimension is the most underappreciated. Xi attending a trilateral alongside an American and Russian president is a signal that Beijing does not want to be the last holdout financing a losing Russian war effort. That structural incentive is actually useful to Western negotiators, if they can be persuaded to use it rather than condemn the whole exercise as contaminated by Trump's presence.
+
+## What to watch
+
+Watch whether France and Germany are briefed in advance or informed after the fact — that gap will reveal whether this is a managed negotiation or a unilateral fait accompli. Watch the specific language around NATO's Article 5 guarantees for any territorial adjustment in Ukraine: any formula that creates a de-facto buffer zone without explicit security guarantees is a recipe for a third war within a decade. Watch Xi's domestic presentation of the summit — if Beijing frames it as proof of Chinese centrality in global order, that tells you everything about who considers themselves the meeting's principal beneficiary. And watch whether Zelensky is consulted; his public position that he [will not cede territory](https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato) remains the hardest constraint in any negotiation.
+
+— J
