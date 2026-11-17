@@ -1,0 +1,33 @@
+---
+title: "Trump flies to Asia as the summit circus begins"
+description: "Trump's ASEAN trip and meetings with Xi and Putin test whether personal diplomacy can substitute for the institutional architecture of American foreign policy."
+pubDate: 2026-11-17
+tags: ["trump", "asean", "china", "russia", "foreign-policy"]
+draft: false
+---
+
+President Trump has departed for Southeast Asia to attend the ASEAN summit, where he is scheduled to hold meetings with both Chinese President Xi Jinping and Russian President Vladimir Putin on the sidelines. [Al Jazeera reported](https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin) the trip as a significant foreign policy push. The [Guardian's analysis](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) characterised the visit as a late-second-term effort to consolidate what the administration considers diplomatic achievements before Trump's presidency ends, with aides framing the trip as an opportunity to advance discussions on Ukraine, trade, and regional security simultaneously. The trilateral format — an American president in the same venue as both Xi and Putin — is structurally unusual and reflects ASEAN's longstanding practice of providing neutral diplomatic space that no other multilateral forum currently offers. Whether the meetings produce substantive outcomes or performative communiqués remains to be seen.
+
+## The received wisdom
+
+The conventional foreign policy commentary on Trump's Asia trip divides into two camps: those who think any engagement is better than none, and those who think engagement without institutional follow-through is worse than managed distance. The first camp notes that summitry matters, that personal relationships between heads of state can unlock agreements that bureaucratic channels cannot, and that Trump's willingness to meet adversaries without preconditions has occasionally produced results — the Singapore summit with Kim Jong-un in 2018 being the archetypal example, however contested its legacy. ASEAN, as a forum, is precisely the kind of venue where informal progress can be made because no one is too committed to any formal outcome.
+
+The sceptical camp — which includes most of the American foreign policy establishment — argues that Trump's brand of personal diplomacy has consistently failed to produce durable institutional results. The Singapore meeting with Kim produced no verifiable denuclearisation. His relationship with Putin has been a source of domestic political controversy without yielding a Ukraine settlement. Xi has repeatedly outmanoeuvred him in trade negotiations by offering short-term concessions in exchange for long-term strategic positioning.
+
+## A different read
+
+Both camps share an assumption worth interrogating: that the purpose of this summit, from Trump's perspective, is primarily diplomatic rather than domestic-political.
+
+Trump has never been primarily interested in foreign policy as an end in itself. He is interested in it as a vehicle for projecting strength, generating media coverage, and constructing a narrative of personal achievement that can be mobilised domestically. The ASEAN trip, coming in the final stretch of his second term, fits that pattern precisely. Meeting Xi and Putin simultaneously, in a neutral Asian venue, is a visually powerful statement — the American president engaging the two most powerful authoritarian leaders simultaneously, on his own schedule. Whether anything of substance emerges from those meetings is, from the domestic political perspective, almost beside the point.
+
+This creates an interesting structural problem for America's allies. [Canada's Prime Minister Carney](https://www.theguardian.com/world/2026/nov/16/canada-carney-cars-evs-tariffs-xi-jinping-china-trump-trade-talks) has been exploring whether Chinese automakers could substitute for American market access if Trump's tariffs continue — a remarkable signal that even America's closest ally is beginning to hedge. When allies hedge and adversaries engage, the implicit architecture of American-led international order begins to look less like a system and more like a transaction. That is not purely Trump's doing; it is the product of decades of American overcommitment followed by abrupt retrenchment under multiple administrations. But Trump has accelerated the trend dramatically.
+
+The historical comparison that seems most apt is not to previous American summitry but to the period between 1969 and 1972, when Nixon and Kissinger pursued a triangular diplomacy with China and the Soviet Union that deliberately played one off against the other. That strategy worked in part because it was conceptually coherent — it had a theory of leverage — and in part because Kissinger built the institutional architecture to follow through. Trump's approach resembles the visual aesthetic of Nixonian triangulation without the strategic theory or the follow-through. Meeting Xi and Putin in the same week is not triangular diplomacy unless America is extracting something from each meeting that shapes its posture toward the other. There is [limited evidence](https://www.aljazeera.com/video/newsfeed/2026/11/16/trump-departs-for-asean-on-summit-with-xi-and-putin) that is happening.
+
+The case for measured optimism is narrower but real: on Ukraine, specifically, there is a scenario in which Trump's desire for a visible foreign policy "win" before he leaves office aligns with both Putin's interest in a frozen conflict and Xi's interest in stability — and in which the ASEAN margins produce an informal understanding that shapes subsequent ceasefire negotiations. That would be better than nothing. It would also be a deeply imperfect outcome for Ukraine, which would likely be asked to accept territorial losses in exchange for a peace that suits the great powers more than it suits Kyiv.
+
+## What to watch
+
+Watch the [specific agenda items](https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy) for the Xi bilateral — Taiwan, trade, and technology export controls are the three structuring issues, and any movement on any of them would be significant. Watch whether the Putin meeting produces any new Ukraine framework, however vague — even a joint statement about "creating conditions for dialogue" would signal something. And watch the reaction from Japan and South Korea, whose security commitments depend heavily on American credibility in the region and who will be reading every signal from the summit with acute attention.
+
+— J
